@@ -1,0 +1,1705 @@
+﻿A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+See also
+References
+866A
+15 kV AC
+2D computer graphics
+Abrasion (mechanical)
+AC adapter
+AC power plugs and sockets
+AC power
+AC/AC converter
+AC/DC receiver design
+AC/DC conversion
+Active rectification
+Actuator
+Adaptive control
+Adjustable-speed drive
+Advanced Z-transform
+Affinity law
+Agbioeletric
+AIEE
+Alloy
+Alpha–beta transformation
+Altair 8800
+Alternating current
+Alternator (auto)
+Alternator synchronization
+Alternator
+Altitude
+Aluminium smelting
+AIEE
+Ammeter
+Amorphous metal transformer
+Ampacity
+Ampere
+Ampère's circuital law
+Ampère's force law
+Ampère's law
+Amplidyne
+Amplifier
+Amplitude modulation
+Analog circuit
+Analog filter
+Analog signal processing
+Analog signal
+Analog-to-digital converter
+Annealing (metallurgy)
+Anode
+Antenna (radio)
+Apollo program
+Apparent power
+Apple Computer
+Arc converter
+Arc furnace
+Arc lamp
+Arc welder
+Argon
+Arithmetic mean
+Armature (electrical engineering)
+Artificial heart
+Artificial intelligence
+Artificial neural networks
+Asymptotic stability
+Asynchronous circuit
+Audio and video connector
+Audio equipment
+Audio filter
+Audio frequency
+Audio noise reduction
+Audio signal processing
+Audion tube
+Austin transformer
+Automatic gain control
+Automatic transfer switch
+Automation
+Autorecloser
+Autotransformer
+Availability factor
+Avalanche diode
+Average rectified value
+Backward wave oscillator
+Balanced line
+Ball bearing motor
+Balun
+Band-pass filter
+Band-stop filter
+Bandwidth (signal processing)
+Bang-bang control
+Barlow's wheel
+Bartlett's bisection theorem
+Base load power plant
+Battery (electricity)
+Battery eliminator
+Bayer filter
+Beam tetrode
+Beat frequency
+Bell Telephone Laboratories
+Biasing (electronics)
+BIBO stability
+Bilinear transform
+Bimetallic strip
+Biofuel
+Biomass
+Biomedical engineering
+Biot–Savart law
+Bipolar junction transistor
+Bipolar transistor
+Blocked rotor test
+Blu-ray Disc
+Bode plot
+Boolean algebra (logic)
+Boolean algebra (structure)
+Boost converter
+Booster (electric power)
+Bound charge
+Braking chopper
+Branch circuit
+Breakdown voltage
+Bridge rectifier
+Broadcasting
+Brush (electric)
+Brushed DC electric motor
+Brushless DC electric motor
+Buchholz relay
+Buck converter
+Buck–boost converter
+Buck–boost transformer
+Building codes
+Bulb
+Busbar
+Bushing (electrical)
+Butterworth filter
+Buzzer
+Cadmium
+Calculus
+Canadian electrical code
+Canadian Standards Association
+Capacitance
+Capacitor voltage transformer
+Capacitor
+Capacitor-input filter
+Capacitors
+Capacity factor
+Carbon offset
+Carrier current
+Carrier wave
+Category 3 cable
+Category 5e cable
+Category 5e
+Category 6 cable
+Catenary
+Cathode ray oscilloscope
+Cathode ray tube
+Cathode
+Cat's-whisker detector
+CATV
+Cavity magnetron
+magnetron
+CCFL inverter
+CD
+Cell energy
+Center tap
+Ceramic resonator
+Channel (communications)
+Charactron
+Charge pump
+Charge transfer switch
+Charge-coupled device
+Chebyshev filter
+Chemistry
+Choke (electronics)
+Chopper (electronic)
+Circle diagram
+Circuit breaker panel
+Circuit breaker
+Circuit theory
+Circuit Total Limitation (CTL)
+Clamp meter
+Clapp oscillator
+Class of accuracy in electrical measurements
+Closed-loop controller
+Coal
+Coax cable
+Coaxial cable
+Cochlear implant
+Cockcroft–Walton generator
+Cogeneration
+Cold cathode
+Cold work
+Colossus (computer)
+Combined cycle
+Commercial off-the-shelf
+Communication system
+Communications satellite
+Communications server
+Commutation cell
+Commutator (electric)
+Compact fluorescent lamp
+Compactron
+Compensation winding
+Complex conjugate
+Complex number
+Complex systems
+Computational biology
+Computational Intelligence
+Computed tomography
+Computer engineering
+Computer hardware
+Computer literacy
+Computer programming
+Computer science
+Computer system
+Computer
+Computer-aided design
+Computers
+Concentric
+Conduction band
+Constant k filter
+Constitutive equation
+Consumer electronics
+Contactor
+Continuous Fourier transform
+Continuous signal
+Control engineering
+Control systems
+Control theory
+Controllability
+Controller (control theory)
+Cooling tower
+Copper cable certification
+Copper loss
+Copper(I) oxide
+Copper
+Copper-clad aluminum
+Copper-clad steel
+Corona ring
+Corrosion
+Coulomb
+Coulomb's law
+CPU
+Creep (deformation)
+Crest factor
+Crossed-field amplifier
+Crosstalk
+Cruise control
+Crystal oscillator
+Ćuk converter
+Current (electricity)
+Current density
+Current division
+Current source inverter
+Current source
+Current transformer
+Current-to-voltage converter
+Cybernetics
+Cyber-physical system
+Cycloconverter
+Cylinder (geometry)
+Damping ratio
+Damping
+Darlington transistor
+Data compression
+Data networks
+DC injection braking
+DC-to-DC converter
+Decision tree
+Deformation (mechanics)
+Degaussing
+Delay line (disambiguation)
+Delta-wye transformer
+Demand factor
+Demand response
+Demodulation
+Describing function
+Design
+Desktop computer
+Detector (radio)
+DIAC
+Dielectric
+Differential (mathematics)
+Digital audio broadcasting
+Digital circuit
+Digital computers
+Digital control
+Digital filter
+Digital image processing
+Digital micromirror device
+Digital protective relay
+Digital signal controller
+Digital signal processing
+Digital television
+Digital-to-analog converter
+Diode bridge
+Diode
+Direct current
+Direct on line starter
+Direct torque control
+Discrete cosine transform
+Discrete Fourier transform
+Discrete signal
+Displacement current
+Display device
+Dissipation
+Dissolved gas analysis
+Distributed Control System
+Distributed element model
+Distributed generation
+Distribution board
+Distribution transformer
+Dolby
+Dot convention
+Doubly fed electric machine
+Downsampling
+Dqo transformation
+Droop speed control
+Dual control theory
+Dual loop
+Ductility
+DVD player
+DVD
+Dynamic braking
+Dynamic demand (electric power)
+Dynamic programming
+Dynamic random access memory
+Dynamic system
+Dynamo
+Earth leakage circuit breaker
+Eddy current
+Edge detection
+Edison effect
+Eigenvalues and eigenvectors
+Electret
+Electric arc
+Electric charge
+Electric circuit
+Electric current
+Electric displacement field
+Electric distribution systems
+Electric field gradient
+Electric field
+Electric generator
+Electric motor
+Electric multiple unit
+Electric potential
+Electric power conversion
+Electric power distribution
+Electric Power Research Institute
+Electric power transmission
+Electric power
+Electric shock
+Electrical cable
+Electrical circuit
+Electrical code
+Electrical conductivity
+Electrical conductor
+Electrical contact
+Electrical discharge machining (EDM)
+Electrical element
+Electrical engineering
+Electrical equipment
+Electrical generator
+Electrical grid
+Electrical impedance
+Electrical insulation paper
+Electrical insulation
+Electrical load
+Electrical machine
+Electrical measurements
+Electrical network
+Electrical polarity
+Electrical power transmission
+Electrical resistance
+Electrical steel
+Electrical substation
+Electrical Technologist
+Electrical wiring in Hong Kong
+Electrical wiring in North America
+Electrical wiring in the United Kingdom
+Electrical wiring regulations
+Electrical wiring
+Electricity distribution
+Electricity generation
+Electricity meter
+Electricity pylon
+Electricity
+Electrification
+Electroactive polymers
+Electrocardiograph
+Electrochemical engineering
+Electrodes
+Electro-diesel locomotive
+Electrodynamics
+Electrolytic
+Electromagnet
+Electromagnetic compatibility
+Electromagnetic field
+Electromagnetic induction
+Electromagnetic radiation
+Electromagnetic spectrum
+Electromagnetic wave equation
+Electromagnetism
+Electromechanical
+Electro-mechanical
+Electromote
+Electromotive force
+Electron microscope
+Electronic amplifier
+Electronic circuit
+Electronic component
+Electronic Control Unit
+Electronic design automation
+Electronic engineering
+Electronic filter
+Electronic speed control
+Electronics
+Electrophorus
+Electrostatic motor
+Electrostatics
+Embedded operating system
+Embedded software
+Embedded system
+Enameled wire
+Energy demand management
+Energy economics
+Energy efficient transformer
+Energy returned on energy invested
+Energy subsidies
+Engineering economics
+Engineering education
+Engineering ethics
+Engineering management
+Engineering society
+Engineering
+Engine-generator
+ENIAC
+Environmental engineering
+Epstein frame
+Equalization (audio)
+Equalization (communications)
+Equivalent circuit
+Equivalent impedance transforms
+Error correction and detection
+Error correction
+Error detection
+Ethernet
+Ethical code
+Euclidean geometry
+Euler–Lagrange equation
+Euler's formula
+Euler's identity
+Exponential stability
+Extended Kalman filter
+External electric load
+Farad
+Faraday shield
+Faraday–Lenz law
+Faraday's law of induction
+Fast Fourier Transform
+Fault (power engineering)
+Fax
+Feed forward (control)
+Feedback amplifier
+Feedback
+Feed-in tariff
+Ferrite core
+Ferroelectricity
+Fiber optic cable
+Fiber optic
+Field effect transistor
+Field-oriented control
+Fields of engineering
+Filter (signal processing)
+Filter capacitor
+Finite impulse response
+Firmware
+First principles
+Fleming valve
+Fleming's left-hand rule for motors
+Fluorescent lamp
+Flux linkage
+Flyback converter
+Flyback transformer
+Fokker–Planck equation
+Forward converter
+Fossil-fuel phase-out
+Fossil-fuel power station
+Fourier series
+Fourier transform
+Free space optical communications
+Frequency changer
+Frequency modulation
+Frequency response
+Frequency
+Full load current
+Full-wave rectifier
+Fuse (electrical)
+Fuzzy control
+Gain scheduling
+Galvanic corrosion
+Galvanometer
+Gas-filled tube
+Gate turn-off thyristor (GTO)
+Gauss's law
+Gauss-Seidel method
+Generator (circuit theory)
+Geothermal power
+Germanium
+Gigabit
+Global Positioning System
+Gold
+Governor (device)
+GPS
+Gradient descent
+Grid energy storage
+Grid-tie inverter
+Ground (electricity)
+Ground and neutral
+Ground-level power supply
+Growler (electrical device)
+GSM
+Gunn diode
+Gyrotron
+H infinity
+Hall effect sensor
+Harmonic distortion
+Harmonic oscillator
+Harmonic
+Harmonics (electrical power)
+H-bridge
+HDTV
+Headphone
+Heat transfer
+Heatsink
+Heaviside step function
+Helmholtz coil
+Henry (unit)
+Hertz
+Heterostructure
+Hi-Fi
+High-voltage cable
+High voltage
+High-pass filter
+High-voltage direct current
+High-voltage switchgear
+Hilbert transform
+Holography
+Home appliance
+Homopolar generator
+Homopolar motor
+Horsepower
+Hot wire barretter
+Hradec substation
+Humidistat
+HVAC
+HVDC converter station
+HVDC
+Hybrid coil
+Hybrid electric vehicle
+Hybrid Synergy Drive
+Hydroelectricity
+Hydrogen embrittlement
+Hydropower
+Hysteresis
+IEC61850
+IEEE Aerospace and Electronic Systems Society
+IEEE Antennas and Propagation Society
+IEEE Broadcast Technology Society
+IEEE Circuits and Systems Society
+IEEE Communications Society
+IEEE Dielectrics & Electrical Insulation Society
+IEEE Electromagnetic Compatibility Society
+IEEE Electron Devices Society
+IEEE Engineering in Medicine and Biology Society
+IEEE Geoscience and Remote Sensing Society
+IEEE Industrial Electronics Society
+IEEE Industry Applications Society
+IEEE Information Theory Society
+IEEE Instrumentation & Measurement Society
+IEEE Intelligent Transportation Systems Society
+IEEE Magnetics Society
+IEEE Microwave Theory and Techniques Society
+IEEE Nuclear and Plasma Sciences Society
+IEEE Oceanic Engineering Society
+IEEE Photonics Society
+IEEE Power & Energy Society
+IEEE Reliability Society
+IEEE Robotics and Automation Society
+IEEE Signal Processing Society
+IEEE Society on Social Implications of Technology
+IEEE Solid-State Circuits Society
+IEEE Systems, Man, and Cybernetics Society
+IEEE Ultrasonics, Ferroelectrics, and Frequency Control Society
+IEEE Vehicular Technology Society
+IEEE Xplore
+IGBT
+Image impedance
+Image noise reduction
+Image processing
+Impulse response
+Incandescent lamp
+Incandescent light bulb
+Inchworm motor
+Induction coil
+induction cooker
+Induction generator
+Induction motor
+Induction regulator
+Inductive coupling
+Inductive output tube
+Inductor
+Inductors
+Industrial and multiphase power plugs and sockets
+Industrial automation
+Infinite impulse response
+Information appliance
+Information communication technology
+Information Theory
+Information
+Input/output
+Inrush current
+Institute of Electrical and Electronics Engineers (IEEE)
+Institution of Electrical Engineers
+Institution of Engineering and Technology
+Instrumentation engineering
+Instrumentation
+Insulation monitoring device
+Insulator (electrical)
+Integrated circuit
+Integrated circuits
+Intel 4004
+Intel 8080
+Intelligent control
+Intelligent transportation system
+Intermittent energy source
+Internal combustion engine
+International Electrotechnical Commission (IEC)
+International Organization for Standardization
+Interrupter
+Inverter
+Iron loss
+Isolated-phase bus
+Isolation transformer
+Iterative learning control
+j operator
+Jacobi method
+Jedlik's dynamo
+JFET
+Joule heating
+Joule
+Kalman filter
+Kelvin–Stokes theorem
+Kilovolt-ampere
+Kirchhoff's circuit laws
+Klystron
+Kolmogorov backward equation
+Lacquer
+LAN
+Laplace transform
+Laser diode
+Leakage inductance
+Least squares
+Light-emitting diode
+Line integral
+Linear alternator
+linear differential equation
+Linear matrix inequality
+Linear motor
+Linear variable differential transformer
+linear
+Lineman (occupation)
+Litz wire
+Load flow study
+Load following power plant
+Load-loss factor
+Load management
+Load profile
+Local positioning system
+LORAN
+Lorentz force law
+Loss power
+Lossless data compression
+Lossy data compression
+Loudspeaker
+Low-noise amplifier
+Low-noise block downconverter
+Low-pass filter
+LTI system theory
+Lumen (unit)
+Lumped parameters
+Lyapunov stability
+Lynch motor
+Macroscopic
+Machine learning
+Magnet wire
+Magnet
+Magnetic blowout
+Magnetic circuit
+Magnetic constant
+Magnetic core memory
+Magnetic core
+Magnetic field
+Magnetic flux density
+Magnetic flux
+Magnetic moment
+Magnetics
+Magnetism
+Magnetization
+Magnetization current
+Magnetostatics
+Magnetostriction
+Magnifying transmitter
+Main distribution frame
+Mainframe computer
+Mains electricity
+Mains hum
+Mains power systems
+Manufacturing engineering
+Marginal stability
+Marine energy
+Marx generator
+Maser
+Mathematical model
+Mathematics
+Matrix (mathematics)
+Maximum prospective short-circuit current
+Maxwell equations
+Maxwell's equations
+Mean free path
+Measurement
+Mechanical rectifier
+Mechatronics
+Medical equipment
+Memistor
+Mendocino motor
+Mercury-arc rectifier
+Mercury-arc valve
+Mercury vapor lamp
+Mesh analysis
+Mesh networking
+Mesh
+Metadyne
+Metal detector
+Metal rectifier
+Metalworking
+Micro combined heat and power
+Microcontroller
+Microelectromechanical systems
+Microelectronics
+Microfabrication
+Microgeneration
+Microphone
+Microprocessor
+Microwave oven
+Microwave radio
+Microwave
+Millman's theorem
+Mineral-insulated copper-clad cable
+Mobile phone
+Modbus
+Model predictive control
+Modem
+Modulation transformer
+Modulation
+Monoscope
+Moore's law
+Morse code
+MOSFET
+Motion control
+Motor controller
+Motor soft starter
+Mp3
+MRI
+Multics
+Multimeter
+Multisim
+Nameplate capacity
+Nanoengineering
+Nanoinverter
+Nanomotor
+Nanotechnology
+National electric code
+National Electrical Manufacturers Association (NEMA)
+Natural gas
+Negative feedback
+Negative resistance
+Negawatt power
+Nelson River Bipole
+Neodymium magnets
+Neon sign
+Neon-sign transformer
+Net metering
+Network analyzer (AC power)
+Network cable
+Network protector
+Neural networks
+Nodal analysis
+Node (circuits)
+Noise cancelling
+Noise reduction
+Nominal impedance
+Nonlinear control
+Nonode
+Norton theorem
+Norton's theorem
+Notch filter
+NTSC
+Nuclear power
+Numerical control
+Nuvistor
+Nyquist frequency
+Nyquist stability criterion
+Nyquist–Shannon sampling theorem
+Observability
+Oersted
+Ohm
+Ohmmeter
+Ohm's law
+Oil shale
+One-line diagram
+On-premises wiring
+Open-circuit test
+Open circuit voltage
+Open-circuit time constant method
+Open-circuit voltage
+Operational amplifier
+Optical fiber
+Optimal control
+Oscillation
+Oscilloscope
+Oudin coil
+Out of phase
+Overhead line
+Oversampling
+Overshoot (signal)
+Overvoltage
+Oxidation
+Oxygen
+Oxygen-free copper
+Pad-mount transformer
+Padmount transformer
+Pantograph (rail)
+Paraformer
+Paraformer
+Parameter estimation
+Park transform
+Park's transformation
+Partial discharge
+Passivity (engineering)
+Patch cables
+Peak demand
+Pearl Street Station
+Peltier–Seebeck effect
+Pentagrid converter
+Pentode
+Permanent magnet synchronous generator
+Permanent magnet
+Permeability (electromagnetism)
+Personal computer
+Personal digital assistant
+Perturbation theory
+Petroleum
+pH meter
+Phase (waves)
+Phase angle
+Phase converter
+Phase-fired controllers
+Phase locked loop
+Phase modulation
+Phasor (electronics)
+Phasor measurement unit
+Phasor
+Phonograph
+Photocell
+Photodetector
+Photodiode
+Photometer
+Photonics
+Photoresistor
+Phototransistor
+Physics
+Physis
+PID controller
+Piezoelectric effect
+Piezoelectric motor
+Pigovian tax
+PIN diode
+Planar graph
+Plasma (physics)
+Plenum cable
+Plug-in hybrid
+P-N junction
+Polarization density
+Polyethylene
+Polymer
+Polyphase coil
+Polyphase system
+Polypropylene
+Polytetrafluoroethylene
+Pontryagin's minimum principle
+Port (circuit theory)
+Positive feedback
+Potential difference
+Potentiometer
+Power
+Power BJT
+Power cable
+Power conditioner
+Power consumption
+Power converter
+Power distribution
+Power electronics
+Power engineering
+Power-factor correction
+Power factor
+Power-flow study
+Power generation
+Power grid
+Power inverter
+Power inverter
+Power-line carrier communication
+Power-line communication
+Power MOSFET
+Power plant
+Power rating
+Power quality
+Power station
+Power storage
+Power supplies
+Power-system automation
+Power-system protection
+Precious metal
+Pressure
+Printed circuit board
+Printer (computing)
+Process control
+Product lifecycle management
+Product safety
+Professional communication
+Professional engineer
+Programmable logic controller
+Programming language
+Project management
+Projection (mathematics)
+Protective relay
+Proximity effect (electromagnetism)
+Pulse transformer
+Pulse-width modulation
+Pulse-amplitude modulation (PAM)
+Pulse-code modulation
+Pumped-storage hydroelectricity
+Push switch
+Push–pull converter
+Quadrature booster
+Qualitative data
+Quality
+Quality control
+Quality factor
+Quantity
+Quantization
+Radar cross section
+Radar
+Radio frequency
+Radio transmitter
+Radio
+Railroad
+Railway electrification system
+Rankine cycle
+Rapid transit
+Reactive power
+Real-time operating system
+Receiver (radio)
+Rechargeable battery
+Reciprocity (electromagnetism)
+Record player
+Rectifier
+Rectiformer
+Recursive least squares
+Reed switch
+Regenerative braking
+Regenerative circuit
+Relaxation oscillator
+Relay
+Reliability engineering
+Reluctance motor
+Remanence
+Remote racking system
+Remote Sensing
+Renewable electricity
+Renewable Energy Certificates
+Renewable energy payments
+Renewable energy policy
+Repeating coil
+Repowering
+Repulsion motor
+Resettable fuse
+Residual current circuit breaker
+Resistive circuit
+Resistivity
+Resistor
+Resolver (electrical)
+Resonant cavity
+Resonant inductive coupling
+Reverse engineering
+RF connector
+RF engineering
+RG-6
+Rheoscope
+Rheostat
+Right hand grip rule
+Ripple (electrical)
+RLC circuit
+Robotics
+Robust control
+Rogowski coil
+Root locus
+Root mean square
+Rotary converter
+Rotary encoder
+Rotary switch
+Rotary transformer
+Rotary variable differential transformer
+Rotation (mathematics)
+Rotor (electric)
+Routh–Hurwitz stability criterion
+Routh–Hurwitz theorem
+Sallen–Key filter
+Sample and hold
+Sampling (information theory)
+Sampling frequency
+Satellite radio
+Satellite
+Saturation (magnetic)
+SCADA
+Schmitt trigger
+Schottky diode
+Scott-T transformer
+s-domain
+SDTV
+Segmentation (image processing)
+Selenium rectifiers
+Selenium
+Semiconductor device
+Semiconductor fabrication
+Semiconductor
+Sensor
+Serial communication
+Series and parallel circuits
+SETI
+Shaded-pole motor
+Shaft voltage
+Shielded twisted pair
+Short-circuit test
+Short circuit
+Shunt (electrical)
+SI
+Siemens (unit)
+Signal (electrical engineering)
+Signal (information theory)
+Signal noise
+Signal processing
+Signal strength
+Signal-flow graph
+Signal-to-noise ratio
+Silicon controlled rectifier
+Silicon Valley
+Silicon
+Silver
+Sine wave
+Single-phase electric power
+Single-phase
+Single-sideband modulation
+Skin effect
+Sliding mode control
+Slip ring
+Small signal model
+Smart grid
+Smith chart
+Software engineering
+Software
+Solar cell
+Solar energy
+Solar micro-inverter
+Solar power
+Soldering
+Solenoid
+Solid state (electronics)
+Solid state physics
+Solid-state circuit
+Sound recording
+Space flight
+Space vector modulation
+Spark spread
+Spark-gap transmitter
+Spectrum analyzer
+Speech processing
+SPICE
+Split phase
+Square wave
+Stability theory
+Stable polynomial
+Stacking factor
+Star-mesh transform
+State observer
+State space representation
+Static VAR compensator
+Stator
+Steady-state
+Steam turbine
+Steel
+Step response
+Stepper motor
+Stereophonic sound
+Stokes' theorem
+Storage tube
+Stray capacitance
+Structure gauge
+Structured cabling
+Submarine communications cable
+Sulfur hexafluoride circuit breaker
+Sulfur hexafluoride
+Super grid
+Supercomputer
+Superconducting electric machine
+Superconductivity
+Superfluid
+Superheterodyne receiver
+Superposition theorem
+Surge arrester
+Surge protection
+Switch
+Switched reluctance motor
+Switched-mode power supply
+Switchgear
+Symbolic circuit analysis
+Symmetrical components
+Synchro
+Synchronization (alternating current)
+Synchronous circuit
+Synchronous motor
+Synchronous rectification
+Synchroscope
+Syncom
+System identification
+System on a chip
+System on module
+Systems analysis
+Tachometer
+Tap (transformer)
+Tap changer
+Taylor series
+Technical drawing
+Technology
+Telecommunication
+Telecommunications cable
+Telecommunications engineering
+Telecommunications Industry Association
+Telecommunications
+Telegraph
+Telephone balance unit
+Telephone line
+Telephone
+Television
+Tellegen's theorem
+Temperature
+Tensile strength
+Tensile stress
+Tesla (unit)
+Tesla coil
+Tetrode
+Thermal conductivity
+Thermal expansion
+Thermionic emission
+Thermistor
+Thermocouple
+Thermodynamic efficiency
+Thermodynamics
+Thermoelectric effect
+Thermostat
+Thévenin theorem
+Third rail
+Three-phase AC railway electrification
+Three-phase electric power
+Three-phase power
+Three-phase
+Thyristor drive
+Thyristor
+Tidal power
+Time sharing
+Time-invariant system
+Tin
+Topology (electrical circuits)
+Toroidal inductors and transformers
+Torque
+Total harmonic distortion (THD)
+Traction battery
+Traction current
+Traction motor
+Traction substation
+Transatlantic communications cable
+Transatlantic telegraph cable
+Transceiver
+Transducers
+Transfer function
+Transformer oil testing
+Transformer oil
+Transformer types
+Transformer
+Transformerboard
+Transient response
+Transils
+Transistor
+Transmission (telecommunications)
+Transmission line
+Transmission system operator
+Transmission tower
+Transmitter
+Traveling-wave tube
+Trembler coil
+TRIAC
+Triangle wave
+Trigger transformer
+Triode
+Trolley pole
+Trolleybus
+Tuned circuit
+Twisted pair
+Two-phase electric power
+Two-port network
+Two-sided Laplace transform
+Tyco Electronics
+Ubiquitous computing
+Ultrasonic motor
+Ultrasonics
+Undersampling
+Unijunction transistor
+Unipolar motor
+Unix
+Unshielded twisted pair
+Upsampling
+Utility frequency
+Utility pole
+Vacuum capacitor
+Vacuum tube
+Variable capacitor
+Variable-frequency drive
+Variac
+Varicap
+Variety (cybernetics)
+Varistor
+Varnish
+Vector (geometric)
+Vector calculus
+Vector control (motor)
+Vector group
+Vehicle-to-grid
+Vehicular automation
+Velcro
+Versorium
+Vibrator (electronic)
+Video camera tube
+Video game console
+Video processing
+Virtual instrumentation
+Virtual power plant
+VLSI
+Volt
+Voltage compensation
+Voltage-controlled amplifier
+Voltage controller
+Voltage converter
+Voltage division
+Voltage doubler
+Voltage regulation
+Voltage regulator
+Voltage source
+Voltage spike
+Voltage
+Voltage-to-current converter
+Volt-ampere
+Voltmeter
+Volumetric flow rate
+War of Currents
+Ward Leonard control
+Watt
+Wattmeter
+Waveguide (electromagnetism)
+Waveguide
+Weber
+Welding
+Wet Transformer
+Whole-life cost
+Wiener filter
+Wiener process
+Williams tube
+Wind farm
+Wind power
+Wind speed
+Wind turbine
+Wire
+Wireless network
+Wireless telegraphy
+X-ray
+Yagi antenna
+Y-delta transform
+Z3 (computer)
+z80
+Zener diode
+Zigzag transformer
+Zilog
+Z-transform
+Electrical engineering
+Electronic engineering
+Glossary of engineering
+Glossary of civil engineering
+Glossary of mechanical engineering
+Glossary of structural engineering
+National Council of Examiners for Engineering and Surveying
+Fundamentals of Engineering Examination
+Principles and Practice of Engineering Examination
+Graduate Aptitude Test in Engineering
+v
+t
+e
+Architectural
+Construction
+Environmental
+Earthquake
+Geotechnical
+Hydraulic
+Mining
+Structural
+Transportation
+Acoustical
+Aerospace
+Automotive
+Marine
+Mechatronics
+Railway
+Computer
+Control
+Electromechanics
+Electronics
+Microwaves
+Power
+Radio Frequency
+Telecommunications
+Biochemical
+Biological
+Molecular
+Petroleum
+Process
+Reaction
+Thermodynamics
+Transport phenomena
+Audio
+Biomedical
+Ceramics
+Engineering mathematics
+Engineering mechanics
+Engineering science
+Fire
+Industrial
+Materials science
+Metallurgy
+Military
+Nanotechnology
+Nuclear
+Optical
+Photonics
+Privacy
+Robotics
+Security
+Systems
+List of engineering branches
+Category:Engineering
+None
+v
+t
+e
+Outline of technology
+Outline of applied science
+Agricultural engineering
+Aquaculture
+Fisheries science
+Food chemistry
+Food engineering
+Food microbiology
+Food technology
+GURT
+ICT
+Nutrition
+Bioinformatics
+Biological engineering
+Biomechatronics
+Biomedical engineering
+Biotechnology
+Cheminformatics
+Genetic engineering
+Healthcare science
+Medical research
+Medical technology
+Nanomedicine
+Neuroscience
+Neurotechnology
+Pharmacology
+Reproductive technology
+Tissue engineering
+Acoustical engineering
+Architectural engineering
+Building services engineering
+Civil engineering
+Construction engineering
+Domestic technology
+Facade engineering
+Fire protection engineering
+Safety engineering
+Sanitary engineering
+Structural engineering
+Educational software
+Digital technologies in education
+ICT in education
+Impact
+Multimedia learning
+Virtual campus
+Virtual education
+Nuclear engineering
+Nuclear technology
+Petroleum engineering
+Soft energy technology
+Clean technology
+Clean coal technology
+Ecological design
+Ecological engineering
+Ecotechnology
+Environmental engineering
+Environmental engineering science
+Green building
+Green nanotechnology
+Landscape engineering
+Renewable energy
+Sustainable design
+Sustainable engineering
+Automation
+Business informatics
+Engineering management
+Enterprise engineering
+Financial engineering
+Industrial biotechnology
+Industrial engineering
+Metallurgy
+Mining engineering
+Productivity improving technologies
+Research and development
+Tribology
+Artificial intelligence
+Broadcast engineering
+Computer engineering
+Computer science
+Financial technology
+Information technology
+Music technology
+Ontology engineering
+RF engineering
+Software engineering
+Telecommunications engineering
+Visual technology
+Web engineering
+Army engineering maintenance
+Electronic warfare
+Military communications
+Military engineering
+Stealth technology
+Aerospace engineering
+Automotive engineering
+Naval architecture
+Space technology
+Traffic engineering
+Transport engineering
+Cryogenics
+Electro-optics
+Electronics
+Engineering geology
+Engineering physics
+Hydraulics
+Materials science
+Microfabrication
+Nanoengineering
+Audio
+Biochemical
+Ceramic
+Chemical
+Polymer
+Control
+Electrical
+Electronic
+Entertainment
+Geotechnical
+Hydraulic
+Mechanical
+Mechatronics
+Optical
+Protein
+Quantum
+Robotics
+Animatronics
+Systems
+Infrastructure
+Invention
+Timeline
+Knowledge
+Machine
+Skill
+Craft
+Tool
+Gadget
+Femtotechnology
+Picotechnology
+Nanotechnology
+Microtechnology
+Macro-engineering
+Megascale engineering
+Prehistoric technology
+Neolithic Revolution
+Ancient technology
+Medieval technology
+Renaissance technology
+Industrial Revolution
+Second
+Atomic Age
+Jet Age
+Space Age
+Digital Revolution
+Information Age
+Appropriate technology
+Collingridge dilemma
+Critique of technology
+Diffusion of innovations
+Disruptive innovation
+Dual-use technology
+Ephemeralization
+High tech
+Hype cycle
+Low-technology
+Mature technology
+Strategy of Technology
+Techno-progressivism
+Technocapitalism
+Technocentrism
+Technocracy
+Technocriticism
+Technoculture
+Technoethics
+Technoetic
+Technogaianism
+Technoliberalism
+Technolibertarianism
+Technological alliance
+Technological apartheid
+Technological change
+Technological convergence
+Technological determinism
+Technological escalation
+Technological evolution
+Technological fix
+Technological innovation system
+Technological momentum
+Technological nationalism
+Technological paradigm
+Technological rationality
+Technological revival
+Technological revolution
+Technological self-efficacy
+Technological singularity
+Singularitarianism
+Technological somnambulism
+Technological transitions
+Technological unemployment
+Technological utopianism
+Technology lifecycle
+Technology acceptance model
+Technology adoption lifecycle
+Technomancy
+Technopaganism
+Technorealism
+Technoromanticism
+Technoscience
+feminist
+Transhumanism
+Emerging technologies
+List
+Fictional technology
+High-technology business districts
+Kardashev scale
+List of technologies
+Philosophy of technology
+Ethics of technology
+Science, technology and society
+Technology dynamics
+Science and technology by country
+STEM fields
+Pre-STEM
+women
+STEAM fields
+Technology alignment
+Technology assessment
+Technology brokering
+Technology companies
+Technology demonstration
+Technology education
+Technical universities and colleges
+Technology evangelist
+Technology fusion
+Technology governance
+Technology integration
+Technology journalism
+Technology management
+Technology museum
+Technology policy
+Technology shock
+Technology strategy
+Technology and society
+Technology transfer
+Technophilia
+Technophobia
+Technoself
+Technosexual
+Technosignature
+Technostress
+Terotechnology
+Book
+Category
+Portal
+Electrical engineering
+Electronic engineering
+Glossaries of science
+Engineering
+Wikipedia glossaries
+Talk
+Contributions
+Create account
+Log in
+Article
+Talk
+Read
+Edit
+View history
+Main page
+Contents
+Featured content
+Current events
+Random article
+Donate to Wikipedia
+Wikipedia store
+Help
+About Wikipedia
+Community portal
+Recent changes
+Contact page
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Wikidata item
+Cite this page
+Create a book
+Download as PDF
+Printable version
+Italiano
+Creative Commons Attribution-ShareAlike License
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+None
+None

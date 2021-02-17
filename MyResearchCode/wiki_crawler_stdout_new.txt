@@ -1,0 +1,318 @@
+Activities of daily living
+Adverse drug reaction
+Adverse effect
+Adverse event
+Adverse reaction
+Advocacy
+Animal model
+Animal study
+Approved drugs
+Arm
+Audit
+Audit report
+Audit trail
+Baseline
+Bayesian
+Best practice
+Bias
+Bioavailable
+Bioinformatics
+Biological drug
+Biometrics
+Biometry
+Biostatistics
+Blind
+Blinded study
+Case report
+Case report form
+Case series
+Case-control study
+Clinical
+Clinical investigator
+Clinical practice guidelines
+Clinical researcher
+Clinical series
+Clinical study
+Clinician
+Cohort (statistics)
+Cohort study
+Community-based clinical trial
+Comparator
+Compassionate use
+Compassionate use trial
+Complementary and alternative therapy
+Compliance
+Confidentiality
+Consecutive case series
+Content validity
+Contract
+Contract Research Organization
+Contraindication
+Control
+Control group
+Controlled clinical trial
+Controlled trials
+Data and Safety Monitoring Board
+Diagnostic
+Documentation
+Dose
+Dose-dependent
+Dose-ranging study
+Double-blind study
+Dropout
+Drug
+Drug–drug interaction
+Efficacy
+Empirical
+Endpoint
+Epidemiology
+Expanded access
+Expanded access trial
+Experimental
+Experimental drug
+Food and Drug Administration
+Frequentist methods
+Good clinical practice
+Historic cohort study
+Human subject
+Hypothesis
+In vitro
+In vivo
+Incidence
+Indication
+Informed consent
+Inspection
+Institution
+Institutional Review Board
+Interaction
+Inter-rater reliability
+Interim analysis
+Intra-rater reliability
+Investigational drug
+Investigational New Drug
+Investigator
+Investigator's Brochure
+Levels of evidence
+Masked
+Medication
+Medicine
+Meta-analysis
+Monitoring
+National Institutes of Health
+Natural history study
+New Drug Application
+Nonconsecutive case series
+Observation
+Observational study
+Off-label
+Open label study
+Orphan drugs
+Outcome
+Outpatient
+Over-the-counter drug
+Patient advocate
+Peer review
+Pharmacokinetics
+Phase I trial
+Phase II trial
+Phase III trial
+Phase IV trial
+Pilot study
+Placebo
+Placebo controlled study
+Placebo effect
+Population study
+Preclinical
+Prevention
+Prospective cohort study
+Clinical trial protocol
+Quality Assurance
+Quality of life
+Randomization
+Randomized clinical trial
+Recruiting
+Regimen
+Retrospective
+Retrospective cohort study
+Risk-benefit ratio
+Selection bias
+Side effect
+Significant
+Single blind study
+Sponsor
+Standard treatment
+Standards of care
+Standard Operating Procedures
+Statistical significance
+Study endpoint
+Toxicity
+Treatment IND
+t-test
+21CFR50.3
+21CFR312.3
+ICH
+ICH
+NCI
+NLM
+Category
+Glossary
+List of topics
+Activities of daily living
+Adverse drug reaction
+Adverse effect
+Adverse event
+Adverse reaction
+Advocacy
+Animal model
+Animal study
+Approved drugs
+Arm
+Audit
+Audit report
+Audit trail
+Baseline
+Bayesian
+Best practice
+Bias
+Bioavailable
+Bioinformatics
+Biological drug
+Biometrics
+Biometry
+Biostatistics
+Blind
+Blinded study
+Case report
+Case report form
+Case series
+Case-control study
+Clinical
+Clinical investigator
+Clinical practice guidelines
+Clinical researcher
+Clinical series
+Clinical study
+Clinician
+Cohort (statistics)
+Cohort study
+Community-based clinical trial
+Comparator
+Compassionate use
+Compassionate use trial
+Complementary and alternative therapy
+Compliance
+Confidentiality
+Consecutive case series
+Content validity
+Contract
+Contract Research Organization
+Contraindication
+Control
+Control group
+Controlled clinical trial
+Controlled trials
+Data and Safety Monitoring Board
+Diagnostic
+Documentation
+Dose
+Dose-dependent
+Dose-ranging study
+Double-blind study
+Dropout
+Drug
+Drug–drug interaction
+Efficacy
+Empirical
+Endpoint
+Epidemiology
+Expanded access
+Expanded access trial
+Experimental
+Experimental drug
+Food and Drug Administration
+Frequentist methods
+Good clinical practice
+Historic cohort study
+Human subject
+Hypothesis
+In vitro
+In vivo
+Incidence
+Indication
+Informed consent
+Inspection
+Institution
+Institutional Review Board
+Interaction
+Inter-rater reliability
+Interim analysis
+Intra-rater reliability
+Investigational drug
+Investigational New Drug
+Investigator
+Investigator's Brochure
+Levels of evidence
+Masked
+Medication
+Medicine
+Meta-analysis
+Monitoring
+National Institutes of Health
+Natural history study
+New Drug Application
+Nonconsecutive case series
+Observation
+Observational study
+Off-label
+Open label study
+Orphan drugs
+Outcome
+Outpatient
+Over-the-counter drug
+Patient advocate
+Peer review
+Pharmacokinetics
+Phase I trial
+Phase II trial
+Phase III trial
+Phase IV trial
+Pilot study
+Placebo
+Placebo controlled study
+Placebo effect
+Population study
+Preclinical
+Prevention
+Prospective cohort study
+Clinical trial protocol
+Quality Assurance
+Quality of life
+Randomization
+Randomized clinical trial
+Recruiting
+Regimen
+Retrospective
+Retrospective cohort study
+Risk-benefit ratio
+Selection bias
+Side effect
+Significant
+Single blind study
+Sponsor
+Standard treatment
+Standards of care
+Standard Operating Procedures
+Statistical significance
+Study endpoint
+Toxicity
+Treatment IND
+t-test
+21CFR50.3
+21CFR312.3
+ICH
+ICH
+NCI
+NLM
+Category
+Glossary
+List of topics

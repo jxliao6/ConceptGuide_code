@@ -1,0 +1,405 @@
+﻿Introduction
+Glossary
+History
+Classical mechanics
+Old quantum theory
+Bra–ket notation
+Hamiltonian
+Interference
+Complementarity
+Decoherence
+Entanglement
+Energy level
+Measurement
+Nonlocality
+Quantum number
+State
+Superposition
+Symmetry
+Tunnelling
+Uncertainty
+Wave function
+Afshar
+Bell's inequality
+Davisson–Germer
+Double-slit
+Elitzur–Vaidman
+Franck–Hertz
+Leggett–Garg inequality
+Mach–Zehnder
+Popper
+Quantum eraser
+Schrödinger's cat
+Stern–Gerlach
+Wheeler's delayed-choice
+Overview
+Heisenberg
+Interaction
+Matrix
+Phase-space
+Schrödinger
+Sum-over-histories (path integral)
+Dirac
+Klein–Gordon
+Pauli
+Rydberg
+Schrödinger
+Overview
+Consistent histories
+Copenhagen
+de Broglie–Bohm
+Ensemble
+Hidden-variable
+Many-worlds
+Objective collapse
+Bayesian
+Quantum logic
+Relational
+Stochastic
+Scale relativity
+Transactional
+Relativistic quantum mechanics
+Quantum field theory
+Quantum information science
+Quantum computing
+Quantum chaos
+Density matrix
+Fractional quantum mechanics
+Scattering theory
+Quantum statistical mechanics
+Quantum machine learning
+Aharonov
+Bell
+Blackett
+Bloch
+Bohm
+Bohr
+Born
+Bose
+de Broglie
+Candlin
+Compton
+Dirac
+Davisson
+Debye
+Ehrenfest
+Einstein
+Everett
+Fock
+Fermi
+Feynman
+Glauber
+Gutzwiller
+Heisenberg
+Hilbert
+Jordan
+Kramers
+Pauli
+Lamb
+Landau
+Laue
+Moseley
+Millikan
+Onnes
+Planck
+Rabi
+Raman
+Rydberg
+Schrödinger
+Sommerfeld
+von Neumann
+Weyl
+Wien
+Wigner
+Zeeman
+Zeilinger
+v
+t
+e
+Schrödinger picture
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+covariant vector
+Mathematical formulations of quantum mechanics
+List of mathematical topics in quantum theory
+List of quantum-mechanical potentials
+Introduction to quantum mechanics
+^
+^
+Griffiths, David J.
+Griffiths, David J.
+Liboff, Richard L.
+ISBN
+ISBN
+Sakurai, J. J.
+Sakurai, J. J.
+ISBN
+ISBN
+v
+t
+e
+Introduction
+History
+timeline
+Classical mechanics
+Old quantum theory
+Glossary
+Bra–ket notation
+Complementarity
+Density matrix
+Energy level
+ground state
+excited state
+degenerate levels
+zero-point energy
+Entanglement
+Hamiltonian
+Interference
+Decoherence
+Measurement
+Nonlocality
+Quantum state
+Superposition
+Tunnelling
+Scattering theory
+Symmetry in quantum mechanics
+Uncertainty
+Wave function
+collapse
+wave–particle duality
+Formulations
+Heisenberg
+Interaction
+Matrix mechanics
+Schrödinger
+Path integral formulation
+Phase space
+Dirac
+Klein–Gordon
+Pauli
+Rydberg
+Schrödinger
+Interpretations
+Bayesian
+Consistent histories
+Copenhagen
+de Broglie–Bohm
+Ensemble
+Hidden variables
+Many-worlds
+Objective collapse
+Quantum logic
+Relational
+Stochastic
+Transactional
+Cosmological
+Afshar
+Bell's inequality
+Cold Atom Laboratory
+Davisson–Germer
+Delayed choice quantum eraser
+Double-slit
+Franck–Hertz experiment
+Leggett–Garg inequality
+Mach-Zehnder inter.
+Elitzur–Vaidman
+Popper
+Quantum eraser
+Schrödinger's cat
+Stern–Gerlach
+Wheeler's delayed choice
+Quantum bayesianism
+Quantum biology
+Quantum calculus
+Quantum chemistry
+Quantum chaos
+Quantum cognition
+Quantum cosmology
+Quantum differential calculus
+Quantum dynamics
+Quantum evolution
+Quantum geometry
+Quantum group
+Quantum measurement problem
+Quantum mind
+Quantum probability
+Quantum stochastic calculus
+Quantum spacetime
+Quantum algorithms
+Quantum amplifier
+Quantum bus
+Quantum cellular automata
+Quantum finite automata
+Quantum channel
+Quantum circuit
+Quantum complexity theory
+Quantum computing
+Timeline
+Quantum cryptography
+Quantum electronics
+Quantum error correction
+Quantum imaging
+Quantum image processing
+Quantum information
+Quantum key distribution
+Quantum logic
+Quantum logic gates
+Quantum machine
+Quantum machine learning
+Quantum metamaterial
+Quantum metrology
+Quantum network
+Quantum neural network
+Quantum optics
+Quantum programming
+Quantum sensing
+Quantum simulator
+Quantum teleportation
+Quantum statistical mechanics
+Relativistic quantum mechanics
+Quantum field theory
+history
+Quantum gravity
+Fractional quantum mechanics
+Category
+Portal:Physics
+Commons
+Glossaries of science
+Quantum mechanics
+Articles to be expanded from May 2011
+CS1 maint: Multiple names: authors list
+CS1 maint: Extra text: authors list
+Talk
+Contributions
+Create account
+Log in
+Article
+Talk
+Read
+Edit
+View history
+Main page
+Contents
+Featured content
+Current events
+Random article
+Donate to Wikipedia
+Wikipedia store
+Help
+About Wikipedia
+Community portal
+Recent changes
+Contact page
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Wikidata item
+Cite this page
+Create a book
+Download as PDF
+Printable version
+ਪੰਜਾਬੀ
+Creative Commons Attribution-ShareAlike License
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+None
+None
+a complete set of wave functions
+bra
+Bra–ket notation
+Density matrix
+Density operator
+Dirac notation
+Hilbert space
+Ket
+Mixed state
+Normalizable wave function
+Normalized wave function
+Pure state
+Quantum numbers
+Spin wave function
+Spinor
+Spatial wave function
+State
+State vector
+Statistical ensemble
+System
+Tensor product
+Total wave function of a particle
+Wave function
+Degeneracy
+Degenerate energy level
+Energy spectrum
+Hamiltonian
+Schrödinger equation
+Time-Independent Schrödinger Equation (TISE)
+Bound state
+Position representation and momentum representation
+Probability amplitude
+Probability current
+Probability density
+Scattering state
+Square-integrable
+Stationary state
+Born's rule
+Collapse
+Eigenstates
+Expectation value
+Hermitian operator
+Observable
+Exchange
+Intrinsically identical particles
+Indistinguishable particles
+Bosons
+Fermions
+Anti-symmetrization
+Symmetrization
+Pauli exclusion principle
+Bose–Einstein distribution
+Bose–Einstein condensation
+Bose–Einstein condensation state (BEC state)
+Fermi energy
+Fermi–Dirac distribution
+Slater determinant
+Entanglement
+Bell's inequality
+Entangled state
+separable state
+no cloning theorem
+Spin
+angular momentum
+Clebsch–Gordan coefficients
+singlet state
+adiabatic approximation
+Born–Oppenheimer approximation
+WKB approximation
+time-dependent perturbation theory
+time-independent perturbation theory
+Ehrenfest theorem
+first quantization
+wave–particle duality
+uncertainty principle
+Canonical commutation relations
+Path integral
+wavenumber

@@ -1,0 +1,6 @@
+mathematics.txt
+scientific naming.txt
+tropical cyclone terms.txt
+geography terms.txt
+calculus.txt
+.DS_Store

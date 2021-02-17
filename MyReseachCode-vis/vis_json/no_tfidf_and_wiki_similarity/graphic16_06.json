@@ -1,0 +1,4389 @@
+{
+    "concept_relationship": {
+        "links": [
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 0,
+                "target": 0
+            },
+            {
+                "prerequisite": 0.6613277663406127,
+                "similarity": 1.0,
+                "source": 1,
+                "target": 0
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.5773502691896258,
+                "source": 0,
+                "target": 2
+            },
+            {
+                "prerequisite": 1.0014621464229454,
+                "similarity": 0.7071067811865475,
+                "source": 3,
+                "target": 0
+            },
+            {
+                "prerequisite": 0.31798285032370843,
+                "similarity": 1.0,
+                "source": 4,
+                "target": 0
+            },
+            {
+                "prerequisite": 0.8070871688184371,
+                "similarity": 0.7071067811865475,
+                "source": 5,
+                "target": 0
+            },
+            {
+                "prerequisite": 0.3497200350554315,
+                "similarity": 1.0,
+                "source": 0,
+                "target": 6
+            },
+            {
+                "prerequisite": 0.8525811020497793,
+                "similarity": 0.7071067811865475,
+                "source": 7,
+                "target": 0
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 0,
+                "target": 8
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 0,
+                "target": 9
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 0,
+                "target": 10
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 0,
+                "target": 11
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 0,
+                "target": 12
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 0,
+                "target": 13
+            },
+            {
+                "prerequisite": 0.3172225628416362,
+                "similarity": 1.0,
+                "source": 14,
+                "target": 0
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 0,
+                "target": 15
+            },
+            {
+                "prerequisite": 0.08477812770362014,
+                "similarity": 1.0,
+                "source": 0,
+                "target": 16
+            },
+            {
+                "prerequisite": 0.18054892405078687,
+                "similarity": 1.0,
+                "source": 17,
+                "target": 0
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 0,
+                "target": 18
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 0,
+                "target": 19
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 0,
+                "target": 20
+            },
+            {
+                "prerequisite": 0.3806233488118208,
+                "similarity": 1.0,
+                "source": 21,
+                "target": 0
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 0,
+                "target": 22
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 0,
+                "target": 23
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 1,
+                "target": 0
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 1,
+                "target": 1
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.5773502691896258,
+                "source": 1,
+                "target": 2
+            },
+            {
+                "prerequisite": 0.10597008768631588,
+                "similarity": 0.7071067811865475,
+                "source": 1,
+                "target": 3
+            },
+            {
+                "prerequisite": 0.5643089198113559,
+                "similarity": 1.0,
+                "source": 1,
+                "target": 4
+            },
+            {
+                "prerequisite": 0.2120316287979067,
+                "similarity": 0.7071067811865475,
+                "source": 1,
+                "target": 5
+            },
+            {
+                "prerequisite": 0.7155986568820463,
+                "similarity": 1.0,
+                "source": 1,
+                "target": 6
+            },
+            {
+                "prerequisite": 0.22456335046364095,
+                "similarity": 0.7071067811865475,
+                "source": 1,
+                "target": 7
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 1,
+                "target": 8
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 1,
+                "target": 9
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 1,
+                "target": 10
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 1,
+                "target": 11
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 1,
+                "target": 12
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 1,
+                "target": 13
+            },
+            {
+                "prerequisite": 0.3138023200203459,
+                "similarity": 1.0,
+                "source": 1,
+                "target": 14
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 1,
+                "target": 15
+            },
+            {
+                "prerequisite": 0.8593783346014688,
+                "similarity": 1.0,
+                "source": 1,
+                "target": 16
+            },
+            {
+                "prerequisite": 0.7742569153637431,
+                "similarity": 1.0,
+                "source": 1,
+                "target": 17
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 1,
+                "target": 18
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 1,
+                "target": 19
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 1,
+                "target": 20
+            },
+            {
+                "prerequisite": 0.3671261460561632,
+                "similarity": 1.0,
+                "source": 1,
+                "target": 21
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 1,
+                "target": 22
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 1,
+                "target": 23
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.5773502691896258,
+                "source": 2,
+                "target": 0
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.5773502691896258,
+                "source": 2,
+                "target": 1
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0000000000000002,
+                "source": 2,
+                "target": 2
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.408248290463863,
+                "source": 2,
+                "target": 3
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.5773502691896258,
+                "source": 2,
+                "target": 4
+            },
+            {
+                "prerequisite": 0.5514436236359468,
+                "similarity": 0.816496580927726,
+                "source": 2,
+                "target": 5
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.5773502691896258,
+                "source": 2,
+                "target": 6
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.408248290463863,
+                "source": 2,
+                "target": 7
+            },
+            {
+                "prerequisite": 1.1547395765844257,
+                "similarity": 0.6666666666666669,
+                "source": 2,
+                "target": 8
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 2,
+                "target": 9
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 2,
+                "target": 10
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 2,
+                "target": 11
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.5773502691896258,
+                "source": 2,
+                "target": 12
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 2,
+                "target": 13
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.5773502691896258,
+                "source": 2,
+                "target": 14
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 2,
+                "target": 15
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.5773502691896258,
+                "source": 2,
+                "target": 16
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.5773502691896258,
+                "source": 2,
+                "target": 17
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.5773502691896258,
+                "source": 2,
+                "target": 18
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.5773502691896258,
+                "source": 2,
+                "target": 19
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.5773502691896258,
+                "source": 2,
+                "target": 20
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.5773502691896258,
+                "source": 2,
+                "target": 21
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.5773502691896258,
+                "source": 2,
+                "target": 22
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.5773502691896258,
+                "source": 2,
+                "target": 23
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.7071067811865475,
+                "source": 3,
+                "target": 0
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.7071067811865475,
+                "source": 3,
+                "target": 1
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.408248290463863,
+                "source": 3,
+                "target": 2
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.9999999999999998,
+                "source": 3,
+                "target": 3
+            },
+            {
+                "prerequisite": 0.3304802992520415,
+                "similarity": 0.7071067811865475,
+                "source": 3,
+                "target": 4
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.4999999999999999,
+                "source": 3,
+                "target": 5
+            },
+            {
+                "prerequisite": 0.7410822790585688,
+                "similarity": 0.7071067811865475,
+                "source": 3,
+                "target": 6
+            },
+            {
+                "prerequisite": 0.692246064623964,
+                "similarity": 0.9999999999999998,
+                "source": 3,
+                "target": 7
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.408248290463863,
+                "source": 3,
+                "target": 8
+            },
+            {
+                "prerequisite": 0.2615462504763558,
+                "similarity": 0.7071067811865475,
+                "source": 3,
+                "target": 9
+            },
+            {
+                "prerequisite": 1.3456029702236652,
+                "similarity": 0.7071067811865475,
+                "source": 3,
+                "target": 10
+            },
+            {
+                "prerequisite": 2.118613531827694,
+                "similarity": 0.7071067811865475,
+                "source": 3,
+                "target": 11
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 3,
+                "target": 12
+            },
+            {
+                "prerequisite": 1.4902531003894153,
+                "similarity": 0.7071067811865475,
+                "source": 3,
+                "target": 13
+            },
+            {
+                "prerequisite": 1.2918825713179314,
+                "similarity": 0.7071067811865475,
+                "source": 3,
+                "target": 14
+            },
+            {
+                "prerequisite": 2.0841907346332804,
+                "similarity": 0.7071067811865475,
+                "source": 3,
+                "target": 15
+            },
+            {
+                "prerequisite": 1.2024810507099488,
+                "similarity": 0.7071067811865475,
+                "source": 3,
+                "target": 16
+            },
+            {
+                "prerequisite": 1.4421954459955901,
+                "similarity": 0.7071067811865475,
+                "source": 3,
+                "target": 17
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 3,
+                "target": 18
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 3,
+                "target": 19
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 3,
+                "target": 20
+            },
+            {
+                "prerequisite": 1.5035734138829737,
+                "similarity": 0.7071067811865475,
+                "source": 3,
+                "target": 21
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 3,
+                "target": 22
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 3,
+                "target": 23
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 4,
+                "target": 0
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 4,
+                "target": 1
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.5773502691896258,
+                "source": 4,
+                "target": 2
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.7071067811865475,
+                "source": 4,
+                "target": 3
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 4,
+                "target": 4
+            },
+            {
+                "prerequisite": 0.023865746572055424,
+                "similarity": 0.7071067811865475,
+                "source": 5,
+                "target": 4
+            },
+            {
+                "prerequisite": 0.06584097297573327,
+                "similarity": 1.0,
+                "source": 4,
+                "target": 6
+            },
+            {
+                "prerequisite": 0.35447580842297777,
+                "similarity": 0.7071067811865475,
+                "source": 7,
+                "target": 4
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 4,
+                "target": 8
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 4,
+                "target": 9
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 4,
+                "target": 10
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 4,
+                "target": 11
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 4,
+                "target": 12
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 4,
+                "target": 13
+            },
+            {
+                "prerequisite": 1.1052952294388425,
+                "similarity": 1.0,
+                "source": 4,
+                "target": 14
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 4,
+                "target": 15
+            },
+            {
+                "prerequisite": 0.07947531774226513,
+                "similarity": 1.0,
+                "source": 4,
+                "target": 16
+            },
+            {
+                "prerequisite": 0.58707493292033,
+                "similarity": 1.0,
+                "source": 4,
+                "target": 17
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 4,
+                "target": 18
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 4,
+                "target": 19
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 4,
+                "target": 20
+            },
+            {
+                "prerequisite": 1.3959585458018877,
+                "similarity": 1.0,
+                "source": 4,
+                "target": 21
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 4,
+                "target": 22
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 4,
+                "target": 23
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.7071067811865475,
+                "source": 5,
+                "target": 0
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.7071067811865475,
+                "source": 5,
+                "target": 1
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.816496580927726,
+                "source": 5,
+                "target": 2
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.4999999999999999,
+                "source": 5,
+                "target": 3
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.7071067811865475,
+                "source": 5,
+                "target": 4
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.9999999999999998,
+                "source": 5,
+                "target": 5
+            },
+            {
+                "prerequisite": 0.38117115673251034,
+                "similarity": 0.7071067811865475,
+                "source": 5,
+                "target": 6
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.4999999999999999,
+                "source": 5,
+                "target": 7
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.408248290463863,
+                "source": 5,
+                "target": 8
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 5,
+                "target": 9
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 5,
+                "target": 10
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 5,
+                "target": 11
+            },
+            {
+                "prerequisite": 1.2719836407442973,
+                "similarity": 0.7071067811865475,
+                "source": 5,
+                "target": 12
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 5,
+                "target": 13
+            },
+            {
+                "prerequisite": 0.5785606434875402,
+                "similarity": 0.7071067811865475,
+                "source": 5,
+                "target": 14
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 5,
+                "target": 15
+            },
+            {
+                "prerequisite": 1.414562306396111,
+                "similarity": 0.7071067811865475,
+                "source": 5,
+                "target": 16
+            },
+            {
+                "prerequisite": 0.2721982125082415,
+                "similarity": 0.7071067811865475,
+                "source": 17,
+                "target": 5
+            },
+            {
+                "prerequisite": 0.8332493090117387,
+                "similarity": 0.7071067811865475,
+                "source": 5,
+                "target": 18
+            },
+            {
+                "prerequisite": 1.103932714206636,
+                "similarity": 0.7071067811865475,
+                "source": 5,
+                "target": 19
+            },
+            {
+                "prerequisite": 2.112891995160721,
+                "similarity": 0.7071067811865475,
+                "source": 5,
+                "target": 20
+            },
+            {
+                "prerequisite": 1.271015284270363,
+                "similarity": 0.7071067811865475,
+                "source": 5,
+                "target": 21
+            },
+            {
+                "prerequisite": 0.8867798626847188,
+                "similarity": 0.7071067811865475,
+                "source": 5,
+                "target": 22
+            },
+            {
+                "prerequisite": 0.7148805507804568,
+                "similarity": 0.7071067811865475,
+                "source": 5,
+                "target": 23
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 6,
+                "target": 0
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 6,
+                "target": 1
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.5773502691896258,
+                "source": 6,
+                "target": 2
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.7071067811865475,
+                "source": 6,
+                "target": 3
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 6,
+                "target": 4
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.7071067811865475,
+                "source": 6,
+                "target": 5
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 6,
+                "target": 6
+            },
+            {
+                "prerequisite": 0.11312874576848547,
+                "similarity": 0.7071067811865475,
+                "source": 7,
+                "target": 6
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 6,
+                "target": 8
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 6,
+                "target": 9
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 6,
+                "target": 10
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 6,
+                "target": 11
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 6,
+                "target": 12
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 6,
+                "target": 13
+            },
+            {
+                "prerequisite": 1.1095706381553665,
+                "similarity": 1.0,
+                "source": 6,
+                "target": 14
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 6,
+                "target": 15
+            },
+            {
+                "prerequisite": 0.7735669781552892,
+                "similarity": 1.0,
+                "source": 6,
+                "target": 16
+            },
+            {
+                "prerequisite": 1.0838364203941624,
+                "similarity": 1.0,
+                "source": 6,
+                "target": 17
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 6,
+                "target": 18
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 6,
+                "target": 19
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 6,
+                "target": 20
+            },
+            {
+                "prerequisite": 1.3448277593799252,
+                "similarity": 1.0,
+                "source": 6,
+                "target": 21
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 6,
+                "target": 22
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 6,
+                "target": 23
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.7071067811865475,
+                "source": 7,
+                "target": 0
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.7071067811865475,
+                "source": 7,
+                "target": 1
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.408248290463863,
+                "source": 7,
+                "target": 2
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.9999999999999998,
+                "source": 7,
+                "target": 3
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.7071067811865475,
+                "source": 7,
+                "target": 4
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.4999999999999999,
+                "source": 7,
+                "target": 5
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.7071067811865475,
+                "source": 7,
+                "target": 6
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.9999999999999998,
+                "source": 7,
+                "target": 7
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.408248290463863,
+                "source": 7,
+                "target": 8
+            },
+            {
+                "prerequisite": 0.22954546987616886,
+                "similarity": 0.7071067811865475,
+                "source": 9,
+                "target": 7
+            },
+            {
+                "prerequisite": 0.6026447394937998,
+                "similarity": 0.7071067811865475,
+                "source": 7,
+                "target": 10
+            },
+            {
+                "prerequisite": 1.5401930093149758,
+                "similarity": 0.7071067811865475,
+                "source": 7,
+                "target": 11
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 7,
+                "target": 12
+            },
+            {
+                "prerequisite": 0.6009142457810924,
+                "similarity": 0.7071067811865475,
+                "source": 7,
+                "target": 13
+            },
+            {
+                "prerequisite": 0.521901066846393,
+                "similarity": 0.7071067811865475,
+                "source": 7,
+                "target": 14
+            },
+            {
+                "prerequisite": 0.5386774981679909,
+                "similarity": 0.7071067811865475,
+                "source": 7,
+                "target": 15
+            },
+            {
+                "prerequisite": 0.5791672084255665,
+                "similarity": 0.7071067811865475,
+                "source": 7,
+                "target": 16
+            },
+            {
+                "prerequisite": 0.4061247809673465,
+                "similarity": 0.7071067811865475,
+                "source": 7,
+                "target": 17
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 7,
+                "target": 18
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 7,
+                "target": 19
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 7,
+                "target": 20
+            },
+            {
+                "prerequisite": 0.5509831153213338,
+                "similarity": 0.7071067811865475,
+                "source": 7,
+                "target": 21
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 7,
+                "target": 22
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 7,
+                "target": 23
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 8,
+                "target": 0
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 8,
+                "target": 1
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.6666666666666669,
+                "source": 8,
+                "target": 2
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.408248290463863,
+                "source": 8,
+                "target": 3
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 8,
+                "target": 4
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.408248290463863,
+                "source": 8,
+                "target": 5
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 8,
+                "target": 6
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.408248290463863,
+                "source": 8,
+                "target": 7
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0000000000000002,
+                "source": 8,
+                "target": 8
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.5773502691896258,
+                "source": 8,
+                "target": 9
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.5773502691896258,
+                "source": 8,
+                "target": 10
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.5773502691896258,
+                "source": 8,
+                "target": 11
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.5773502691896258,
+                "source": 8,
+                "target": 12
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.5773502691896258,
+                "source": 8,
+                "target": 13
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 8,
+                "target": 14
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.5773502691896258,
+                "source": 8,
+                "target": 15
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 8,
+                "target": 16
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 8,
+                "target": 17
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.5773502691896258,
+                "source": 8,
+                "target": 18
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.5773502691896258,
+                "source": 8,
+                "target": 19
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.5773502691896258,
+                "source": 8,
+                "target": 20
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 8,
+                "target": 21
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.5773502691896258,
+                "source": 8,
+                "target": 22
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.5773502691896258,
+                "source": 8,
+                "target": 23
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 9,
+                "target": 0
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 9,
+                "target": 1
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 9,
+                "target": 2
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.7071067811865475,
+                "source": 9,
+                "target": 3
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 9,
+                "target": 4
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 9,
+                "target": 5
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 9,
+                "target": 6
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.7071067811865475,
+                "source": 9,
+                "target": 7
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.5773502691896258,
+                "source": 9,
+                "target": 8
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 9,
+                "target": 9
+            },
+            {
+                "prerequisite": 0.8953653465013753,
+                "similarity": 1.0,
+                "source": 9,
+                "target": 10
+            },
+            {
+                "prerequisite": 1.360775146547385,
+                "similarity": 1.0,
+                "source": 9,
+                "target": 11
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 9,
+                "target": 12
+            },
+            {
+                "prerequisite": 1.2436503887201327,
+                "similarity": 1.0,
+                "source": 9,
+                "target": 13
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 9,
+                "target": 14
+            },
+            {
+                "prerequisite": 0.04900879261906277,
+                "similarity": 1.0,
+                "source": 15,
+                "target": 9
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 9,
+                "target": 16
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 9,
+                "target": 17
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 9,
+                "target": 18
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 9,
+                "target": 19
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 9,
+                "target": 20
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 9,
+                "target": 21
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 9,
+                "target": 22
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 9,
+                "target": 23
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 10,
+                "target": 0
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 10,
+                "target": 1
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 10,
+                "target": 2
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.7071067811865475,
+                "source": 10,
+                "target": 3
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 10,
+                "target": 4
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 10,
+                "target": 5
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 10,
+                "target": 6
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.7071067811865475,
+                "source": 10,
+                "target": 7
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.5773502691896258,
+                "source": 10,
+                "target": 8
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 10,
+                "target": 9
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 10,
+                "target": 10
+            },
+            {
+                "prerequisite": 0.44003853289677464,
+                "similarity": 1.0,
+                "source": 10,
+                "target": 11
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 10,
+                "target": 12
+            },
+            {
+                "prerequisite": 0.09533171179148153,
+                "similarity": 1.0,
+                "source": 10,
+                "target": 13
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 10,
+                "target": 14
+            },
+            {
+                "prerequisite": 0.08433140679597129,
+                "similarity": 1.0,
+                "source": 10,
+                "target": 15
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 10,
+                "target": 16
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 10,
+                "target": 17
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 10,
+                "target": 18
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 10,
+                "target": 19
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 10,
+                "target": 20
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 10,
+                "target": 21
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 10,
+                "target": 22
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 10,
+                "target": 23
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 11,
+                "target": 0
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 11,
+                "target": 1
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 11,
+                "target": 2
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.7071067811865475,
+                "source": 11,
+                "target": 3
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 11,
+                "target": 4
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 11,
+                "target": 5
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 11,
+                "target": 6
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.7071067811865475,
+                "source": 11,
+                "target": 7
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.5773502691896258,
+                "source": 11,
+                "target": 8
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 11,
+                "target": 9
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 11,
+                "target": 10
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 11,
+                "target": 11
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 11,
+                "target": 12
+            },
+            {
+                "prerequisite": 0.8319577653273513,
+                "similarity": 1.0,
+                "source": 11,
+                "target": 13
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 11,
+                "target": 14
+            },
+            {
+                "prerequisite": 0.11299836707530819,
+                "similarity": 1.0,
+                "source": 11,
+                "target": 15
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 11,
+                "target": 16
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 11,
+                "target": 17
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 11,
+                "target": 18
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 11,
+                "target": 19
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 11,
+                "target": 20
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 11,
+                "target": 21
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 11,
+                "target": 22
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 11,
+                "target": 23
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 12,
+                "target": 0
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 12,
+                "target": 1
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.5773502691896258,
+                "source": 12,
+                "target": 2
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 12,
+                "target": 3
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 12,
+                "target": 4
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.7071067811865475,
+                "source": 12,
+                "target": 5
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 12,
+                "target": 6
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 12,
+                "target": 7
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.5773502691896258,
+                "source": 12,
+                "target": 8
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 12,
+                "target": 9
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 12,
+                "target": 10
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 12,
+                "target": 11
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 12,
+                "target": 12
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 12,
+                "target": 13
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 12,
+                "target": 14
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 12,
+                "target": 15
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 12,
+                "target": 16
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 12,
+                "target": 17
+            },
+            {
+                "prerequisite": 0.2407172502120027,
+                "similarity": 1.0,
+                "source": 18,
+                "target": 12
+            },
+            {
+                "prerequisite": 0.30493668046043687,
+                "similarity": 1.0,
+                "source": 12,
+                "target": 19
+            },
+            {
+                "prerequisite": 0.11706139369694835,
+                "similarity": 1.0,
+                "source": 12,
+                "target": 20
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 12,
+                "target": 21
+            },
+            {
+                "prerequisite": 0.0035437276219100755,
+                "similarity": 1.0,
+                "source": 22,
+                "target": 12
+            },
+            {
+                "prerequisite": 0.18818346872964115,
+                "similarity": 1.0,
+                "source": 23,
+                "target": 12
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 13,
+                "target": 0
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 13,
+                "target": 1
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 13,
+                "target": 2
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.7071067811865475,
+                "source": 13,
+                "target": 3
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 13,
+                "target": 4
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 13,
+                "target": 5
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 13,
+                "target": 6
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.7071067811865475,
+                "source": 13,
+                "target": 7
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.5773502691896258,
+                "source": 13,
+                "target": 8
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 13,
+                "target": 9
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 13,
+                "target": 10
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 13,
+                "target": 11
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 13,
+                "target": 12
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 13,
+                "target": 13
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 13,
+                "target": 14
+            },
+            {
+                "prerequisite": 0.09302493030365744,
+                "similarity": 1.0,
+                "source": 13,
+                "target": 15
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 13,
+                "target": 16
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 13,
+                "target": 17
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 13,
+                "target": 18
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 13,
+                "target": 19
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 13,
+                "target": 20
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 13,
+                "target": 21
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 13,
+                "target": 22
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 13,
+                "target": 23
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 14,
+                "target": 0
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 14,
+                "target": 1
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.5773502691896258,
+                "source": 14,
+                "target": 2
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.7071067811865475,
+                "source": 14,
+                "target": 3
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 14,
+                "target": 4
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.7071067811865475,
+                "source": 14,
+                "target": 5
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 14,
+                "target": 6
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.7071067811865475,
+                "source": 14,
+                "target": 7
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 14,
+                "target": 8
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 14,
+                "target": 9
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 14,
+                "target": 10
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 14,
+                "target": 11
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 14,
+                "target": 12
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 14,
+                "target": 13
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 14,
+                "target": 14
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 14,
+                "target": 15
+            },
+            {
+                "prerequisite": 0.007269218908057651,
+                "similarity": 1.0,
+                "source": 16,
+                "target": 14
+            },
+            {
+                "prerequisite": 0.33102664826819383,
+                "similarity": 1.0,
+                "source": 14,
+                "target": 17
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 14,
+                "target": 18
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 14,
+                "target": 19
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 14,
+                "target": 20
+            },
+            {
+                "prerequisite": 1.6139635829678882,
+                "similarity": 1.0,
+                "source": 14,
+                "target": 21
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 14,
+                "target": 22
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 14,
+                "target": 23
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 15,
+                "target": 0
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 15,
+                "target": 1
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 15,
+                "target": 2
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.7071067811865475,
+                "source": 15,
+                "target": 3
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 15,
+                "target": 4
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 15,
+                "target": 5
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 15,
+                "target": 6
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.7071067811865475,
+                "source": 15,
+                "target": 7
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.5773502691896258,
+                "source": 15,
+                "target": 8
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 15,
+                "target": 9
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 15,
+                "target": 10
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 15,
+                "target": 11
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 15,
+                "target": 12
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 15,
+                "target": 13
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 15,
+                "target": 14
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 15,
+                "target": 15
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 15,
+                "target": 16
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 15,
+                "target": 17
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 15,
+                "target": 18
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 15,
+                "target": 19
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 15,
+                "target": 20
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 15,
+                "target": 21
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 15,
+                "target": 22
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 15,
+                "target": 23
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 16,
+                "target": 0
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 16,
+                "target": 1
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.5773502691896258,
+                "source": 16,
+                "target": 2
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.7071067811865475,
+                "source": 16,
+                "target": 3
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 16,
+                "target": 4
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.7071067811865475,
+                "source": 16,
+                "target": 5
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 16,
+                "target": 6
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.7071067811865475,
+                "source": 16,
+                "target": 7
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 16,
+                "target": 8
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 16,
+                "target": 9
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 16,
+                "target": 10
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 16,
+                "target": 11
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 16,
+                "target": 12
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 16,
+                "target": 13
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 16,
+                "target": 14
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 16,
+                "target": 15
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 16,
+                "target": 16
+            },
+            {
+                "prerequisite": 0.5565532035450852,
+                "similarity": 1.0,
+                "source": 17,
+                "target": 16
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 16,
+                "target": 18
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 16,
+                "target": 19
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 16,
+                "target": 20
+            },
+            {
+                "prerequisite": 0.05035176639303551,
+                "similarity": 1.0,
+                "source": 16,
+                "target": 21
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 16,
+                "target": 22
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 16,
+                "target": 23
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 17,
+                "target": 0
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 17,
+                "target": 1
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.5773502691896258,
+                "source": 17,
+                "target": 2
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.7071067811865475,
+                "source": 17,
+                "target": 3
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 17,
+                "target": 4
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.7071067811865475,
+                "source": 17,
+                "target": 5
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 17,
+                "target": 6
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.7071067811865475,
+                "source": 17,
+                "target": 7
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 17,
+                "target": 8
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 17,
+                "target": 9
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 17,
+                "target": 10
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 17,
+                "target": 11
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 17,
+                "target": 12
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 17,
+                "target": 13
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 17,
+                "target": 14
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 17,
+                "target": 15
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 17,
+                "target": 16
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 17,
+                "target": 17
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 17,
+                "target": 18
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 17,
+                "target": 19
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 17,
+                "target": 20
+            },
+            {
+                "prerequisite": 1.1222590909892634,
+                "similarity": 1.0,
+                "source": 17,
+                "target": 21
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 17,
+                "target": 22
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 17,
+                "target": 23
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 18,
+                "target": 0
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 18,
+                "target": 1
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.5773502691896258,
+                "source": 18,
+                "target": 2
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 18,
+                "target": 3
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 18,
+                "target": 4
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.7071067811865475,
+                "source": 18,
+                "target": 5
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 18,
+                "target": 6
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 18,
+                "target": 7
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.5773502691896258,
+                "source": 18,
+                "target": 8
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 18,
+                "target": 9
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 18,
+                "target": 10
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 18,
+                "target": 11
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 18,
+                "target": 12
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 18,
+                "target": 13
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 18,
+                "target": 14
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 18,
+                "target": 15
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 18,
+                "target": 16
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 18,
+                "target": 17
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 18,
+                "target": 18
+            },
+            {
+                "prerequisite": 0.12200032250700976,
+                "similarity": 1.0,
+                "source": 18,
+                "target": 19
+            },
+            {
+                "prerequisite": 0.3403094193984303,
+                "similarity": 1.0,
+                "source": 18,
+                "target": 20
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 18,
+                "target": 21
+            },
+            {
+                "prerequisite": 0.005842405674765905,
+                "similarity": 1.0,
+                "source": 18,
+                "target": 22
+            },
+            {
+                "prerequisite": 0.32311400853902256,
+                "similarity": 1.0,
+                "source": 23,
+                "target": 18
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 19,
+                "target": 0
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 19,
+                "target": 1
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.5773502691896258,
+                "source": 19,
+                "target": 2
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 19,
+                "target": 3
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 19,
+                "target": 4
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.7071067811865475,
+                "source": 19,
+                "target": 5
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 19,
+                "target": 6
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 19,
+                "target": 7
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.5773502691896258,
+                "source": 19,
+                "target": 8
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 19,
+                "target": 9
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 19,
+                "target": 10
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 19,
+                "target": 11
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 19,
+                "target": 12
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 19,
+                "target": 13
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 19,
+                "target": 14
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 19,
+                "target": 15
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 19,
+                "target": 16
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 19,
+                "target": 17
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 19,
+                "target": 18
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 19,
+                "target": 19
+            },
+            {
+                "prerequisite": 0.00555514107061561,
+                "similarity": 1.0,
+                "source": 19,
+                "target": 20
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 19,
+                "target": 21
+            },
+            {
+                "prerequisite": 0.3504564195267382,
+                "similarity": 1.0,
+                "source": 22,
+                "target": 19
+            },
+            {
+                "prerequisite": 0.17541558905910315,
+                "similarity": 1.0,
+                "source": 19,
+                "target": 23
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 20,
+                "target": 0
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 20,
+                "target": 1
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.5773502691896258,
+                "source": 20,
+                "target": 2
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 20,
+                "target": 3
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 20,
+                "target": 4
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.7071067811865475,
+                "source": 20,
+                "target": 5
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 20,
+                "target": 6
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 20,
+                "target": 7
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.5773502691896258,
+                "source": 20,
+                "target": 8
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 20,
+                "target": 9
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 20,
+                "target": 10
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 20,
+                "target": 11
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 20,
+                "target": 12
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 20,
+                "target": 13
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 20,
+                "target": 14
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 20,
+                "target": 15
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 20,
+                "target": 16
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 20,
+                "target": 17
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 20,
+                "target": 18
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 20,
+                "target": 19
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 20,
+                "target": 20
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 20,
+                "target": 21
+            },
+            {
+                "prerequisite": 0.4940664078865523,
+                "similarity": 1.0,
+                "source": 22,
+                "target": 20
+            },
+            {
+                "prerequisite": 0.30453389536789155,
+                "similarity": 1.0,
+                "source": 20,
+                "target": 23
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 21,
+                "target": 0
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 21,
+                "target": 1
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.5773502691896258,
+                "source": 21,
+                "target": 2
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.7071067811865475,
+                "source": 21,
+                "target": 3
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 21,
+                "target": 4
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.7071067811865475,
+                "source": 21,
+                "target": 5
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 21,
+                "target": 6
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.7071067811865475,
+                "source": 21,
+                "target": 7
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 21,
+                "target": 8
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 21,
+                "target": 9
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 21,
+                "target": 10
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 21,
+                "target": 11
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 21,
+                "target": 12
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 21,
+                "target": 13
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 21,
+                "target": 14
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 21,
+                "target": 15
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 21,
+                "target": 16
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 21,
+                "target": 17
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 21,
+                "target": 18
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 21,
+                "target": 19
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 21,
+                "target": 20
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 21,
+                "target": 21
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 21,
+                "target": 22
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 21,
+                "target": 23
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 22,
+                "target": 0
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 22,
+                "target": 1
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.5773502691896258,
+                "source": 22,
+                "target": 2
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 22,
+                "target": 3
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 22,
+                "target": 4
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.7071067811865475,
+                "source": 22,
+                "target": 5
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 22,
+                "target": 6
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 22,
+                "target": 7
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.5773502691896258,
+                "source": 22,
+                "target": 8
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 22,
+                "target": 9
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 22,
+                "target": 10
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 22,
+                "target": 11
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 22,
+                "target": 12
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 22,
+                "target": 13
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 22,
+                "target": 14
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 22,
+                "target": 15
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 22,
+                "target": 16
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 22,
+                "target": 17
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 22,
+                "target": 18
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 22,
+                "target": 19
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 22,
+                "target": 20
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 22,
+                "target": 21
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 22,
+                "target": 22
+            },
+            {
+                "prerequisite": 1.1420694899755552,
+                "similarity": 1.0,
+                "source": 22,
+                "target": 23
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 23,
+                "target": 0
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 23,
+                "target": 1
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.5773502691896258,
+                "source": 23,
+                "target": 2
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 23,
+                "target": 3
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 23,
+                "target": 4
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.7071067811865475,
+                "source": 23,
+                "target": 5
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 23,
+                "target": 6
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 23,
+                "target": 7
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.5773502691896258,
+                "source": 23,
+                "target": 8
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 23,
+                "target": 9
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 23,
+                "target": 10
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 23,
+                "target": 11
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 23,
+                "target": 12
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 23,
+                "target": 13
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 23,
+                "target": 14
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 23,
+                "target": 15
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 23,
+                "target": 16
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 23,
+                "target": 17
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 23,
+                "target": 18
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 23,
+                "target": 19
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 23,
+                "target": 20
+            },
+            {
+                "prerequisite": null,
+                "similarity": 0.0,
+                "source": 23,
+                "target": 21
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 23,
+                "target": 22
+            },
+            {
+                "prerequisite": null,
+                "similarity": 1.0,
+                "source": 23,
+                "target": 23
+            }
+        ],
+        "nodes": [
+            {
+                "count": 14,
+                "group": 1,
+                "index": 0,
+                "name": "liquid",
+                "videos_id": [
+                    "dcc1VyGvaYk"
+                ]
+            },
+            {
+                "count": 13,
+                "group": 1,
+                "index": 1,
+                "name": "form",
+                "videos_id": [
+                    "dcc1VyGvaYk"
+                ]
+            },
+            {
+                "count": 13,
+                "group": 1,
+                "index": 2,
+                "name": "work",
+                "videos_id": [
+                    "GgTT3tv91us",
+                    "Ez8gxbr5wt0",
+                    "dcc1VyGvaYk"
+                ]
+            },
+            {
+                "count": 12,
+                "group": 1,
+                "index": 3,
+                "name": "system",
+                "videos_id": [
+                    "dcc1VyGvaYk",
+                    "tpRhetFm0CQ"
+                ]
+            },
+            {
+                "count": 12,
+                "group": 1,
+                "index": 4,
+                "name": "element",
+                "videos_id": [
+                    "dcc1VyGvaYk"
+                ]
+            },
+            {
+                "count": 7,
+                "group": 1,
+                "index": 5,
+                "name": "level",
+                "videos_id": [
+                    "GgTT3tv91us",
+                    "dcc1VyGvaYk"
+                ]
+            },
+            {
+                "count": 6,
+                "group": 1,
+                "index": 6,
+                "name": "type",
+                "videos_id": [
+                    "dcc1VyGvaYk"
+                ]
+            },
+            {
+                "count": 6,
+                "group": 1,
+                "index": 7,
+                "name": "head",
+                "videos_id": [
+                    "dcc1VyGvaYk",
+                    "tpRhetFm0CQ"
+                ]
+            },
+            {
+                "count": 5,
+                "group": 1,
+                "index": 8,
+                "name": "walk",
+                "videos_id": [
+                    "GgTT3tv91us",
+                    "Ez8gxbr5wt0",
+                    "tpRhetFm0CQ"
+                ]
+            },
+            {
+                "count": 5,
+                "group": 1,
+                "index": 9,
+                "name": "mean",
+                "videos_id": [
+                    "tpRhetFm0CQ"
+                ]
+            },
+            {
+                "count": 3,
+                "group": 1,
+                "index": 10,
+                "name": "water",
+                "videos_id": [
+                    "tpRhetFm0CQ"
+                ]
+            },
+            {
+                "count": 3,
+                "group": 1,
+                "index": 11,
+                "name": "temperature",
+                "videos_id": [
+                    "tpRhetFm0CQ"
+                ]
+            },
+            {
+                "count": 3,
+                "group": 1,
+                "index": 12,
+                "name": "niche",
+                "videos_id": [
+                    "GgTT3tv91us"
+                ]
+            },
+            {
+                "count": 3,
+                "group": 1,
+                "index": 13,
+                "name": "fluid",
+                "videos_id": [
+                    "tpRhetFm0CQ"
+                ]
+            },
+            {
+                "count": 3,
+                "group": 1,
+                "index": 14,
+                "name": "linear",
+                "videos_id": [
+                    "dcc1VyGvaYk"
+                ]
+            },
+            {
+                "count": 2,
+                "group": 1,
+                "index": 15,
+                "name": "menu",
+                "videos_id": [
+                    "tpRhetFm0CQ"
+                ]
+            },
+            {
+                "count": 2,
+                "group": 1,
+                "index": 16,
+                "name": "competition",
+                "videos_id": [
+                    "dcc1VyGvaYk"
+                ]
+            },
+            {
+                "count": 2,
+                "group": 1,
+                "index": 17,
+                "name": "scale",
+                "videos_id": [
+                    "dcc1VyGvaYk"
+                ]
+            },
+            {
+                "count": 2,
+                "group": 1,
+                "index": 18,
+                "name": "prior",
+                "videos_id": [
+                    "GgTT3tv91us"
+                ]
+            },
+            {
+                "count": 1,
+                "group": 1,
+                "index": 19,
+                "name": "target",
+                "videos_id": [
+                    "GgTT3tv91us"
+                ]
+            },
+            {
+                "count": 1,
+                "group": 1,
+                "index": 20,
+                "name": "degree",
+                "videos_id": [
+                    "GgTT3tv91us"
+                ]
+            },
+            {
+                "count": 1,
+                "group": 1,
+                "index": 21,
+                "name": "geometric",
+                "videos_id": [
+                    "dcc1VyGvaYk"
+                ]
+            },
+            {
+                "count": 1,
+                "group": 1,
+                "index": 22,
+                "name": "base",
+                "videos_id": [
+                    "GgTT3tv91us"
+                ]
+            },
+            {
+                "count": 1,
+                "group": 1,
+                "index": 23,
+                "name": "link",
+                "videos_id": [
+                    "GgTT3tv91us"
+                ]
+            }
+        ]
+    },
+    "search_info": {
+        "NumOfVideos": 16,
+        "key": "graphic_50",
+        "similarity_threshold": 0.6
+    },
+    "videos_info": {
+        "1mJs2vmZpSg": {
+            "caption_exist": "T",
+            "channel_id": "UCNvzD7Z-g64bPXxGzaQaa4g",
+            "channel_title": "gameranx",
+            "concepts": [],
+            "description": "2017 was a standout year for graphics on PC, PS4, and Xbox One thanks to upgraded 4K consoles and shiny new graphics cards. Here are our choices for the best looking games.\nSubscribe for more: http://youtube.com/gameranxtv",
+            "dislikeCount": "1062",
+            "duration": "PT8M8S",
+            "likeCount": "21017",
+            "published_time": "2017-12-24T20:31:43.000Z",
+            "tags": [
+                "best graphics pc 2017",
+                "best graphics xbox one 2017",
+                "best graphics xbox one x games",
+                "best graphics ps4 games",
+                "best graphics ps4 pro games",
+                "best graphics video games",
+                "ultra high graphics 2017 games",
+                "ultra high 4k graphics video games",
+                "4k gaming 2017",
+                "gameranx",
+                "andrew new guy"
+            ],
+            "thumbnail": "https://i.ytimg.com/vi/1mJs2vmZpSg/hqdefault.jpg",
+            "title": "10 Best GRAPHICS of 2017 [4K Video]",
+            "videoid": "1mJs2vmZpSg",
+            "viewCount": "888075"
+        },
+        "2grPPQt7Mtc": {
+            "caption_exist": "T",
+            "channel_id": "UCYSLahrFL9NwOjImstmnJqA",
+            "channel_title": "lindseyrem",
+            "concepts": [],
+            "description": "Check out http://squarespace.com/lindseyrem for a free trial & 10% off your first purchase!\nSubscribe to lindseyrem | http://bit.ly/2wuyqEm \nWatch my last video (CHRISTMAS HAUL) | https://www.youtube.com/watch?v=QcCLrfeoLQA&t=273s\n\nFollow me:\ntwitter | http://twitter.com/lindseyrem \ninstagram | http://instagram.com/lindseyrem\ntumblr | http://lindseyrem.tumblr.com\nsnapchat | lindseyrem \nvlog channel | http://youtube.com/lindseyremvlogs\nspotify | http://open.spotify.com/user/lindseyrem\n\n-------------------------------\n\n\n// WHAT I'M WEARING //\nTop - Active\nNecklace - The M Jewelers\nNails - Essie \"Really Red\"\nGlitter liner - Too Faced Glitter Pop liner in purple\n\n-------------------------------\n\n+ VIDEO DETAILS\nCamera\u23a5Canon 70D, Sigma 30mm lens\nRoom Tour | http://goo.gl/5NZh3W\nBackground Music | Yuu - LBN667\n\n-------------------------------\n\nbusiness inquiries: lindseyrem.business@gmail.com\n\nps. This video is sponsored by Squarespace.",
+            "dislikeCount": "64",
+            "duration": "PT7M52S",
+            "likeCount": "8115",
+            "published_time": "2018-01-01T02:30:22.000Z",
+            "tags": [
+                "lindseyrem",
+                "lindsey rem",
+                "lindseyrem graphic design",
+                "graphic design",
+                "art videos",
+                "lindsey rem graphic design",
+                "lindseyrem design",
+                "lremdesign",
+                "lindseyrem art",
+                "lindsey rem art supplies",
+                "lindsey rem art student",
+                "art student portfolio",
+                "college portfolio",
+                "graphic design portfolio",
+                "university portfolio",
+                "studio art",
+                "portfolio tips",
+                "chapman university"
+            ],
+            "thumbnail": "https://i.ytimg.com/vi/2grPPQt7Mtc/hqdefault.jpg",
+            "title": "My Graphic Design Portfolio | lindseyrem",
+            "videoid": "2grPPQt7Mtc",
+            "viewCount": "158352"
+        },
+        "2zE-J1rK1NQ": {
+            "caption_exist": "T",
+            "channel_id": "UCsvn_Po0SmunchJYOWpOxMg",
+            "channel_title": "videogamedunkey",
+            "concepts": [],
+            "description": "These games don't even have barely 100 graphics, what a shame.",
+            "dislikeCount": "6182",
+            "duration": "PT4M22S",
+            "likeCount": "167746",
+            "published_time": "2017-10-10T19:30:00.000Z",
+            "tags": [
+                "dunkey",
+                "videogamedunkey",
+                "bad graphics",
+                "graphics",
+                "dunkey graphics",
+                "dunkey bad graphics",
+                "dunkey future of gaming",
+                "difficulty in videogames",
+                "game critics dunkey",
+                "mess effect",
+                "remakes and remasters"
+            ],
+            "thumbnail": "https://i.ytimg.com/vi/2zE-J1rK1NQ/hqdefault.jpg",
+            "title": "Bad Graphics",
+            "videoid": "2zE-J1rK1NQ",
+            "viewCount": "5015246"
+        },
+        "3ZiduYJC9UU": {
+            "caption_exist": "T",
+            "channel_id": "UCaWd5_7JhbQBe4dknZhsHJg",
+            "channel_title": "WatchMojo.com",
+            "concepts": [],
+            "description": "Check out our newest channel MojoPlays! http://bit.ly/2BKwrxf \nTop 10 PC Games With the BEST Graphics\nSubscribe: http://goo.gl/Q2kKrD // \nHave a Top 10 idea? Submit it to us here! http://watchmojo.com/my/suggest.php\n\nGraphics aren\u2019t everything...but I didn\u2019t take out a second mortgage on my house and sell a kidney so I could play at 720p! Welcome to http://WatchMojo.com/ and today we\u2019re counting down our picks for the Top 10 PC Games With The Best Graphics!\n\n#10: Doom\n#9: Batman Arkham Knight\n#8: Deus Ex: Mankind Divided\n#7: Star Wars: Battlefront II\n#6: Metro Last Light Redux\n#5: Crysis 3\n#4: Destiny 2\n#3, #2 & #1: ???\n\nSpecial thanks to our user \u201cDan Paradis\u201d for suggesting this topic using our interactive suggestion tool at http://WatchMojo.com/suggest\n\nOur Magazine!! Learn the inner workings of WatchMojo and meet the voices behind the videos, articles by our specialists from gaming, film, tv, anime and more. VIEW INSTANTLY: http://goo.gl/SivjcX\n\nWatchMojo's Social Media Pages\nhttp://www.Facebook.com/WatchMojo\nhttp://www.Twitter.com/WatchMojo \nhttp://instagram.com/watchmojo \n\nGet WatchMojo merchandise at shop.watchmojo.com\n\nWatchMojo\u2019s ten thousand videos on Top 10 lists, Origins, Biographies, Tips, How To\u2019s, Reviews, Commentary and more on Pop Culture, Celebrity, Movies, Music, TV, Film, Video Games, Politics, News, Comics, Superheroes. Your trusted authority on ranking Pop Culture.",
+            "dislikeCount": "975",
+            "duration": "PT8M52S",
+            "likeCount": "8832",
+            "published_time": "2018-01-12T20:00:01.000Z",
+            "tags": [
+                "Top 10",
+                "Top Five",
+                "List",
+                "Rank",
+                "Gameplay",
+                "Gaming",
+                "Gamer",
+                "Video Game",
+                "Pc game",
+                "graphics",
+                "best graphics",
+                "best game with best graphics",
+                "best visuals",
+                "visuals",
+                "framerate",
+                "4k",
+                "textures",
+                "Deus Ex",
+                "Mankind Divided",
+                "Star Wars",
+                "Battlefront 2",
+                "Metro",
+                "Last Light",
+                "Redux",
+                "Crysis 3",
+                "Destiny 2",
+                "Assassin\u2019s Creed Origins",
+                "Project Cars 2",
+                "The Witcher 3",
+                "Witcher 3",
+                "gfx",
+                "Tomb Raider",
+                "GTA 5",
+                "Grand Theft Auto",
+                "Ethan Carter",
+                "Vanishing",
+                "Unreal 4",
+                "Engine",
+                "battlefield"
+            ],
+            "thumbnail": "https://i.ytimg.com/vi/3ZiduYJC9UU/hqdefault.jpg",
+            "title": "Top 10 PC Games With the BEST Graphics",
+            "videoid": "3ZiduYJC9UU",
+            "viewCount": "676878"
+        },
+        "DPSs1IxiDsM": {
+            "caption_exist": "T",
+            "channel_id": "UC9jcqrmogdYp7BsUpMVl09w",
+            "channel_title": "creatnprocess",
+            "concepts": [],
+            "description": "Get 10% off : http://squarespace.com/creatnprocess\nIn this Episode we will look at, how too create this graphic design concept using Photoshop. We will see how to cut any image into pieces and apply a nice slice effect to it. WE will be using Gradient map to get the depth. Check out the video to see the whole process.\n\nWATCH more graphic design videos: http://bit.ly/1ZfyiwI\nSUBSCRIBE for more Inspiring videos: http://bit.ly/1NWVuMF\n\n\u25b2Gumroad Store!\nhttps://gumroad.com/creatnprocess\n\n\u25b2Official website!\nhttp://creatnprocess.net/\n\nProfessional Logo Design Pack!:\n\u25b2PLD Vol-1!: https://gumroad.com/l/JxlA\n\u25b2PLD Vol-2!: https://gumroad.com/l/QgRvG\n\n\u25b2Design Tutorial Packages!\nhttp://www.creatnprocess.net/products/\n--------------------------------------------------------------------------------------------\n\u25b2Bluehost Hosting!\nhttps://goo.gl/HqOz3g\n\nCredit:\nModel : Isha Blaaker\nhttps://goo.gl/Hiauda\n\nWant to see our latest work? (Logo designs, Illustrations, etc.) \nfollow us on!:\n\u25b2Facebook!: http://facebook.com/creatnprocess\n\u25b2Instagram!: http://instagram.com/creatnprocess\n\u25b2Tumblr!: http://creatnprocess.tumblr.com/\n\u25b2Behanced!: http://www.behance.net/creatnprocess\n\u25b2Dribbble!: https://dribbble.com/creatnprocess\n\u25b2STORE: http://www.inprnt.com/gallery/creatnp...\n\u25b2Twitter!: http://twitter.com/creatnprocess\n\u25b2Google+: https://plus.google.com/+creatnprocess\n\nFor any design inquiries please contact us via email: creatnprocess@gmail.com\nCheck out our Website and work for more information!\nContact us: http://www.creatnprocess.net/contact-us/\n\n\u00a9 Creatnprocess 2017",
+            "dislikeCount": "36",
+            "duration": "PT9M19S",
+            "likeCount": "4077",
+            "published_time": "2017-12-18T01:17:17.000Z",
+            "tags": [
+                "How to design Logo",
+                "Design a logo",
+                "Logo design",
+                "Create logo",
+                "Create a logo",
+                "logos",
+                "how to",
+                "logo",
+                "How to design",
+                "Design",
+                "create",
+                "How To Make",
+                "cs6",
+                "illustrator",
+                "adobe",
+                "tutorial",
+                "professional logo design",
+                "learn",
+                "make logo",
+                "Adobe Illustrator cs6",
+                "Gradient",
+                "creatnprocess",
+                "line segment tool",
+                "Photo slice",
+                "Photoshop tutorial",
+                "apart",
+                "Photo cutout effect",
+                "Gradient map",
+                "Graphic design",
+                "Photoshop",
+                "cc"
+            ],
+            "thumbnail": "https://i.ytimg.com/vi/DPSs1IxiDsM/hqdefault.jpg",
+            "title": "Apart | Graphic design | Photoshop Tutorial",
+            "videoid": "DPSs1IxiDsM",
+            "viewCount": "111728"
+        },
+        "Ez8gxbr5wt0": {
+            "caption_exist": "T",
+            "channel_id": "UCTnqWCdSjY3LVY3f5UemZjQ",
+            "channel_title": "HGPTV (Channel16 Cable67)",
+            "concepts": [
+                [
+                    "work",
+                    5
+                ],
+                [
+                    "walk",
+                    3
+                ]
+            ],
+            "description": "",
+            "dislikeCount": "5",
+            "duration": "PT4M7S",
+            "likeCount": "14",
+            "published_time": "2018-04-27T17:50:49.000Z",
+            "tags": [],
+            "thumbnail": "https://i.ytimg.com/vi/Ez8gxbr5wt0/hqdefault.jpg",
+            "title": "MINI BUSES HAULED INTO POLICE STATIONS FOR GRAPHIC DESIGNS",
+            "videoid": "Ez8gxbr5wt0",
+            "viewCount": "3698"
+        },
+        "GgTT3tv91us": {
+            "caption_exist": "T",
+            "channel_id": "UCovtFObhY9NypXcyHxAS7-Q",
+            "channel_title": "Roberto Blake",
+            "concepts": [
+                [
+                    "work",
+                    5
+                ],
+                [
+                    "niche",
+                    3
+                ],
+                [
+                    "level",
+                    2
+                ],
+                [
+                    "prior",
+                    2
+                ],
+                [
+                    "base",
+                    1
+                ],
+                [
+                    "degree",
+                    1
+                ],
+                [
+                    "walk",
+                    1
+                ],
+                [
+                    "link",
+                    1
+                ],
+                [
+                    "target",
+                    1
+                ]
+            ],
+            "description": "How to Become a Graphic Designer 2018\nBecoming a Graphic Designer doesn't follow the same path as a decade ago. To Become a Graphic Designer you need strong communication skills, a grasp of the basics of marketing and you need to build your personal brand. \n\nWhen I went to school for Graphic Design, the emphasis was all on your portfolio, and they lightly touched on having a website, social media was in its infancy and the iPhone wasn't invented yet.\n\nYour Graphic Design Career, will not succeed or fail on the strength of your Design Portfolio alone, but on your ability to communicate, network, negotiate and your effectiveness and marketing and positioning yourself. That is how you get the job you want or the clients that can pay you what you're worth.\n\nNow that I run my own Digital Agency and have to hire designers for task either internally or even for client projects, (we are a video marketing strategy firm, not a design agency), I have a greater appreciation for Graphic Design Career skills that traditional education doesn't focus on.\n\nJOIN MY GROUP MENTORING PROGRAM FOR ENTREPRENEURS!\nhttps://www.awesomecreatoracademy.com/store/Wtbg6kG3\n\nINVEST IN BITCOIN WITH COINSBASE!\nhttp://bit.ly/startcoinbasenow\n\nCONNECT WITH ME ONLINE\nhttp://robertoblake.com\nhttp://twitter.com/robertoblake\nhttp://facebook.com/robertoblake2\nhttp://periscope.tv/robertoblake\nhttp://instagram.com/robertoblake\n\n\nDisclaimers: all opinions are my own, sponsors are acknowledged. Links in the description are typically affiliate links that let you help support the channel at no extra cost.",
+            "dislikeCount": "20",
+            "duration": "PT12M15S",
+            "likeCount": "793",
+            "published_time": "2018-01-09T03:32:53.000Z",
+            "tags": [
+                "robertoblake2",
+                "roberto blake",
+                "How to Become a Graphic Designer In 2018",
+                "How to Become a Graphic Designer 2018",
+                "Becoming a Graphic Designer",
+                "Become a Graphic Designer",
+                "How to be a graphic designer",
+                "becoming a graphic designer",
+                "graphic design",
+                "graphic design and branding",
+                "school for graphic design",
+                "graphic designer",
+                "graphic design career",
+                "graphic design careers",
+                "be a graphic designer",
+                "being a graphic designer",
+                "graphic design 2018",
+                "become a graphic designer 2018"
+            ],
+            "thumbnail": "https://i.ytimg.com/vi/GgTT3tv91us/hqdefault.jpg",
+            "title": "How to Become a Graphic Designer In 2018",
+            "videoid": "GgTT3tv91us",
+            "viewCount": "14058"
+        },
+        "H5u_x8orsI8": {
+            "caption_exist": "T",
+            "channel_id": "UCubeiIJVCyYgn5bqfD0jl0w",
+            "channel_title": "Kitty G",
+            "concepts": [],
+            "description": "It's time to get Graphic again with the #GettingGraphic readathon hosted by me and Elena: http://bit.ly/1z4gXrg\n\nCheck out our twitter: @getgraphicreads\n\nMy Patreon:\u00a0https://www.patreon.com/kittyg\n\nMASSIVE THANKS TO MY PATREON BACKERS:\n* Aaron C\n* @abibliophobe27\n* Amanda\n* @buchdrache\n* ElleKayEm\n* Harpal\n* Joseph Fernandez\n* Orli\n* PaulCToF\n* Rashid\n* @spritelypotato\n* Tony\n\nI'm now a Book Depositary Affiliate so if you use the link below to buy books I will receive a small commission:\nhttp://www.bookdepository.com/?a_aid=kittygbooks\nThank you xx\n\nMy Patreon:\u00a0https://www.patreon.com/kittyg\nMy Twitter: @kittygbooks\nMy Instagram: @kittygbooks\nMy Goodreads: http://bit.ly/1YjORGC\n\nIntro & Outro music written by M. Gray, performed by K. & M. Gray",
+            "dislikeCount": "0",
+            "duration": "PT3M5S",
+            "likeCount": "4",
+            "published_time": "2018-04-28T05:00:00.000Z",
+            "tags": [
+                "booktubesff",
+                "booktube",
+                "book",
+                "books",
+                "booktuber",
+                "sff",
+                "sic fi",
+                "fantasy",
+                "science fiction",
+                "fantastical",
+                "whimsical",
+                "new",
+                "haul",
+                "review",
+                "spfbo",
+                "#spfbo",
+                "self-published",
+                "new releases",
+                "harry potter",
+                "welcome book prize",
+                "liveshow",
+                "kitty g",
+                "getting graphic",
+                "graphic novel",
+                "comic",
+                "manga"
+            ],
+            "thumbnail": "https://i.ytimg.com/vi/H5u_x8orsI8/hqdefault.jpg",
+            "title": "#Getting Graphic 3 0 | Announcement and Challenges",
+            "videoid": "H5u_x8orsI8",
+            "viewCount": "19"
+        },
+        "TumCovjLaAk": {
+            "caption_exist": "T",
+            "channel_id": "UCG2fmuUAmFVV_kGZE6jXJwg",
+            "channel_title": "Elena Reads Books",
+            "concepts": [],
+            "description": "I'm so excited to announce round 4 of the readathon me and Kaitlin from channel KittyG run called Let's Get Graphic.\n\nIt will be the 5th May\n\nOur Twitter: @getgraphicreads\nUse the #gettinggraphic for all posts so we can see and share them.\n\nMy other social stuff:\nTwitter: @robertson_elena\nGoodreads: https://www.goodreads.com/user/show/2...\nInstagram: EReadsBooks",
+            "dislikeCount": "0",
+            "duration": "PT6M",
+            "likeCount": "0",
+            "published_time": "2018-04-28T05:00:01.000Z",
+            "tags": [],
+            "thumbnail": "https://i.ytimg.com/vi/TumCovjLaAk/hqdefault.jpg",
+            "title": "Let's Get Graphic 4.0 Announcement",
+            "videoid": "TumCovjLaAk",
+            "viewCount": "2"
+        },
+        "YqQx75OPRa0": {
+            "caption_exist": "T",
+            "channel_id": "UCeYUHG6o0YguM-g23htdsSw",
+            "channel_title": "GCFLearnFree.org",
+            "concepts": [],
+            "description": "In this video, you\u2019ll learn the fundamentals of graphic design. Visit https://www.gcflearnfree.org/beginning-graphic-design/fundamentals-of-design/1/ for our text-based lesson.\n\nThis video includes information on the main elements of art and design, including:\n\u2022 Line\n\u2022 Shape\n\u2022 Form\n\u2022 Texture\n\u2022 Balance\n\u2022 The rule of thirds\n\nWe hope you enjoy!",
+            "dislikeCount": "130",
+            "duration": "PT6M26S",
+            "likeCount": "16956",
+            "published_time": "2017-07-13T19:50:53.000Z",
+            "tags": [
+                "video help",
+                "video how to",
+                "video tutorial",
+                "graphic",
+                "design",
+                "art",
+                "elements",
+                "principles",
+                "line",
+                "shape",
+                "form",
+                "texture",
+                "balance",
+                "layout",
+                "composition",
+                "illustration",
+                "rule of thirds",
+                "rule of 3rds"
+            ],
+            "thumbnail": "https://i.ytimg.com/vi/YqQx75OPRa0/hqdefault.jpg",
+            "title": "Beginning Graphic Design: Fundamentals",
+            "videoid": "YqQx75OPRa0",
+            "viewCount": "528680"
+        },
+        "Z9wORTMgiUU": {
+            "caption_exist": "T",
+            "channel_id": "UCXsTbslujP1NNJfuIg71qCw",
+            "channel_title": "lugeyps3",
+            "concepts": [],
+            "description": "Ayooooo!! Its Wednesday my champs! This got to be my favorite looking card in the game and its not even mine haha\n\n\u2605Subscribe & Follow me for more!\n\u2605 Instagram \u25ba lugemaniac\n\u2605Twitter \u25ba https://twitter.com/LugeMania\n\u2605Facebook \u25ba https://www.facebook.com/Lugeyps3\n\nMain Channel: http://www.youtube.com/user/lugeyps3\nSecond Channel: https://www.youtube.com/user/lugemania\nAmazon Wishlist: http://amzn.com/w/1IFHXDAOAAU4I\nDownload Luge&Boo Tag Team (FREE)\nhttps://itunes.apple.com/app/luge-boo-tag-team/id1328039727\nDownload LugeMania Button (FREE)\nhttp://apple.co/2e2q386\nDownload The LugeMania Stickers APP here!!\nhttps://appsto.re/us/PoVYhb.i\n_\nMy Gear:\n\u2661 Clutch Chairz: https://amzn.to/2GLVmmB\n\u2661 Canon G7x: http://amzn.to/2iCtbeD\n\u2661Elgato HD60: http://amzn.to/2iJWbwq\n\u2661Logitech Webcam: http://amzn.to/2k0SnYC\nNEW Blue Yeti: https://amzn.to/2Ee9dNj\nNEW DSLR Camera Canon SL2: https://amzn.to/2Imkm0W\nNEW Stream Deck: https://amzn.to/2Gryjyd\nNEW Cam Link: https://amzn.to/2pVcKvJ\n_\n\n\u2022 Business / Sponsorship \u2022\nLuge.Business@gmail.com\n\n- SEND MAIL-\nLauren Luge\nP.O. Box 280138\nBrooklyn, N.Y. 11228 \nUSA  \n\nShout out to my YT Sponsors /THE O.G\u2019S/LUGECLUB -\nflfordummies88, Allisha Morgan (Griffin, Liam, Lauren),  Benjamin Rivers, Pumbaa The Pig,  Ryan Lacroix, NightWolf,  Juan Irizarry, xtreme843, Vishnu VJ Ladwa, Anthony Thomas, GracieDraws 101, AJ Styels, Devonatae Crawford, Tim Urban, Ariana Corpening, Trace 29, cardinals nation!",
+            "dislikeCount": "13",
+            "duration": "PT12M11S",
+            "likeCount": "326",
+            "published_time": "2018-04-25T19:00:11.000Z",
+            "tags": [],
+            "thumbnail": "https://i.ytimg.com/vi/Z9wORTMgiUU/hqdefault.jpg",
+            "title": "This graphic is lit!! WWE SUPERCARD S4",
+            "videoid": "Z9wORTMgiUU",
+            "viewCount": "7838"
+        },
+        "dFSia1LZI4Y": {
+            "caption_exist": "T",
+            "channel_id": "UC64eec0UYHxflyEWgyZOvLA",
+            "channel_title": "TastyTuts",
+            "concepts": [],
+            "description": "In this video I am going to attempt to answer this question and give you my take on it from my experience. \n\nEnjoy\n\n\n*****************\n\n\nDOWNLOAD LINKS:\n\nSERIES PDF WORKSHEET:\nDownload the free course PDF from the main overview video:\nhttps://youtu.be/WONZVnlam6U\n\n\n*****************\n\n\nThis video is part of a 45 part series:\n\nSERIES OVERVIEW\n\n00 - Beginners guide to Graphic Design / Series overview \nhttps://youtu.be/WONZVnlam6U\n\n\nSECTION 1 - GRAPHIC DESIGN THEORY\n\n01 - What is Graphic Design? https://youtu.be/dFSia1LZI4Y\n\n02 -  \u2018Line\u2019 Visual element of Graphic Design\nhttps://youtu.be/F0PTse89XIE\n\n03 -  \u2018Colour\u2019 Visual element of Graphic Design\nhttps://youtu.be/byDNMLTuOqI\n\n04 -  \u2018Shape\u2019 Visual element of Graphic Design\nhttps://youtu.be/5jprIWG8f5g\n\n05 -  \u2018Texture\u2019 Visual element of Graphic Design \nhttps://youtu.be/hECQpBM0b0Q\n\n06 -  \u2018Space\u2019 Visual element of Graphic Design\nhttps://youtu.be/M9GZs7xpCdY\n\n07 -  \u2018Form\u2019 Visual element of Graphic Design\nhttps://youtu.be/N0F4O6gP3VA\n\n08 -  \u2018Typography\u2019 Visual element of Graphic Design\nhttps://youtu.be/d5ZbjSUku44\n\n09 - \u2018Contrast\u2019 Design principle of Graphic Design \nhttps://youtu.be/r0SAPEw0ru4\n\n10 - \u2018Hierarchy\u2019 Design principle of Graphic Design\nhttps://youtu.be/RlTZ98UXldw\n\n11 - \u2018Alignment\u2019 Design principle of Graphic Design\nhttps://youtu.be/2kokQi9vb6E\n\n12 - \u2018Balance\u2019 Design principle of Graphic Design\nhttps://youtu.be/bDZ9QMA2Bdc\n\n13 - \u2018Proximity\u2019 Design principle of Graphic Design\nhttps://youtu.be/xUdqSiI_G8Y\n\n14 - \u2018Repetition\u2019 Design principle of Graphic Design\nhttps://youtu.be/u55BW6WBqVU\n\n15 - \u2018Simplicity\u2019 Design principle of Graphic Design\nhttps://youtu.be/iXD2WKKlxGk\n\n16 - \u2018Function\u2019 Design principle of Graphic Design\nhttps://youtu.be/S4KNwVx8ATM\n\n\nSECTION 2 - CONSIDERING A CAREER IN GRAPHIC DESIGN\n\n17 - Why do Graphic Design? / Pro\u2019s & Con\u2019s\nhttps://youtu.be/WDhG9lPNWEQ\n\n18 - Should I do Graphic Design?\nhttps://youtu.be/CE9YeZKbfWE\n\n19 - Practical skills to be a Graphic Designer?\nhttps://youtu.be/0qRT3JI7OsY\n\n20 - Psychological skills to be a Graphic Designer?\nhttps://youtu.be/oaNzjtx9jjo\n\n21 - Talent to be a Graphic Designer?\nhttps://youtu.be/94wiGfEiebg\n\n22 - \u2018Learn & Research\u2019 How do I begin as a Graphic Designer\nhttps://youtu.be/6Umc7NDNfUM\n\n23 - \u2018Collect\u2019 How do I begin as a Graphic Designer\u2019 \nhttps://youtu.be/CbRHX8CqoI0\n\n24 - \u2018Be inspired\u2019 How do I begin as a Graphic Designer\u2019 \nhttps://youtu.be/yvHzk-BH4qA\n\n25 - \u2018Practice\u2019 How do I begin as a Graphic Designer\u2019 \nhttps://youtu.be/t4OI5xxtRG0\n\n26 - \u2018Seek Education\u2019 How do I begin as a Graphic Designer\nhttps://youtu.be/kRcZcsPt9xg\n\n27 - Books to read as a Graphic Designer?\nhttps://youtu.be/Jj0Mmn21uBQ\n\n28 - Education to be a Graphic Designer?\nhttps://youtu.be/rqCPJKHxPUk\n\n29 - Do I need to go to University or Art College to be a Graphic Designer?\nhttps://youtu.be/jw4sjBt0zK8\n\n30 - Qualifications to be a graphic designer\nhttps://youtu.be/5rkjN9LCQ5Q\n\n\nSECTION 3 - BECOMING A GRAPHIC DESIGNER\n\n31 - Equipment to be a Graphic Designer?\nhttps://youtu.be/sMgdpiqkRBQ\n\n32 - What programs do I need to be a Graphic Designer?\nhttps://youtu.be/ydrZl_JVHNw\n\n33 - The Graphic Design portfolio\nhttps://youtu.be/wko2_r261Bw\n\n34 - Print or digital graphic design portfolio\nhttps://youtu.be/m6c3WWoiIHw\n\n35 - The Graphic Design CV\nhttps://youtu.be/ZmvQlhbFcic\n\n36 - Career change to be a Graphic Designer?\nhttps://youtu.be/jR-o18D-LyY\n\n37 - \u2018Apply your skills\u2019 How do I begin as a Graphic Designer\u2019 \nhttps://youtu.be/SST4W6dzwRQ\n\n38 - How to find a job as a Graphic Designer?\nhttps://youtu.be/EaQFJ9mnG0E\n\n39 - Interview preparation to be a Graphic Designer\nhttps://youtu.be/FpCqLpeCA7I\n\n40 - Questions you're asked at a Graphic Design Interview\nhttps://youtu.be/PAHq4uIz06M\n\n41 - Questions to ask at a graphic design interview\nhttps://youtu.be/8S3GPsf-1mc\n\n42 - Interview tips to be a Graphic Designer\nhttps://youtu.be/0eY0qSWhrTc\n\n\nSECTION 4 - GRAPHIC DESIGN & BEYOND\n\n43 - What's the industry like for a Graphic Designer?\nhttps://youtu.be/qI1xWMUcTSs\n\n44 - Further your Graphic Design career \nhttps://youtu.be/cwEzmNs5_t8\n\n45 - Education to further your Graphic Design career \nhttps://youtu.be/i9YfBiGYg3E\n\n\n*****************\n\n\u2018Beginners Guide to Graphic Design\u2019 series and all associated files created and composed by Gareth David of TastyTuts.com\nCopyright TastyTuts \u00a9 All Rights Reserved\nContent may be distributed freely for educational purposes only\nWebsite: tastytuts.com Contact: Tastytuts@me.com\n\n*****************\n\nTastyTuts\n\nSubscribe to be notified of future up and coming tutorials.\n\nLike The Facebook Page:\nhttp://www.facebook.com/pages/TastyTuts/145587595531590?ref=hl",
+            "dislikeCount": "144",
+            "duration": "PT6M47S",
+            "likeCount": "6476",
+            "published_time": "2016-01-21T11:11:53.000Z",
+            "tags": [
+                "What is Graphic Design",
+                "Graphic Design Tips",
+                "Graphic Design",
+                "Graphic Design for Beginners",
+                "Graphic Design Education"
+            ],
+            "thumbnail": "https://i.ytimg.com/vi/dFSia1LZI4Y/hqdefault.jpg",
+            "title": "What is Graphic Design? Ep1/45 [Beginners Guide to Graphic Design]",
+            "videoid": "dFSia1LZI4Y",
+            "viewCount": "429553"
+        },
+        "dcc1VyGvaYk": {
+            "caption_exist": "T",
+            "channel_id": "UCd2J-PizcFDxWHBBfRkp38Q",
+            "channel_title": "Philip VanDusen",
+            "concepts": [
+                [
+                    "liquid",
+                    14
+                ],
+                [
+                    "form",
+                    13
+                ],
+                [
+                    "element",
+                    12
+                ],
+                [
+                    "system",
+                    9
+                ],
+                [
+                    "type",
+                    6
+                ],
+                [
+                    "level",
+                    5
+                ],
+                [
+                    "head",
+                    3
+                ],
+                [
+                    "linear",
+                    3
+                ],
+                [
+                    "work",
+                    3
+                ],
+                [
+                    "competition",
+                    2
+                ],
+                [
+                    "scale",
+                    2
+                ],
+                [
+                    "geometric",
+                    1
+                ]
+            ],
+            "description": "Capitalizing on trends in design and business is a great way to assure your success. In this video, I\u2019ll describe and illustrate 15 Trends in Graphic Design for 2018. Join me in exploring the best trends you can use to build your brand!\n\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\nThis video is targeted to my channel\u2019s audience of entrepreneurs, designers, creative professionals and anyone interested in brand strategy, business planning, design, trend, marketing and communications.\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\nPhilip VanDusen is the founder of Verhaal Brand Design, a strategic design and branding consultancy in the New York City metro area. He is an accomplished creative executive and expert in strategic branding, graphic design and creative management. Philip gives design, branding, marketing and business advice to creative professionals and entrepreneurs on building successful creative practices and brands.\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n\nMY WEBSITE:\n http://www.philipvandusen.com\n\nJOIN THE BRAND\u2022MUSE NEWSLETTER:\nhttp://www.philipvandusen.com/muse\n\nFREE MINI-EBOOK DOWNLOAD:\n\u201c9 Design Elements Your Brand Absolutely, Positively Needs\u201d\n http://www.philipvandusen.com/direct-optin\n\nFOLLOW ME ON TWITTER:\n https://twitter.com/philipvandusen\n\nSUBSCRIBE TO MY YOUTUBE CHANNEL:\nhttp://www.youtube.com/c/PhilipVanDusen\n\nFOLLOW ME ON PINTEREST:\n https://www.pinterest.com/philipvandusen/\n\nLIKE ME ON FACEBOOK:\n https://www.facebook.com/Verhaal-Brand-Design-115957185470571/\n\nGET TUBEBUDDY - THE BEST TOOL FOR YOUTUBERS:\nhttps://www.tubebuddy.com/philipvandusen\n\nRECOMMENDED BOOKS TO HELP YOU BUILD YOUR BRAND AND CREATIVE PRACTICE:\nBook on Design Thinking: \u201cChange By Design\u201d, Tim Brown http://amzn.to/2mTFDrz\nOn Creative Inspiration: \u201cImagine\u201d, Jonah Lehrer http://amzn.to/2mJpQe9\nOn the Freelance Economy: \u201cFree Agent Nation\u201d by Daniel Pink http://amzn.to/2mWlbpR\nMy fav Design Career book: \u201cOrbiting the Giant Hairball\u201d by Gordon MacKenzie http://amzn.to/2noTnIL\nOn inspiration: \u201cRules of the Red Rubber Ball: Find and Sustain Your Life\u2019s Work\u201d by Kevin Carroll http://amzn.to/2moisCu\nThe 22 Immutable Laws of Branding, Al Ries + Laura Ries http://amzn.to/2noZGwd\n\n\nMY EQUIPMENT + TOOLS:\nCanon EOS 80D DLSR Camera: http://amzn.to/2nn4y4q\nCanon EOS 80D 18-55mm kit lens: http://amzn.to/2mnAAws\nCanon EOS 80D Yongnuo 35mm lens: http://amzn.to/2nniETh\nRODE NT2000 Condenser Mic: http://amzn.to/2mFoNvG\nART Tube MP: Tube Mic PreAmp: http://amzn.to/2mFoVeE\nRode Mic Boom: http://amzn.to/2nxNFmJ\nMackie HR824 Studio Monitors: http://amzn.to/2nxQNz3\nSony MDR 7506 Headphones: http://amzn.to/2mFpsxa\nScreenflow 6.2: video editing software: http://amzn.to/2nxFLK3\nLimoStudio Softbox Lights (x2): http://amzn.to/2n2u7KK\nLogitech HD Pro Webcam C920: http://amzn.to/2nmX4hZ\nRode smartLav+ Lavalier Microphone: http://amzn.to/2n2xL7B\nOWC ThunderBay 4 0GB 4-Bay HD Enclosure: http://amzn.to/2npj7Va\nToshiba 3.5-Inch 2TB 7200 RPM HD (x4): http://amzn.to/2mnWZtm\nHP 27er 27-in IPS LED Backlit Monitor http://amzn.to/2w29u1S\nAnker 2.4G Wireless Vertical Ergonomic Optical Mouse http://amzn.to/2iZHKts\nRefurbished Apple iPad Air A1474 16GB, Wi-Fi, Black http://amzn.to/2wDuEVX\nStylus Pen RETECK 10 Pack, Stylus for iPad, iPhone, Etc http://amzn.to/2x7iEPC\nTubeBuddy: https://www.tubebuddy.com/philipvandusen\nAdobe Creative Suite (2017 CC)\nApple Logic Pro X\nNative Instruments Komplete Audio 6: USB Audio Interface \n\n*We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.",
+            "dislikeCount": "426",
+            "duration": "PT8M16S",
+            "likeCount": "47144",
+            "published_time": "2018-01-01T15:30:00.000Z",
+            "tags": [
+                "trends",
+                "design",
+                "2018",
+                "graphic",
+                "graphic design",
+                "graphic design trends",
+                "design trends",
+                "web design",
+                "typography",
+                "art",
+                "photoshop",
+                "illustrator",
+                "graphic design trend",
+                "logo design",
+                "adobe",
+                "design trend",
+                "graphic designer",
+                "marketing trends 2018",
+                "graphic design career",
+                "philip vandusen",
+                "2017",
+                "entrepreneur",
+                "small business",
+                "print design",
+                "How to find trends",
+                "trendhunting",
+                "trend hunter",
+                "design inspiration",
+                "verhaal brand design",
+                "brand design"
+            ],
+            "thumbnail": "https://i.ytimg.com/vi/dcc1VyGvaYk/hqdefault.jpg",
+            "title": "15 Trends in Graphic Design for 2018",
+            "videoid": "dcc1VyGvaYk",
+            "viewCount": "715966"
+        },
+        "q9CB3TuYkVA": {
+            "caption_exist": "T",
+            "channel_id": "UCKUKw50ccF5DcmA72FJyrmg",
+            "channel_title": "Mansa Entertainment",
+            "concepts": [],
+            "description": "from Lions to Killer whales, we countdown the most brutal animal attacks caught on tape. WARNING THIS VIDEO CONTAINS GRAPHIC CONTENT. Also, the humor behind the commentary may be a bit tasteless viewer discretion is advised.\n\nOriginal video: https://www.youtube.com/watch?v=YDL9E5mNAjE\n----------------------------------------------------------------------------------------------------\nfollow us---https://www.instagram.com/mansa_entertainment/\nTwitter: https://twitter.com/Mansa_Ent",
+            "dislikeCount": "446",
+            "duration": "PT15M6S",
+            "likeCount": "1631",
+            "published_time": "2017-02-08T23:14:20.000Z",
+            "tags": [
+                "top10",
+                "gruesome",
+                "lions",
+                "alligators",
+                "therichest",
+                "natgeo",
+                "attacks",
+                "human",
+                "kills",
+                "brutal",
+                "awesome",
+                "moments",
+                "caught",
+                "on",
+                "tape",
+                "animalplanet",
+                "sharks",
+                "cats",
+                "dogs",
+                "zebra",
+                "crocodile",
+                "birds",
+                "eagle",
+                "hawk",
+                "animal",
+                "dying",
+                "dangerous",
+                "funny",
+                "wild",
+                "jaguar",
+                "wildwatchers",
+                "vegan",
+                "people",
+                "eating",
+                "biting",
+                "painful",
+                "countdown",
+                "deaths",
+                "Top10Archive",
+                "Alltime10s",
+                "Love Nature",
+                "pewdiepie",
+                "prettyboyfredo",
+                "cashnastygaming"
+            ],
+            "thumbnail": "https://i.ytimg.com/vi/q9CB3TuYkVA/hqdefault.jpg",
+            "title": "10 Most Gruesome Animal Kills Caught On Tape (WARNING GRAPHIC)",
+            "videoid": "q9CB3TuYkVA",
+            "viewCount": "241091"
+        },
+        "qTdJYZMKeQs": {
+            "caption_exist": "T",
+            "channel_id": "UC1yBKRuGpC1tSM73A0ZjYjQ",
+            "channel_title": "The Young Turks",
+            "concepts": [],
+            "description": "WARNING GRAPHIC VIDEO!!! Former Officer Philip Mitchell Brailsford shoots and kills Daniel Shaver. Cenk Uygur, Ana Kasparian, and Jimmy Dore, the hosts of The Young Turks, discusses the horrific video. Tell us what you think in the comment section below.\n\nRead more here: https://www.nbcnews.com/news/us-news/daniel-shaver-shooting-ex-arizona-police-officer-not-guilty-murder-n827641\n\n\u201cLast year's fatal shooting of a Texas man by Arizona police was caught on body-camera video and showed him sobbing with his hands up, begging for his life in his final moments.\n\nJurors who watched the full video showing Daniel Shaver's death agreed Thursday to acquit former Mesa officer Philip Mitchell Brailsford of murder, ending an emotional six-week trial. Brailsford faced as many as 25 years in prison for the second-degree murder charge.\n\nBrailsford's attorney, Michael Piccarreta, put an arm around his client after the verdict was read.\n\n\"There are no winners in this case,\" Piccarreta said, \"but Mitch Brailsford had to make a split-second decision on a situation that he was trained to recognize as someone drawing a weapon and had one second to react.\"\n\nLaney Sweet, Shaver's widow, shook her head \"no\" after the decision was read and later declined to answer questions, reported The Associated Press. She and Shaver's parents have filed wrongful-death lawsuits against the city of Mesa.\n\nMark Geragos, an attorney representing the Shaver family, called the shooting an \"execution\" and said the \"justice system miserably failed,\" reported The Arizona Republic.\u201d\n\nHosts: Cenk Uygur, Ana Kasparian, Jimmy Dore\n\nCast: Cenk Uygur, Ana Kasparian, Jimmy Dore\n\n***\n\nThe Largest Online News Show in the World. Hosted by Cenk Uygur and Ana Kasparian. LIVE STREAMING weekdays 6-8pm ET. https://goo.gl/tJpj1m\n\nSubscribe to The Young Turks on YouTube: https://goo.gl/a3JY9i\n\nLike The Young Turks on Facebook: https://goo.gl/txrhrh\n\nFollow The Young Turks on Twitter: https://goo.gl/w6ahdV\n\nBuy TYT Merch: https://goo.gl/KVysaM\n\nDownload audio and video of the full two hour show on-demand + the members-only post game show by becoming a member at https://goo.gl/v8E64M. Your membership supports the day to day operations and is vital for our continued success and growth.\n\nYoung Turk (n), 1. Young progressive or insurgent member of an institution, movement, or political party. 2. A young person who rebels against authority or societal expectations.(American Heritage Dictionary)",
+            "dislikeCount": "1802",
+            "duration": "PT12M32S",
+            "likeCount": "16574",
+            "published_time": "2017-12-09T03:00:01.000Z",
+            "tags": [
+                "171208__TA04Injustice",
+                "News",
+                "Politics",
+                "The Young Turks",
+                "Cenk Uygur",
+                "Ana Kasparian",
+                "Jimmy Dore",
+                "TYT",
+                "progressive",
+                "liberal",
+                "daniel shaver",
+                "arizona",
+                "police",
+                "daniel shaver video",
+                "daniel shaver death",
+                "mesa",
+                "philip brailsford",
+                "mesa police",
+                "shooting",
+                "police shooting",
+                "breaking news",
+                "body cam",
+                "news",
+                "video"
+            ],
+            "thumbnail": "https://i.ytimg.com/vi/qTdJYZMKeQs/hqdefault.jpg",
+            "title": "Cop Murders Man Begging For His Life (GRAPHIC VIDEO)",
+            "videoid": "qTdJYZMKeQs",
+            "viewCount": "640393"
+        },
+        "tpRhetFm0CQ": {
+            "caption_exist": "T",
+            "channel_id": "UCbULqc7U1mCHiVSCIkwEpxw",
+            "channel_title": "Hiroyuki Terada - Diaries of a Master Sushi Chef",
+            "concepts": [
+                [
+                    "mean",
+                    5
+                ],
+                [
+                    "temperature",
+                    3
+                ],
+                [
+                    "head",
+                    3
+                ],
+                [
+                    "system",
+                    3
+                ],
+                [
+                    "water",
+                    3
+                ],
+                [
+                    "fluid",
+                    3
+                ],
+                [
+                    "menu",
+                    2
+                ],
+                [
+                    "walk",
+                    1
+                ]
+            ],
+            "description": "If you have a problem with us NOT CLEANING the insides of a lobster before cooking, you will have a problem with Gordon Ramsey doing the same exact thing... https://www.youtube.com/watch?v=zhK4HF_oRho\n\nMaster Sushi Chef Hiroyuki Terada shows you how to make this amazing delicious Chinese inspired dish,  Lobster Cantonese. Maine lobsters can be found anywhere but in the worst case, if you can't find it you can use frozen lobster tails or even shrimp. We chose to use a fresh 3 pound Maine lobster for it's succulent sweet meat.\n\nOur ingredients are very easy to find:\nSoy Sauce\nFresh Ginger\nFresh Scallions\nButter\nGarlic\nHoney\nSambal (chilli)\n\nThe hardest part may be dispatching a live lobster but if you follow our suggestion in this video by beginning at the very top of its' head and cutting straight down, this should be the \"most\" humane way. In our other video, we showed another way to dispatch a lobster by cutting the heart first; we were met with extreme hate and scathing comments, but we still stand by our original way. \n\nThe rest of the world throws live lobsters into a large vat of boiling water so honestly, there's more than one way to dispatch a lobster. \n\nWe hope you find this video helpful and inspiring and that you'll try this recipe at home with a delicious lobster or another type of fresh shell fish. \n\n\nThis dish or a variant of it will be on our menu this year so do pass on by to give it a try.\n\nComment below and do let us know how your variation went. As always, thank you for watching and we look forward to seeing you in our next video :)\n\nFollow Hiroyuki Terada:\nFacebook: https://facebook.com/pages/NoVe-kitchen-and-bar/175557962456764 \nInstagram: https://www.instagram.com/diariesofamastersushichef/\nTwitter: https://twitter.com/RealSushiChef\n\nHiro's Second Channel: \nhttps://youtube.com/user/MIAMISPICE68 \n\nCamera Man's Channel: \nhttps://www.youtube.com/charlespreston\n\n\nWatch More Hiroyuki Terada:\nRecent Uploads: https://youtube.com/playlist?list=PLw4w6pxDkwuYuWPKACrEdlFbNXtFK52AU\nPopular Videos: https://youtube.com/playlist?list=PLw4w6pxDkwuZYtstHx4FrAi8ftIz7sPvz\nExtreme Series: https://youtube.com/playlist?list=PLw4w6pxDkwuY19AA30--T67M3K-WGriC8\nLow Difficulty Recipes: https://youtube.com/playlist?list=PLw4w6pxDkwuYWch7Yc_lFyoSU9_M2Lvw5\n\n\nSupport our Patreon page to see exclusive content not seen on YouTube, videos that will make you a better sushi chef, and recipes that will dazzle your tastebuds...Master Sushi Chef Hiroyuki Terada shares his utmost intimate knowledge with you. https://www.patreon.com/diariesofamastersushichef\n \n\nAs always, we wish to thank all of our fans for spending time here with us on YouTube. We're all humbled and grateful for all of you and for all the sweet, kind and spirited comments. See you in the next episode... \n\nSend fan mail and products to be reviewed to: \nHiroyuki Terada \n6815 Biscayne Blvd, \nSuite 103-451 \nMiami, FL 33138 \n\nNew videos every Sunday and Wednesday!\n\nBusiness Inquiries: diariesofamastersushichef@gmail.com\n\n -----------\n\nAbout Master Sushi Chef Hiroyuki Terada:\n\nMaster Sushi Chef Hiroyuki Terada is one of the top Japanese Chefs in the entire world and the most popular Japanese chef on YouTube. \n\nAt age 10, Terada learned the basics of sushi from his father and then went on to attend RKC Chef's School in Kochi, Japan from 1987-1989. He soon earned a nickname for his fast knife, attention to detail, divine presentation and ability to create new dishes and accents based on traditional Japanese cuisine. After graduating RKC Chef School, he was called to serve under Master Chef Kondo at Yuzuan restaurant in Kochi, Japan from 1989-1992. Mr. Kondo is the master of Kansai style cooking, considered to be the high-end of Japanese cuisine. Terada earned the title Master Sushi Chef by becoming the standing head sushi chef & can serve Fugu (Japan Licensed) to the public.\n\n-----------\n\nChef Hiroyuki Terada is using the Minonokuni Matsu-1573  210mm Yanagi.  Super Blue Steel.  Can also be used for breaking down whole fish and chickens. But normally for slicing, sashimi, vegetables, meat etc.. This is Chef Hiro's custom specked knife. \n\nFor more information on these knives, contact David Holly at david@knifemerchant.com or visit knifemerchant.com\n\nLet us know how you enjoy your Minonokuni.\n\nKnife Merchant\n7887 Dunbrook Road\nSuite H\nSan Diego, CA 92126\n800-714-8226\nwww.knifemerchant.com",
+            "dislikeCount": "3618",
+            "duration": "PT19M41S",
+            "likeCount": "39774",
+            "published_time": "2016-03-27T04:11:25.000Z",
+            "tags": [
+                "nove kitchen and bar",
+                "nove sushi and bar",
+                "master sushi chef",
+                "master chef",
+                "hiroyuki terada",
+                "hiro terada",
+                "jiro dreams of sushi",
+                "gordon ramsey",
+                "how to make sushi",
+                "how to cook a lobster",
+                "diy sushi",
+                "sushi",
+                "sashimi",
+                "best sushi chef in the world",
+                "best sushi restaurant in the world",
+                "miami florida",
+                "miami beach florida",
+                "how to kill a lobster",
+                "lobster cantonese",
+                "america lobster",
+                "how to",
+                "cooking lobster",
+                "restaurant depot"
+            ],
+            "thumbnail": "https://i.ytimg.com/vi/tpRhetFm0CQ/hqdefault.jpg",
+            "title": "EXTREMELY GRAPHIC: Lobster Cantonese (Chinese Inspired)",
+            "videoid": "tpRhetFm0CQ",
+            "viewCount": "3923738"
+        }
+    }
+}

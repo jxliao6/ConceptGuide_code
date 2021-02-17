@@ -1,0 +1,235 @@
+Activities of daily living
+Adverse drug reaction
+Adverse effect
+Adverse event
+Adverse reaction
+None
+Animal model
+Animal study
+Applicable regulatory requirement
+Approval
+Approved drugs
+Arm
+Audit
+Audit certificate
+Audit report
+Audit trail
+Baseline
+Bayesian
+Best practice
+Bias
+Bioavailable
+Bioinformatics
+Biological drug
+Biometrics
+Biometry
+Biostatistics
+Blind
+Blind review
+Blinded study
+Case report
+Case report form
+Case series
+Case-control study
+Clinical
+Clinical investigation
+Clinical investigator
+Clinical practice guidelines
+Clinical researcher
+Clinical series
+Clinical study
+Clinical Trial/Study Report
+Clinician
+Cohort (statistics)
+Cohort study
+None
+Comparator
+Compassionate use
+Compassionate use trial
+Complementary and alternative therapy
+Compliance
+None
+Consecutive case series
+Content validity
+Contract
+Contract Research Organization
+Contraindication
+Control
+Control animal
+Control group
+Controlled clinical trial
+Controlled trials
+Coordinating Committee
+Coordinating Investigator
+Data and Safety Monitoring Board
+None
+Direct Access
+Documentation
+Dose
+Dose-dependent
+Dose-limiting
+Dose-ranging study
+Dose-rate
+Double-blind study
+Double-dummy
+Dropout
+Drug
+Drug-drug interaction
+Efficacy
+Eligibility criteria
+Empirical
+Endpoint
+Enrolling
+Epidemiology
+Equivalence trial
+Essential Documents
+Evaluable disease
+Evaluable patients
+Expanded access
+Expanded access trial
+Experimental
+Experimental drug
+Follow-up
+None
+Frequentist methods
+Full analysis set
+Generalisability, Generalisation
+Global assessment variable
+Good clinical practice
+Healthy control
+Historic cohort study
+Historical control subject
+Human subject
+Hypothesis
+Impartial Witness
+In vitro
+In vivo
+Incidence
+Inclusion/exclusion criteria
+Independent Ethics Committee
+Indication
+Informed consent
+Informed consent document
+Inspection
+Institution
+None
+Intent to treat
+Interaction
+Inter-rater reliability
+Interim analysis
+Interim Clinical Trial/Study Report
+Intervention
+Intervention group
+Intervention name
+Intra-rater reliability
+Investigational
+Investigational drug
+Investigational New Drug
+Investigator
+Investigator's Brochure
+Legally Acceptable Representative
+Levels of evidence
+Masked
+Maximum tolerated dose
+Medication
+Medicine
+Meta-analysis
+Monitoring Report
+Monitoring
+Multicenter study
+Multidisciplinary opinion
+Multiplicity
+National Institutes of Health
+Natural history study
+None
+Nonblinded
+Nonclinical Study
+Nonconsecutive case series
+Non-inferiority trial
+Nonrandomized clinical trial
+Objective improvement
+Objective response
+Observation
+Observational study
+Off-label
+Open label study
+Orphan drugs
+Outcome
+Outpatient
+Over-the-counter drug
+Patient advocate
+Peer review
+Per protocol set
+Pharmacokinetics
+Phase I trial
+Phase I/II trial
+Phase II trial
+Phase II/III trial
+Phase III trial
+Phase IV trial
+Pilot study
+Placebo
+Placebo controlled study
+Placebo effect
+Placebo therapy
+Population study
+Preclinical
+Predictive factor
+Prevention
+Prevention trials
+Preventive
+Primary endpoint
+Prospective
+Prospective cohort study
+Clinical trial protocol
+Protocol Amendment
+Quality Assurance
+Quality Control
+None
+Randomization
+Randomized clinical trial
+Recruiting
+Recruitment status
+Regimen
+Regulatory Authorities
+Retrospective
+Retrospective cohort study
+Retrospective study
+Risk-benefit ratio
+Safety & tolerability
+Screening trials
+Selection bias
+Serious Adverse Event
+Sham therapy
+Side effect
+Significant
+Single blind study
+Source Data
+Source Documents
+Sponsor
+Sponsor-Investigator
+Standard treatment
+Standards of care
+Standard Operating Procedures
+Statistical analysis plan
+Statistical significance
+Study endpoint
+Study type
+Subinvestigator
+Subject Identification Code
+Subject/Trial Subject
+Superiority trial
+Surrogate variable
+Test article
+Toxicity
+Treatment effect
+Treatment emergent
+Treatment IND
+Treatment trials
+Trial Site
+Trial statistician
+t-test
+Uncontrolled study
+Unexpected Adverse Drug Reaction
+Vulnerable Subjects
+Well-being of the trial subjects

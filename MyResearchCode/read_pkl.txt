@@ -1,0 +1,731 @@
+Vaccination_50
+dict_keys(['videoid', 'title', 'published_time', 'channel_id', 'channel_title', 'thumbnail', 'duration', 'description', 'viewCount', 'likeCount', 'dislikeCount', 'tags', 'channel_description', 'channel_viewcount', 'channel_subscriberCount', 'videoCount', 'caption_exist', 'transcript', 'comment_sentiment', 'NumOfComments'])
+We have already search: dict_keys(['3D_printing_introduction_50', 'data_visualization_introduction_50', 'bitcoin_50', 'Sentiment_analysis_50', 'sorting_computer_science_50', 'the_belt_and_road_initiative_basic_50', 'automatic_summarization_introduction_50', 'natural_language_processing_text_preprocess_introduction_50', 'circular_economy_introduction_50', 'natural_language_processing_automatic_summarization_50', 'mobile_pay_tutorial_50', 'natural_language_processing_introduction_50', 'cradle_to_cradle_50', '5g_technology_50', 'decision_tree_machine_learning_50', 'sorting_50', 'sentiment_analysis_introduction_50', 'PoS_tagging_50', 'part_of_speech_tagging_introduction_50', 'topological_sort_50', 'bitcoin_mining_beginner_50', 'Mobile_payment_introduction_50', 'text_preprocessing_50', 'sentiment_analysis_twitter_data_50', 'named_entity_recognition_50', 'natural_language_processing_tokenization_introduction_50', '3d_printing_tutorial_50', 'computer_graphic_50', 'regression_machine_learning_50', 'natural_language_processing_50', 'mobile_payment_introduction_50', 'investing_for_beginner_50', 'nlp_text_preprocessing_introduction_50', 'natural_language_processing_text_preprocessing_50', 'test_concept_2_50', 'The_Belt_and_Road_Initiative_introduction_50', 'nlp_tokenization_50', 'Sentiment_analysis_introduction_50', 'natural_language_processing_automatic_text_summarization_50', 'stock_market_beginner_50', 'Sentimental_analysis_introduction_50', 'tokenization_50', 'nlp_text_similarity_introduction_50', 'text_preprocessing_introduction_50', 'computer_graphics_50', 'bitcoin_mining_tutorial_50', 'natural_language_processing_preprocessing_50', 'nlp_text_similarity_50', 'how_to_bitcoin_mining_50', 'bitcoin_mining_50', 'intellectual_property_introduction_50', 'text_mining_introduction_50', 'electronic_payment_system_introduction_50', 'natural_language_processing_automatic_summarization_introduction_50', 'sorting_data_structure_50', 'blockchain_50', 'green_economy_introduction_50', 'economic_corridor_50', 'test_concept_50', 'part_of_speech_tagging_50', 'investment_for_beginners_50', 'bitcoin_introduction_50', 'backpropogation_20', 'Genetically_modified_organism_20', 'eggs_benedict_20', 'Ketogenic_Diet_20', 'traditional_Chinese_medicine_20', 'traditional_Chinese_medicine_50', 'artificial_meat_50', 'human_evolution_50', 'climate_change_50', 'Ketogenic_diet_50', 'Genetically_modified_food_50', 'Earth_is_round_50', 'Genetically_Modified_organism_50', 'Why_am_I_so_tired_50', 'high_blood_pressure_50', 'How_long_does_the_flu_last_50', 'one_coffee_a_day_50', 'Genetically_Modified_Organism_50', 'cancer_screening_50', 'DIY_bookshelf_50', 'GMO_controversy_50', 'genetically_modified_organism_50', 'cook_steak_50', 'guitar_beginner_50', 'full_body_workout_50', 'COVID-19_50', 'life_hack_50', 'vaccination_50', 'COVID19_50', 'Vaccination_50'])
+dict_keys(['voc_list', 'voc_appear_dict', 'word_freq_dict', 'similarities_sparse', 'pairs', 'similarity_threshold', 'time_delta', 'voclist_SelectMethod'])
+ConceptPairs                                       similarity   f1           f2           g_f2         f3           f4           weighted_sum
+( baby                 , child                )   0.58113    , 0.54762    , -0.30872   , -0.29930   , -0.42093   , -0.25000   , -1.5212181814996057
+( baby                 , year                 )   0.55773    , 0.02402    , -0.46526   , -0.46526   , -0.09530   , -0.35714   , -2.538498986652601
+( baby                 , immune system        )   0.70833    , -0.02849   , 0.18429    , 0.16118    , 0.29745    , 0.00000    , 0.7524932738104337
+( baby                 , need                 )   0.58850    , 0.13795    , -0.59274   , -0.59321   , -0.41249   , -0.35714   , -3.125591179350142
+( baby                 , parent               )   0.60007    , 0.22315    , -0.18105   , -0.12922   , -0.45506   , -0.17857   , -1.1552955118241925
+( baby                 , public health        )   0.55619    , -0.08766   , 0.41556    , 0.41556    , -0.41249   , 0.14286    , 1.1750807141428878
+( whooping cough       , vaccination          )   0.70833    , 0.38442    , -0.76464   , -0.72432   , -0.31273   , -0.64286   , -4.029831237050855
+( whooping cough       , people               )   0.52386    , 0.11912    , -0.65190   , -0.65190   , -1.00000   , -0.50000   , -4.336581196605781
+( whooping cough       , child                )   0.53098    , 0.21291    , -0.49744   , -0.53874   , -1.00000   , -0.46429   , -3.7961528300870375
+( whooping cough       , year                 )   0.51112    , 0.05185    , -0.65263   , -0.65263   , -1.00000   , -0.57143   , -4.620326042271071
+( whooping cough       , immune system        )   0.42678    , 0.18503    , -0.07937   , -0.07937   , -1.00000   , -0.21429   , -1.6959187428614597
+( whooping cough       , parent               )   0.54704    , 0.13906    , -0.53684   , -0.46061   , -1.00000   , -0.39286   , -3.4213537524617434
+( vaccine work         , live attenuated      )   0.45412    , 0.19214    , 0.43333    , 0.43333    , 1.00000    , 0.07143    , 2.706430658884414
+( vaccination          , people               )   0.66079    , 0.11047    , 0.27121    , 0.29071    , -1.00000   , 0.14286    , 0.4111740845311062
+( vaccination          , child                )   0.67146    , 0.27105    , 0.19322    , 0.24271    , -1.00000   , 0.17857    , 0.5348944549189216
+( vaccination          , immune response      )   0.45833    , 0.41006    , 0.56667    , 0.51698    , -1.00000   , 0.64286    , 2.8895625944172694
+( vaccination          , year                 )   0.68519    , 0.05776    , 0.10628    , 0.12359    , -1.00000   , 0.07143    , -0.3571853609938995
+( vaccination          , immune system        )   0.79463    , 0.34363    , 0.38433    , 0.32010    , 0.00000    , 0.42857    , 2.589632993131766
+( vaccination          , need                 )   0.66343    , 0.21203    , 0.00018    , 0.03773    , -1.00000   , 0.07143    , -0.4604815872088117
+( vaccination          , doctor               )   0.50259    , 0.09656    , 0.53157    , 0.55053    , -0.68727   , 0.57143    , 2.775175378605401
+( vaccination          , parent               )   0.64606    , 0.16419    , 0.08251    , 0.14109    , -1.00000   , 0.25000    , 0.33746185887497393
+( vaccination          , infectious disease   )   0.70833    , 0.54107    , 0.75382    , 0.68216    , 0.00000    , 0.64286    , 4.516114699618358
+( vaccination          , live attenuated      )   0.40309    , 0.12740    , 0.19677    , 0.17305    , -1.00000   , 0.71429    , 1.789397272135358
+( vaccination          , public health        )   0.75259    , 0.41537    , 0.39462    , 0.47254    , 0.00000    , 0.57143    , 3.5472900418171744
+( vaccination          , meningococcal disease )   0.42678    , 0.59842    , 0.81935    , 0.83138    , 1.00000    , 0.75000    , 6.3425642683767105
+( people               , child                )   0.68604    , 0.34820    , 0.00993    , -0.03767   , 0.43003    , 0.03571    , 0.7723760013622916
+( people               , year                 )   0.42906    , 0.02637    , 0.01499    , 0.01499    , 0.03283    , -0.07143   , -0.11011624597964761
+( people               , student              )   0.41771    , 0.20492    , -0.04379   , -0.04379   , 0.71165    , 0.57143    , 2.499489660173574
+( people               , immune system        )   0.57275    , 0.13096    , 0.29656    , 0.29656    , 1.00000    , 0.28571    , 2.8777993038740814
+( people               , need                 )   0.92906    , 0.17790    , -0.02410   , -0.02410   , -0.00363   , -0.07143   , -0.11233103774605366
+( people               , kid                  )   0.57869    , 0.03055    , 0.12727    , 0.12727    , 0.42192    , 0.21429    , 1.4771336041412497
+( people               , doctor               )   0.52670    , 0.13760    , 0.55108    , 0.53256    , 0.44800    , 0.42857    , 3.4689838079722533
+( people               , parent               )   0.43386    , 0.12320    , 0.06755    , 0.06876    , 0.21497    , 0.10714    , 0.8658628398680991
+( people               , infectious disease   )   0.43257    , 0.15236    , 0.61226    , 0.61226    , 1.00000    , 0.50000    , 4.489135328730686
+( people               , public health        )   0.52670    , 0.27883    , 0.20464    , 0.20464    , 1.00000    , 0.42857    , 3.1784689892265807
+( people               , meningococcal disease )   0.44365    , 0.17426    , 0.80380    , 0.80380    , 1.00000    , 0.60714    , 5.407085508659144
+( child                , year                 )   0.69020    , 0.11701    , -0.03779   , -0.03253   , -1.00000   , -0.10714   , -1.3020127045336332
+( child                , immune system        )   0.48179    , 0.12832    , -0.07399   , -0.04846   , 0.71837    , 0.25000    , 1.451307925070446
+( child                , need                 )   0.86684    , 0.13870    , -0.36656   , -0.38161   , -0.29198   , -0.10714   , -1.6195277869139273
+( child                , kid                  )   0.58723    , 0.20342    , 0.12363    , 0.12410    , 1.00000    , 0.17857    , 2.111441920875288
+( child                , parent               )   0.91731    , 0.38442    , 0.01457    , 0.06506    , 0.00000    , 0.07143    , 0.793881000714253
+( child                , infectious disease   )   0.43732    , 0.24425    , 0.28178    , 0.40871    , 1.00000    , 0.46429    , 3.863228209189957
+( child                , public health        )   0.53389    , 0.25302    , 0.10256    , 0.16907    , 0.71837    , 0.39286    , 2.6571703891939036
+( immune response      , immune system        )   0.73570    , 0.73964    , -0.23333   , -0.23333   , 0.00000    , -0.21429   , -0.6032126120034074
+( year                 , student              )   0.71320    , 0.20700    , 0.91579    , 0.91579    , 0.28606    , 0.64286    , 5.169002829158053
+( year                 , immune system        )   0.52696    , -0.04199   , 0.02105    , 0.02105    , 1.00000    , 0.35714    , 2.0925981421913624
+( year                 , need                 )   0.40909    , -0.10328   , -0.19611   , -0.19611   , -0.32118   , 0.00000    , -1.0127861669093243
+( year                 , parent               )   0.91367    , 0.16670    , 0.21053    , 0.21309    , 0.00000    , 0.17857    , 1.3416783990749224
+( year                 , infectious disease   )   0.46760    , 0.00584    , 0.64211    , 0.64211    , 1.00000    , 0.57143    , 4.646440107460201
+( year                 , public health        )   0.55151    , 0.02703    , 0.61053    , 0.61053    , 1.00000    , 0.50000    , 4.358608568035013
+( year                 , meningococcal disease )   0.43464    , 0.02073    , 0.73684    , 0.73684    , 1.00000    , 0.67857    , 5.266970821793761
+( student              , need                 )   0.40990    , 0.00190    , -0.03961   , -0.03961   , -1.00000   , -0.64286   , -3.0455157620388116
+( student              , public health        )   0.42678    , 0.35107    , -0.47447   , -0.47447   , 1.00000    , -0.14286   , -0.5009218165323472
+( immune system        , need                 )   0.58850    , 0.40897    , -0.38239   , -0.38239   , -1.00000   , -0.35714   , -2.8096162172342334
+( immune system        , infectious disease   )   0.67678    , 0.42495    , 0.50827    , 0.50827    , 0.00000    , 0.21429    , 2.5926160380562164
+( immune system        , live attenuated      )   0.64434    , 0.15409    , 0.64286    , 0.64286    , 0.00000    , 0.28571    , 2.9398061842139724
+( need                 , parent               )   0.61196    , 0.11200    , 0.45422    , 0.45574    , 1.00000    , 0.17857    , 3.014948744900601
+( need                 , infectious disease   )   0.51112    , 0.22848    , 0.75342    , 0.75342    , 1.00000    , 0.57143    , 5.20303816598512
+( need                 , public health        )   0.51382    , 0.22809    , 0.37900    , 0.37900    , 1.00000    , 0.50000    , 3.8650713706901954
+( bcg vaccine          , live attenuated      )   0.60355    , 0.19064    , -0.73333   , -0.73333   , 1.00000    , -0.07143   , -1.2236472118971322
+( parent               , infectious disease   )   0.44803    , 0.10337    , 0.24211    , 0.24211    , 1.00000    , 0.39286    , 3.0082621193517065
+( infectious disease   , public health        )   0.64434    , 0.27705    , -0.14620   , -0.14620   , 0.00000    , -0.07143   , -0.3758307433926643
+( public health        , meningococcal disease )   0.45412    , 0.27734    , 0.11111    , 0.11111    , 1.00000    , 0.17857    , 2.146387853972829
+start Combine 
+[0.0489685088230305, 0.055610857352086054, 0.03463889466436341, 0, 0.17042492624692573, 0.07976089242272279, 0.011270253432083792, 0.011740934678113329, 0.365, -0.05419850162772956, 0.04839652960216863, 0.0015251753789928496, 0.04047619047619047, 0.18425132634087854, 0.28867627164502163, 0, 0.06392933236080835, 0.050116800343367345, 0.11853604196729194, 0.2633333333333333, 0.010943573989611283, 0.0027326260470518153, 0.1972316523632313, 0.007065626297762363, 0.1945753898878899, 0.16843240189594355, 0.17338272907647911, 0]
+80924 0.365
+likes/dislikes/non/normalizeed: 70451.0 5905.0 0.0489685088230305 0.13416029814528904
+likesDislikes,Comment 0.8453297710723453 , 0.13416029814528904
+0.3475111400234059 
+
+likes/dislikes/non/normalizeed: 1801.0 2396.0 0.055610857352086054 0.15235851329338645
+likesDislikes,Comment -0.14176792947343342 , 0.15235851329338645
+0.06412058046334049 
+
+likes/dislikes/non/normalizeed: 11048.0 4088.0 0.03463889466436341 0.09490108127222852
+likesDislikes,Comment 0.459830866807611 , 0.09490108127222852
+0.20438001693284324 
+
+likes/dislikes/non/normalizeed: 0.0 0.0 0 0.0
+0 
+
+likes/dislikes/non/normalizeed: 2459.0 100.0 0.17042492624692573 0.46691760615596095
+likesDislikes,Comment 0.9218444704962876 , 0.46691760615596095
+0.6033956654580589 
+
+likes/dislikes/non/normalizeed: 134.0 123.0 0.07976089242272279 0.21852299293896654
+likesDislikes,Comment 0.042801556420233464 , 0.21852299293896654
+0.16580656198334662 
+
+likes/dislikes/non/normalizeed: 1624.0 1568.0 0.011270253432083792 0.030877406663243265
+likesDislikes,Comment 0.017543859649122806 , 0.030877406663243265
+0.026877342559007127 
+
+likes/dislikes/non/normalizeed: 375.0 195.0 0.011740934678113329 0.032166944323598165
+likesDislikes,Comment 0.3157894736842105 , 0.032166944323598165
+0.11725370313178186 
+
+likes/dislikes/non/normalizeed: 318.0 57.0 0.365 1.0
+likesDislikes,Comment 0.696 , 1.0
+0.9087999999999999 
+
+likes/dislikes/non/normalizeed: 572.0 107.0 -0.05419850162772956 -0.14848904555542344
+likesDislikes,Comment 0.6848306332842415 , -0.14848904555542344
+0.10150685809647604 
+
+likes/dislikes/non/normalizeed: 80924.0 14225.0 0.04839652960216863 0.13259323178676335
+likesDislikes,Comment 0.7009952810854554 , 0.13259323178676335
+0.30311384657637097 
+
+likes/dislikes/non/normalizeed: 789.0 375.0 0.0015251753789928496 0.0041785626821721905
+likesDislikes,Comment 0.3556701030927835 , 0.0041785626821721905
+0.10962602480535558 
+
+likes/dislikes/non/normalizeed: 31.0 2.0 0.04047619047619047 0.11089367253750815
+likesDislikes,Comment 0.8787878787878788 , 0.11089367253750815
+0.3412619344126193 
+
+likes/dislikes/non/normalizeed: 1628.0 135.0 0.18425132634087854 0.5047981543585713
+likesDislikes,Comment 0.8468519568916619 , 0.5047981543585713
+0.6074142951184984 
+
+likes/dislikes/non/normalizeed: 0.0 0.0 0.28867627164502163 0.7908938949178675
+0 
+
+likes/dislikes/non/normalizeed: 1414.0 330.0 0 0.0
+likesDislikes,Comment 0.6215596330275229 , 0.0
+0.18646788990825688 
+
+likes/dislikes/non/normalizeed: 1965.0 413.0 0.06392933236080835 0.17514885578303657
+likesDislikes,Comment 0.6526492851135408 , 0.17514885578303657
+0.31839898458218785 
+
+likes/dislikes/non/normalizeed: 135.0 733.0 0.050116800343367345 0.13730630231059546
+likesDislikes,Comment -0.6889400921658986 , 0.13730630231059546
+-0.11056761603235275 
+
+likes/dislikes/non/normalizeed: 5599.0 78.0 0.11853604196729194 0.32475627936244367
+likesDislikes,Comment 0.9725206975515237 , 0.32475627936244367
+0.5190856048191677 
+
+likes/dislikes/non/normalizeed: 91.0 13.0 0.2633333333333333 0.7214611872146118
+likesDislikes,Comment 0.75 , 0.7214611872146118
+0.7300228310502282 
+
+likes/dislikes/non/normalizeed: 118.0 351.0 0.010943573989611283 0.029982394492085708
+likesDislikes,Comment -0.4968017057569296 , 0.029982394492085708
+-0.1280528355826189 
+
+likes/dislikes/non/normalizeed: 41.0 45.0 0.0027326260470518153 0.007486646704251549
+likesDislikes,Comment -0.046511627906976744 , 0.007486646704251549
+-0.008712835679116938 
+
+likes/dislikes/non/normalizeed: 1712.0 129.0 0.1972316523632313 0.5403606914061132
+likesDislikes,Comment 0.8598587724063009 , 0.5403606914061132
+0.6362101157061695 
+
+likes/dislikes/non/normalizeed: 4013.0 1635.0 0.007065626297762363 0.01935788026784209
+likesDislikes,Comment 0.42103399433427763 , 0.01935788026784209
+0.13986071448777274 
+
+likes/dislikes/non/normalizeed: 654.0 18.0 0.1945753898878899 0.5330832599668216
+likesDislikes,Comment 0.9464285714285714 , 0.5330832599668216
+0.6570868534053464 
+
+likes/dislikes/non/normalizeed: 216.0 16.0 0.16843240189594355 0.46145863533135223
+likesDislikes,Comment 0.8620689655172413 , 0.46145863533135223
+0.581641734387119 
+
+likes/dislikes/non/normalizeed: 1511.0 78.0 0.17338272907647911 0.4750211755519976
+likesDislikes,Comment 0.9018250471994965 , 0.4750211755519976
+0.6030623370462472 
+
+likes/dislikes/non/normalizeed: 822.0 340.0 0 0.0
+likesDislikes,Comment 0.41480206540447506 , 0.0
+0.12444061962134251 
+
+RemovedEdgesOfNode: {0: {}, 1: {}, 2: {}, 3: {}, 4: {}, 5: {}, 6: {}, 7: {}, 8: {}, 9: {}, 10: {}, 11: {}, 12: {}, 13: {}, 14: {}, 15: {}, 16: {}, 17: {}, 18: {}, 19: {}, 20: {}, 21: {}, 22: {}, 23: {}, 24: {}, 25: {}, 26: {}, 27: {}, 28: {}, 29: {}}
+{0: [],
+ 1: [],
+ 2: [15, 10, 5, 6, 7, 22, 2],
+ 3: [15, 10, 5, 6, 7, 22, 2, 14, 3],
+ 4: [],
+ 5: [15, 10, 5],
+ 6: [15, 10, 5, 6],
+ 7: [15, 10, 5, 6, 7],
+ 8: [15, 10, 5, 6, 7, 22, 2, 14, 8],
+ 9: [],
+ 10: [15, 10],
+ 11: [],
+ 12: [],
+ 13: [15, 10, 5, 6, 7, 22, 2, 27, 13],
+ 14: [15, 10, 5, 6, 7, 22, 2, 14],
+ 15: [],
+ 16: [],
+ 17: [15, 10, 5, 6, 7, 17],
+ 18: [],
+ 19: [],
+ 20: [15, 10, 5, 6, 20],
+ 21: [15, 10, 5, 6, 7, 22, 2, 14, 4, 25, 21],
+ 22: [15, 10, 5, 6, 7, 22],
+ 23: [15, 10, 5, 6, 7, 22, 2, 27, 14, 23],
+ 24: [],
+ 25: [15, 10, 5, 6, 7, 22, 2, 14, 4, 25],
+ 26: [],
+ 27: [15, 10, 5, 6, 7, 22, 2, 27],
+ 28: [],
+ 29: [15, 10, 5, 6, 7, 22, 2, 27, 29]}
+TopConcepts ['” “', 'kitten', 'baby', 'whooping cough', 'vaccine work', 'vaccination', 'people', 'child', 'immune response', 'new brunswick', 'year', 'good job', 'good boy', 'student', 'immune system', 'need', 'sugar water', 'kid', 'kid vaccinated', 'represents', 'doctor', 'bcg vaccine', 'parent', 'infectious disease', 'white cell', 'live attenuated', 'card system', 'public health', 'endemic country', 'meningococcal disease']
+selectednodes: 0
+setsize 0 []
+[]
+selectednodes: 1
+setsize 0 []
+[]
+selectednodes: 2
+setsize 4 ['YlKLpQEWILg', 'SmWQqef-j6Q', 'Rzxr9FeZf1g', 'tL-zwrxVcHw']
+['need', 'year', 'vaccination', 'people', 'child', 'parent', 'baby']
+YlKLpQEWILg
+v1 [0, 2, 3] 1.6666666666666667
+v2 [15, 5, 6]
+SmWQqef-j6Q
+v1 [1, 4, 3, 2, 6, 5, 0] 3.0
+v2 [10, 7, 6, 5, 2, 22, 15]
+Rzxr9FeZf1g
+v1 [2, 3, 4, 5, 0, 6, 1] 3.0
+v2 [5, 6, 7, 22, 15, 2, 10]
+tL-zwrxVcHw
+v1 [4, 5, 3, 2, 1, 0, 6] 3.0
+v2 [7, 22, 6, 5, 10, 15, 2]
+selectednodes: 3
+setsize 6 ['YlKLpQEWILg', 'SmWQqef-j6Q', 'Rzxr9FeZf1g', 'tL-zwrxVcHw', 'vDeue0nmbco', '55wOg9fe_Ms']
+['need', 'year', 'vaccination', 'people', 'child', 'parent', 'baby', 'immune system', 'whooping cough']
+YlKLpQEWILg
+v1 [0, 2, 7, 3] 3.0
+v2 [15, 5, 14, 6]
+SmWQqef-j6Q
+v1 [1, 4, 3, 2, 6, 8, 7, 5, 0] 4.0
+v2 [10, 7, 6, 5, 2, 3, 14, 22, 15]
+Rzxr9FeZf1g
+v1 [2, 3, 4, 5, 0, 6, 1] 3.0
+v2 [5, 6, 7, 22, 15, 2, 10]
+tL-zwrxVcHw
+v1 [4, 5, 3, 2, 1, 0, 6, 7, 8] 4.0
+v2 [7, 22, 6, 5, 10, 15, 2, 14, 3]
+vDeue0nmbco
+v1 [7, 2, 0] 3.0
+v2 [14, 5, 15]
+55wOg9fe_Ms
+v1 [8, 4, 3, 6, 1, 0, 5, 2] 3.625
+v2 [3, 7, 6, 2, 10, 15, 22, 5]
+selectednodes: 4
+setsize 0 []
+[]
+selectednodes: 5
+setsize 3 ['YlKLpQEWILg', 'SmWQqef-j6Q', 'Rzxr9FeZf1g']
+['need', 'year', 'vaccination']
+YlKLpQEWILg
+v1 [0, 2] 1.0
+v2 [15, 5]
+SmWQqef-j6Q
+v1 [1, 2, 0] 1.0
+v2 [10, 5, 15]
+Rzxr9FeZf1g
+v1 [2, 0, 1] 1.0
+v2 [5, 15, 10]
+selectednodes: 6
+setsize 3 ['YlKLpQEWILg', 'SmWQqef-j6Q', 'Rzxr9FeZf1g']
+['need', 'year', 'vaccination', 'people']
+YlKLpQEWILg
+v1 [0, 2, 3] 1.6666666666666667
+v2 [15, 5, 6]
+SmWQqef-j6Q
+v1 [1, 3, 2, 0] 1.5
+v2 [10, 6, 5, 15]
+Rzxr9FeZf1g
+v1 [2, 3, 0, 1] 1.5
+v2 [5, 6, 15, 10]
+selectednodes: 7
+setsize 4 ['YlKLpQEWILg', 'SmWQqef-j6Q', 'Rzxr9FeZf1g', 'tL-zwrxVcHw']
+['need', 'year', 'vaccination', 'people', 'child']
+YlKLpQEWILg
+v1 [0, 2, 3] 1.6666666666666667
+v2 [15, 5, 6]
+SmWQqef-j6Q
+v1 [1, 4, 3, 2, 0] 2.0
+v2 [10, 7, 6, 5, 15]
+Rzxr9FeZf1g
+v1 [2, 3, 4, 0, 1] 2.0
+v2 [5, 6, 7, 15, 10]
+tL-zwrxVcHw
+v1 [4, 3, 2, 1, 0] 2.0
+v2 [7, 6, 5, 10, 15]
+selectednodes: 8
+setsize 6 ['YlKLpQEWILg', 'SmWQqef-j6Q', 'Rzxr9FeZf1g', 'tL-zwrxVcHw', 'vDeue0nmbco', 'qpjh3qMm2Gs']
+['need', 'year', 'vaccination', 'people', 'child', 'parent', 'baby', 'immune system', 'immune response']
+YlKLpQEWILg
+v1 [0, 2, 8, 7, 3] 4.0
+v2 [15, 5, 8, 14, 6]
+SmWQqef-j6Q
+v1 [1, 4, 3, 2, 6, 7, 8, 5, 0] 4.0
+v2 [10, 7, 6, 5, 2, 14, 8, 22, 15]
+Rzxr9FeZf1g
+v1 [2, 3, 4, 5, 0, 6, 1] 3.0
+v2 [5, 6, 7, 22, 15, 2, 10]
+tL-zwrxVcHw
+v1 [4, 5, 3, 2, 1, 0, 6, 7] 3.5
+v2 [7, 22, 6, 5, 10, 15, 2, 14]
+vDeue0nmbco
+v1 [7, 2, 0] 3.0
+v2 [14, 5, 15]
+qpjh3qMm2Gs
+v1 [8, 2, 0] 3.3333333333333335
+v2 [8, 5, 15]
+selectednodes: 9
+setsize 0 []
+[]
+selectednodes: 10
+setsize 2 ['YlKLpQEWILg', 'SmWQqef-j6Q']
+['need', 'year']
+YlKLpQEWILg
+v1 [0] 0.0
+v2 [15]
+SmWQqef-j6Q
+v1 [1, 0] 0.5
+v2 [10, 15]
+selectednodes: 11
+setsize 0 []
+[]
+selectednodes: 12
+setsize 0 []
+[]
+selectednodes: 13
+setsize 5 ['YlKLpQEWILg', 'SmWQqef-j6Q', 'Rzxr9FeZf1g', 'tL-zwrxVcHw', 'FXj6ELi4BVg']
+['need', 'year', 'vaccination', 'people', 'child', 'parent', 'baby', 'public health', 'student']
+YlKLpQEWILg
+v1 [0, 2, 3] 1.6666666666666667
+v2 [15, 5, 6]
+SmWQqef-j6Q
+v1 [1, 4, 3, 2, 6, 7, 5, 0] 3.5
+v2 [10, 7, 6, 5, 2, 27, 22, 15]
+Rzxr9FeZf1g
+v1 [2, 3, 4, 5, 0, 6, 1, 7] 3.5
+v2 [5, 6, 7, 22, 15, 2, 10, 27]
+tL-zwrxVcHw
+v1 [4, 5, 3, 2, 1, 0, 6, 7] 3.5
+v2 [7, 22, 6, 5, 10, 15, 2, 27]
+FXj6ELi4BVg
+v1 [8, 2, 7, 5, 1] 4.6
+v2 [13, 5, 27, 22, 10]
+selectednodes: 14
+setsize 5 ['YlKLpQEWILg', 'SmWQqef-j6Q', 'Rzxr9FeZf1g', 'tL-zwrxVcHw', 'vDeue0nmbco']
+['need', 'year', 'vaccination', 'people', 'child', 'parent', 'baby', 'immune system']
+YlKLpQEWILg
+v1 [0, 2, 7, 3] 3.0
+v2 [15, 5, 14, 6]
+SmWQqef-j6Q
+v1 [1, 4, 3, 2, 6, 7, 5, 0] 3.5
+v2 [10, 7, 6, 5, 2, 14, 22, 15]
+Rzxr9FeZf1g
+v1 [2, 3, 4, 5, 0, 6, 1] 3.0
+v2 [5, 6, 7, 22, 15, 2, 10]
+tL-zwrxVcHw
+v1 [4, 5, 3, 2, 1, 0, 6, 7] 3.5
+v2 [7, 22, 6, 5, 10, 15, 2, 14]
+vDeue0nmbco
+v1 [7, 2, 0] 3.0
+v2 [14, 5, 15]
+selectednodes: 15
+setsize 0 []
+[]
+selectednodes: 16
+setsize 0 []
+[]
+selectednodes: 17
+setsize 5 ['YlKLpQEWILg', 'SmWQqef-j6Q', 'Rzxr9FeZf1g', 'tL-zwrxVcHw', 'QgpfNScEd3M']
+['need', 'year', 'vaccination', 'people', 'child', 'kid']
+YlKLpQEWILg
+v1 [0, 2, 3] 1.6666666666666667
+v2 [15, 5, 6]
+SmWQqef-j6Q
+v1 [1, 4, 3, 2, 0] 2.0
+v2 [10, 7, 6, 5, 15]
+Rzxr9FeZf1g
+v1 [2, 3, 4, 0, 1] 2.0
+v2 [5, 6, 7, 15, 10]
+tL-zwrxVcHw
+v1 [4, 5, 3, 2, 1, 0] 2.5
+v2 [7, 17, 6, 5, 10, 15]
+QgpfNScEd3M
+v1 [5, 3, 1, 2, 4, 0] 2.5
+v2 [17, 6, 10, 5, 7, 15]
+selectednodes: 18
+setsize 0 []
+[]
+selectednodes: 19
+setsize 0 []
+[]
+selectednodes: 20
+setsize 4 ['YlKLpQEWILg', 'SmWQqef-j6Q', 'Rzxr9FeZf1g', 'QgpfNScEd3M']
+['need', 'year', 'vaccination', 'people', 'doctor']
+YlKLpQEWILg
+v1 [0, 2, 3] 1.6666666666666667
+v2 [15, 5, 6]
+SmWQqef-j6Q
+v1 [1, 3, 2, 0] 1.5
+v2 [10, 6, 5, 15]
+Rzxr9FeZf1g
+v1 [2, 3, 0, 4, 1] 2.0
+v2 [5, 6, 15, 20, 10]
+QgpfNScEd3M
+v1 [4, 3, 1, 2, 0] 2.0
+v2 [20, 6, 10, 5, 15]
+selectednodes: 21
+setsize 8 ['YlKLpQEWILg', 'SmWQqef-j6Q', 'Rzxr9FeZf1g', 'tL-zwrxVcHw', 'vDeue0nmbco', 'CTj_xoCuhPU', 'yHTwktaRa_s', 'Mz11y9Cnnu4']
+['need', 'year', 'vaccination', 'people', 'child', 'parent', 'baby', 'immune system', 'vaccine work', 'live attenuated', 'bcg vaccine']
+YlKLpQEWILg
+v1 [0, 2, 9, 7, 10, 3] 5.166666666666667
+v2 [15, 5, 25, 14, 21, 6]
+SmWQqef-j6Q
+v1 [1, 4, 3, 2, 6, 7, 5, 0] 3.5
+v2 [10, 7, 6, 5, 2, 14, 22, 15]
+Rzxr9FeZf1g
+v1 [2, 3, 4, 5, 0, 6, 1] 3.0
+v2 [5, 6, 7, 22, 15, 2, 10]
+tL-zwrxVcHw
+v1 [4, 5, 3, 2, 1, 0, 6, 7] 3.5
+v2 [7, 22, 6, 5, 10, 15, 2, 14]
+vDeue0nmbco
+v1 [7, 2, 0] 3.0
+v2 [14, 5, 15]
+CTj_xoCuhPU
+v1 [4, 5, 0, 6, 1, 8, 3] 3.857142857142857
+v2 [7, 22, 15, 2, 10, 4, 6]
+yHTwktaRa_s
+v1 [9, 0, 7, 1, 8, 3] 4.666666666666667
+v2 [25, 15, 14, 10, 4, 6]
+Mz11y9Cnnu4
+v1 [2, 10, 1, 9, 4, 8] 5.666666666666667
+v2 [5, 21, 10, 25, 7, 4]
+selectednodes: 22
+setsize 4 ['YlKLpQEWILg', 'SmWQqef-j6Q', 'Rzxr9FeZf1g', 'tL-zwrxVcHw']
+['need', 'year', 'vaccination', 'people', 'child', 'parent']
+YlKLpQEWILg
+v1 [0, 2, 3] 1.6666666666666667
+v2 [15, 5, 6]
+SmWQqef-j6Q
+v1 [1, 4, 3, 2, 5, 0] 2.5
+v2 [10, 7, 6, 5, 22, 15]
+Rzxr9FeZf1g
+v1 [2, 3, 4, 5, 0, 1] 2.5
+v2 [5, 6, 7, 22, 15, 10]
+tL-zwrxVcHw
+v1 [4, 5, 3, 2, 1, 0] 2.5
+v2 [7, 22, 6, 5, 10, 15]
+selectednodes: 23
+setsize 6 ['YlKLpQEWILg', 'SmWQqef-j6Q', 'Rzxr9FeZf1g', 'tL-zwrxVcHw', 'FXj6ELi4BVg', 'vDeue0nmbco']
+['need', 'year', 'vaccination', 'people', 'child', 'parent', 'baby', 'public health', 'immune system', 'infectious disease']
+YlKLpQEWILg
+v1 [0, 2, 8, 3] 3.25
+v2 [15, 5, 14, 6]
+SmWQqef-j6Q
+v1 [1, 4, 3, 2, 6, 8, 7, 5, 0] 4.0
+v2 [10, 7, 6, 5, 2, 14, 27, 22, 15]
+Rzxr9FeZf1g
+v1 [2, 3, 4, 5, 0, 6, 1, 7] 3.5
+v2 [5, 6, 7, 22, 15, 2, 10, 27]
+tL-zwrxVcHw
+v1 [4, 5, 3, 2, 9, 1, 0, 6, 8, 7] 4.5
+v2 [7, 22, 6, 5, 23, 10, 15, 2, 14, 27]
+FXj6ELi4BVg
+v1 [2, 7, 5, 1] 3.75
+v2 [5, 27, 22, 10]
+vDeue0nmbco
+v1 [8, 2, 0] 3.3333333333333335
+v2 [14, 5, 15]
+selectednodes: 24
+setsize 0 []
+[]
+selectednodes: 25
+setsize 7 ['YlKLpQEWILg', 'SmWQqef-j6Q', 'Rzxr9FeZf1g', 'tL-zwrxVcHw', 'vDeue0nmbco', 'CTj_xoCuhPU', 'yHTwktaRa_s']
+['need', 'year', 'vaccination', 'people', 'child', 'parent', 'baby', 'immune system', 'vaccine work', 'live attenuated']
+YlKLpQEWILg
+v1 [0, 2, 9, 7, 3] 4.2
+v2 [15, 5, 25, 14, 6]
+SmWQqef-j6Q
+v1 [1, 4, 3, 2, 6, 7, 5, 0] 3.5
+v2 [10, 7, 6, 5, 2, 14, 22, 15]
+Rzxr9FeZf1g
+v1 [2, 3, 4, 5, 0, 6, 1] 3.0
+v2 [5, 6, 7, 22, 15, 2, 10]
+tL-zwrxVcHw
+v1 [4, 5, 3, 2, 1, 0, 6, 7] 3.5
+v2 [7, 22, 6, 5, 10, 15, 2, 14]
+vDeue0nmbco
+v1 [7, 2, 0] 3.0
+v2 [14, 5, 15]
+CTj_xoCuhPU
+v1 [4, 5, 0, 6, 1, 8, 3] 3.857142857142857
+v2 [7, 22, 15, 2, 10, 4, 6]
+yHTwktaRa_s
+v1 [9, 0, 7, 1, 8, 3] 4.666666666666667
+v2 [25, 15, 14, 10, 4, 6]
+selectednodes: 26
+setsize 0 []
+[]
+selectednodes: 27
+setsize 5 ['YlKLpQEWILg', 'SmWQqef-j6Q', 'Rzxr9FeZf1g', 'tL-zwrxVcHw', 'FXj6ELi4BVg']
+['need', 'year', 'vaccination', 'people', 'child', 'parent', 'baby', 'public health']
+YlKLpQEWILg
+v1 [0, 2, 3] 1.6666666666666667
+v2 [15, 5, 6]
+SmWQqef-j6Q
+v1 [1, 4, 3, 2, 6, 7, 5, 0] 3.5
+v2 [10, 7, 6, 5, 2, 27, 22, 15]
+Rzxr9FeZf1g
+v1 [2, 3, 4, 5, 0, 6, 1, 7] 3.5
+v2 [5, 6, 7, 22, 15, 2, 10, 27]
+tL-zwrxVcHw
+v1 [4, 5, 3, 2, 1, 0, 6, 7] 3.5
+v2 [7, 22, 6, 5, 10, 15, 2, 27]
+FXj6ELi4BVg
+v1 [2, 7, 5, 1] 3.75
+v2 [5, 27, 22, 10]
+selectednodes: 28
+setsize 0 []
+[]
+selectednodes: 29
+setsize 6 ['YlKLpQEWILg', 'SmWQqef-j6Q', 'Rzxr9FeZf1g', 'tL-zwrxVcHw', 'FXj6ELi4BVg', 'ggtkzkoI3eM']
+['need', 'year', 'vaccination', 'people', 'child', 'parent', 'baby', 'public health', 'meningococcal disease']
+YlKLpQEWILg
+v1 [0, 2, 3] 1.6666666666666667
+v2 [15, 5, 6]
+SmWQqef-j6Q
+v1 [1, 4, 3, 2, 6, 7, 5, 0, 8] 4.0
+v2 [10, 7, 6, 5, 2, 27, 22, 15, 29]
+Rzxr9FeZf1g
+v1 [2, 3, 4, 5, 0, 6, 1, 7] 3.5
+v2 [5, 6, 7, 22, 15, 2, 10, 27]
+tL-zwrxVcHw
+v1 [4, 5, 3, 2, 1, 0, 6, 7] 3.5
+v2 [7, 22, 6, 5, 10, 15, 2, 27]
+FXj6ELi4BVg
+v1 [2, 7, 5, 1] 3.75
+v2 [5, 27, 22, 10]
+ggtkzkoI3eM
+v1 [5, 3, 4, 0, 1, 2, 7, 6, 8] 4.0
+v2 [22, 6, 7, 15, 10, 5, 27, 2, 29]
+{0: {},
+ 1: {},
+ 2: {'Rzxr9FeZf1g': [5, 6, 7, 22, 15, 2, 10],
+     'SmWQqef-j6Q': [10, 7, 6, 5, 2, 22, 15],
+     'YlKLpQEWILg': [15, 5, 6],
+     'tL-zwrxVcHw': [7, 22, 6, 5, 10, 15, 2]},
+ 3: {'55wOg9fe_Ms': [3, 7, 6, 2, 10, 15, 22, 5],
+     'Rzxr9FeZf1g': [5, 6, 7, 22, 15, 2, 10],
+     'SmWQqef-j6Q': [10, 7, 6, 5, 2, 3, 14, 22, 15],
+     'YlKLpQEWILg': [15, 5, 14, 6],
+     'tL-zwrxVcHw': [7, 22, 6, 5, 10, 15, 2, 14, 3],
+     'vDeue0nmbco': [14, 5, 15]},
+ 4: {},
+ 5: {'Rzxr9FeZf1g': [5, 15, 10],
+     'SmWQqef-j6Q': [10, 5, 15],
+     'YlKLpQEWILg': [15, 5]},
+ 6: {'Rzxr9FeZf1g': [5, 6, 15, 10],
+     'SmWQqef-j6Q': [10, 6, 5, 15],
+     'YlKLpQEWILg': [15, 5, 6]},
+ 7: {'Rzxr9FeZf1g': [5, 6, 7, 15, 10],
+     'SmWQqef-j6Q': [10, 7, 6, 5, 15],
+     'YlKLpQEWILg': [15, 5, 6],
+     'tL-zwrxVcHw': [7, 6, 5, 10, 15]},
+ 8: {'Rzxr9FeZf1g': [5, 6, 7, 22, 15, 2, 10],
+     'SmWQqef-j6Q': [10, 7, 6, 5, 2, 14, 8, 22, 15],
+     'YlKLpQEWILg': [15, 5, 8, 14, 6],
+     'qpjh3qMm2Gs': [8, 5, 15],
+     'tL-zwrxVcHw': [7, 22, 6, 5, 10, 15, 2, 14],
+     'vDeue0nmbco': [14, 5, 15]},
+ 9: {},
+ 10: {'SmWQqef-j6Q': [10, 15], 'YlKLpQEWILg': [15]},
+ 11: {},
+ 12: {},
+ 13: {'FXj6ELi4BVg': [13, 5, 27, 22, 10],
+      'Rzxr9FeZf1g': [5, 6, 7, 22, 15, 2, 10, 27],
+      'SmWQqef-j6Q': [10, 7, 6, 5, 2, 27, 22, 15],
+      'YlKLpQEWILg': [15, 5, 6],
+      'tL-zwrxVcHw': [7, 22, 6, 5, 10, 15, 2, 27]},
+ 14: {'Rzxr9FeZf1g': [5, 6, 7, 22, 15, 2, 10],
+      'SmWQqef-j6Q': [10, 7, 6, 5, 2, 14, 22, 15],
+      'YlKLpQEWILg': [15, 5, 14, 6],
+      'tL-zwrxVcHw': [7, 22, 6, 5, 10, 15, 2, 14],
+      'vDeue0nmbco': [14, 5, 15]},
+ 15: {},
+ 16: {},
+ 17: {'QgpfNScEd3M': [17, 6, 10, 5, 7, 15],
+      'Rzxr9FeZf1g': [5, 6, 7, 15, 10],
+      'SmWQqef-j6Q': [10, 7, 6, 5, 15],
+      'YlKLpQEWILg': [15, 5, 6],
+      'tL-zwrxVcHw': [7, 17, 6, 5, 10, 15]},
+ 18: {},
+ 19: {},
+ 20: {'QgpfNScEd3M': [20, 6, 10, 5, 15],
+      'Rzxr9FeZf1g': [5, 6, 15, 20, 10],
+      'SmWQqef-j6Q': [10, 6, 5, 15],
+      'YlKLpQEWILg': [15, 5, 6]},
+ 21: {'CTj_xoCuhPU': [7, 22, 15, 2, 10, 4, 6],
+      'Mz11y9Cnnu4': [5, 21, 10, 25, 7, 4],
+      'Rzxr9FeZf1g': [5, 6, 7, 22, 15, 2, 10],
+      'SmWQqef-j6Q': [10, 7, 6, 5, 2, 14, 22, 15],
+      'YlKLpQEWILg': [15, 5, 25, 14, 21, 6],
+      'tL-zwrxVcHw': [7, 22, 6, 5, 10, 15, 2, 14],
+      'vDeue0nmbco': [14, 5, 15],
+      'yHTwktaRa_s': [25, 15, 14, 10, 4, 6]},
+ 22: {'Rzxr9FeZf1g': [5, 6, 7, 22, 15, 10],
+      'SmWQqef-j6Q': [10, 7, 6, 5, 22, 15],
+      'YlKLpQEWILg': [15, 5, 6],
+      'tL-zwrxVcHw': [7, 22, 6, 5, 10, 15]},
+ 23: {'FXj6ELi4BVg': [5, 27, 22, 10],
+      'Rzxr9FeZf1g': [5, 6, 7, 22, 15, 2, 10, 27],
+      'SmWQqef-j6Q': [10, 7, 6, 5, 2, 14, 27, 22, 15],
+      'YlKLpQEWILg': [15, 5, 14, 6],
+      'tL-zwrxVcHw': [7, 22, 6, 5, 23, 10, 15, 2, 14, 27],
+      'vDeue0nmbco': [14, 5, 15]},
+ 24: {},
+ 25: {'CTj_xoCuhPU': [7, 22, 15, 2, 10, 4, 6],
+      'Rzxr9FeZf1g': [5, 6, 7, 22, 15, 2, 10],
+      'SmWQqef-j6Q': [10, 7, 6, 5, 2, 14, 22, 15],
+      'YlKLpQEWILg': [15, 5, 25, 14, 6],
+      'tL-zwrxVcHw': [7, 22, 6, 5, 10, 15, 2, 14],
+      'vDeue0nmbco': [14, 5, 15],
+      'yHTwktaRa_s': [25, 15, 14, 10, 4, 6]},
+ 26: {},
+ 27: {'FXj6ELi4BVg': [5, 27, 22, 10],
+      'Rzxr9FeZf1g': [5, 6, 7, 22, 15, 2, 10, 27],
+      'SmWQqef-j6Q': [10, 7, 6, 5, 2, 27, 22, 15],
+      'YlKLpQEWILg': [15, 5, 6],
+      'tL-zwrxVcHw': [7, 22, 6, 5, 10, 15, 2, 27]},
+ 28: {},
+ 29: {'FXj6ELi4BVg': [5, 27, 22, 10],
+      'Rzxr9FeZf1g': [5, 6, 7, 22, 15, 2, 10, 27],
+      'SmWQqef-j6Q': [10, 7, 6, 5, 2, 27, 22, 15, 29],
+      'YlKLpQEWILg': [15, 5, 6],
+      'ggtkzkoI3eM': [22, 6, 7, 15, 10, 5, 27, 2, 29],
+      'tL-zwrxVcHw': [7, 22, 6, 5, 10, 15, 2, 27]}}
+{2: [('YlKLpQEWILg', 1.6666666666666667),
+     ('SmWQqef-j6Q', 3.0),
+     ('Rzxr9FeZf1g', 3.0),
+     ('tL-zwrxVcHw', 3.0)],
+ 3: [('YlKLpQEWILg', 3.0),
+     ('Rzxr9FeZf1g', 3.0),
+     ('vDeue0nmbco', 3.0),
+     ('55wOg9fe_Ms', 3.625),
+     ('SmWQqef-j6Q', 4.0),
+     ('tL-zwrxVcHw', 4.0)],
+ 5: [('YlKLpQEWILg', 1.0), ('SmWQqef-j6Q', 1.0), ('Rzxr9FeZf1g', 1.0)],
+ 6: [('SmWQqef-j6Q', 1.5),
+     ('Rzxr9FeZf1g', 1.5),
+     ('YlKLpQEWILg', 1.6666666666666667)],
+ 7: [('YlKLpQEWILg', 1.6666666666666667),
+     ('SmWQqef-j6Q', 2.0),
+     ('Rzxr9FeZf1g', 2.0),
+     ('tL-zwrxVcHw', 2.0)],
+ 8: [('Rzxr9FeZf1g', 3.0),
+     ('vDeue0nmbco', 3.0),
+     ('qpjh3qMm2Gs', 3.3333333333333335),
+     ('tL-zwrxVcHw', 3.5),
+     ('YlKLpQEWILg', 4.0),
+     ('SmWQqef-j6Q', 4.0)],
+ 10: [('YlKLpQEWILg', 0.0), ('SmWQqef-j6Q', 0.5)],
+ 13: [('YlKLpQEWILg', 1.6666666666666667),
+      ('SmWQqef-j6Q', 3.5),
+      ('Rzxr9FeZf1g', 3.5),
+      ('tL-zwrxVcHw', 3.5),
+      ('FXj6ELi4BVg', 4.6)],
+ 14: [('YlKLpQEWILg', 3.0),
+      ('Rzxr9FeZf1g', 3.0),
+      ('vDeue0nmbco', 3.0),
+      ('SmWQqef-j6Q', 3.5),
+      ('tL-zwrxVcHw', 3.5)],
+ 17: [('YlKLpQEWILg', 1.6666666666666667),
+      ('SmWQqef-j6Q', 2.0),
+      ('Rzxr9FeZf1g', 2.0),
+      ('tL-zwrxVcHw', 2.5),
+      ('QgpfNScEd3M', 2.5)],
+ 20: [('SmWQqef-j6Q', 1.5),
+      ('YlKLpQEWILg', 1.6666666666666667),
+      ('Rzxr9FeZf1g', 2.0),
+      ('QgpfNScEd3M', 2.0)],
+ 21: [('Rzxr9FeZf1g', 3.0),
+      ('vDeue0nmbco', 3.0),
+      ('SmWQqef-j6Q', 3.5),
+      ('tL-zwrxVcHw', 3.5),
+      ('CTj_xoCuhPU', 3.857142857142857),
+      ('yHTwktaRa_s', 4.666666666666667),
+      ('YlKLpQEWILg', 5.166666666666667),
+      ('Mz11y9Cnnu4', 5.666666666666667)],
+ 22: [('YlKLpQEWILg', 1.6666666666666667),
+      ('SmWQqef-j6Q', 2.5),
+      ('Rzxr9FeZf1g', 2.5),
+      ('tL-zwrxVcHw', 2.5)],
+ 23: [('YlKLpQEWILg', 3.25),
+      ('vDeue0nmbco', 3.3333333333333335),
+      ('Rzxr9FeZf1g', 3.5),
+      ('FXj6ELi4BVg', 3.75),
+      ('SmWQqef-j6Q', 4.0),
+      ('tL-zwrxVcHw', 4.5)],
+ 25: [('Rzxr9FeZf1g', 3.0),
+      ('vDeue0nmbco', 3.0),
+      ('SmWQqef-j6Q', 3.5),
+      ('tL-zwrxVcHw', 3.5),
+      ('CTj_xoCuhPU', 3.857142857142857),
+      ('YlKLpQEWILg', 4.2),
+      ('yHTwktaRa_s', 4.666666666666667)],
+ 27: [('YlKLpQEWILg', 1.6666666666666667),
+      ('SmWQqef-j6Q', 3.5),
+      ('Rzxr9FeZf1g', 3.5),
+      ('tL-zwrxVcHw', 3.5),
+      ('FXj6ELi4BVg', 3.75)],
+ 29: [('YlKLpQEWILg', 1.6666666666666667),
+      ('Rzxr9FeZf1g', 3.5),
+      ('tL-zwrxVcHw', 3.5),
+      ('FXj6ELi4BVg', 3.75),
+      ('SmWQqef-j6Q', 4.0),
+      ('ggtkzkoI3eM', 4.0)]}
+check coverage after prune: 28 26
+not includes {'Fcvgp6gNh6o', '9rNTqCD3N-4'}
+check coverage after prune: 28 28
+not includes set()

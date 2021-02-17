@@ -1,0 +1,546 @@
+Active Borehole Length
+Ambient Air
+Ambient Ground Temperature
+Annual Ground Load
+Antifreeze
+As-Built Drawing
+Auxiliary Heat
+Average Efficiency
+Balance Point Temperature
+Bend
+Bentonite Grout
+Best Practice
+Bin
+Bleed
+Block Load
+Blowers
+Brine
+Buffer Tank
+Building Management System
+Centralized Pumping System
+Circulating Pump(s)
+Closed-Loop System
+Coaxial Heat Exchanger
+Coefficient of Performance
+Coil
+Combination GSHP Unit
+Condenser
+Compressor
+Deep Earth Temperatures
+Degree Day
+Delta P
+Delta T
+Demand (DMD)
+Design Loop Temperatures
+Design Outdoor Temperature
+Design Loads
+Design Temperature, Summer
+Design Temperature, Winter
+Desuperheater
+Dimension Ratio (DR)
+Direct Expansion (DX) Earth-Coupled Heat Pump
+Distributed Pumping System
+Dual Circuit GSHP Unit
+Efficiency
+Energy Efficiency Ratio (EER)
+Energy Loads
+Energy Model
+Emergency Heat
+Entering Water Temperature (EWT)
+Equipment Loads
+Evaporator
+Expansion Valve
+Fan Coil
+Finish Tank
+Flow Center
+Flow Meter
+Flow Rater
+Fluid Factor
+Flush Cart
+Flow Regime
+Flushing Velocity
+Forced Air
+Fossil Fuel System
+Fusion
+Gauge Pressure
+GeoExchange System
+Geo Stab
+Ground Coupled Heat Pump
+GHX Circuit
+Geothermal Heat Pump
+Ground loop
+Ground Heat Exchanger (GHX)
+Ground Loads
+Ground Source Heat Pump (GSHP)
+Grout
+Grouting
+Header
+Heat Energy
+Heat Exchanger
+Heat of extraction (HE)
+Heat of Extraction
+Heat Fusion
+Heat Gain
+Heat Load
+Heat Loss
+Heat Pump
+Heat of rejection (HR)
+Heating, Ventilation and Air-Conditioning System
+Heat Sink
+Heat Source
+Heating Seasonal Performance Factor (HSPF)
+Heat Transfer Resistance
+Horizontal loop
+Hybrid System
+Hydronic
+Inhibitor
+Integrated Design Process (IDP)
+Internal Gains
+Joint
+Laminar Flow
+Latent Cooling Load
+Latent Heat
+Leaving Air Temperature (LAT)
+Leaving Water Temperature (LWT)
+Loop System
+Manual J
+Maximum EWT
+Minimum EWT
+Methanol
+Monitoring System
+Multi-pipe Trench
+Multi-source heat pump
+Non-Pressurized Flow Center
+Open Loop
+P/T Port
+Package System
+Passive Solar
+Percent of Load
+Performance Factor
+Pond Loop
+Positive Displacement Pump
+Power Flushing
+Pressure Drop
+Pressurized Flow Center
+Pressure Rating
+Pump Curve
+Pump and Dump
+Purge Pump
+Racetrack
+Radiant
+Refrigerant
+Return (Air)
+Reversing valve
+Reverse return
+Reynolds number
+Rule of Thumb
+Run Fraction
+Run Time
+Saturated Liquid
+Saturated Vapor
+Saturation Temperature
+Scaling
+Schedule
+Seasonal Energy Efficiency Ratio (SEER)
+Sensible Cooling Load
+Sensible Heat
+Sensible Heat Factor (SHE)
+Series System
+Short Looped
+Site derived renewable fraction (SDRF)
+Site Plan
+Slinky loop
+Solenoid
+Soil/Field Resistance
+Split System
+Stab fittings
+Standing Column Well (SCW)
+Supplemental Heating
+Temperature Lift
+Therm
+Thermal Conductivity
+Thermal Conductivity Test
+Thermal Energy Storage
+Thermally Enhanced Grout
+Throttling Valve
+Ton of Refrigeration
+Total Cooling Load
+Tremie Line
+Turbulent Flow Regime
+Ubend
+Unitary Heat Pump
+Valve, Expansion
+Valve, Reversing
+Variable refrigerant flow
+Vertical loop
+Vorizontal Loop
+Water Source Heat Pump
+Water Source Heat Pump, Closed Loop
+Water Source Heat Pump, Open Loop
+Water to Air
+Water to Water
+Zone Load
+Active Borehole Length
+Ambient Air
+Ambient Ground Temperature
+Annual Ground Load
+Antifreeze
+As-Built Drawing
+Auxiliary Heat
+Average Efficiency
+Balance Point Temperature
+Bend
+Bentonite Grout
+Best Practice
+Bin
+Bleed
+Block Load
+Blowers
+Brine
+Buffer Tank
+Building Management System
+Centralized Pumping System
+Circulating Pump(s)
+Closed-Loop System
+Coaxial Heat Exchanger
+Coefficient of Performance
+Coil
+Combination GSHP Unit
+Condenser
+Compressor
+Deep Earth Temperatures
+Degree Day
+Delta P
+Delta T
+Demand (DMD)
+Design Loop Temperatures
+Design Outdoor Temperature
+Design Loads
+Design Temperature, Summer
+Design Temperature, Winter
+Desuperheater
+Dimension Ratio (DR)
+Direct Expansion (DX) Earth-Coupled Heat Pump
+Distributed Pumping System
+Dual Circuit GSHP Unit
+Efficiency
+Energy Efficiency Ratio (EER)
+Energy Loads
+Energy Model
+Emergency Heat
+Entering Water Temperature (EWT)
+Equipment Loads
+Evaporator
+Expansion Valve
+Fan Coil
+Finish Tank
+Flow Center
+Flow Meter
+Flow Rater
+Fluid Factor
+Flush Cart
+Flow Regime
+Flushing Velocity
+Forced Air
+Fossil Fuel System
+Fusion
+Gauge Pressure
+GeoExchange System
+Geo Stab
+Ground Coupled Heat Pump
+GHX Circuit
+Geothermal Heat Pump
+Ground loop
+Ground Heat Exchanger (GHX)
+Ground Loads
+Ground Source Heat Pump (GSHP)
+Grout
+Grouting
+Header
+Heat Energy
+Heat Exchanger
+Heat of extraction (HE)
+Heat of Extraction
+Heat Fusion
+Heat Gain
+Heat Load
+Heat Loss
+Heat Pump
+Heat of rejection (HR)
+Heating, Ventilation and Air-Conditioning System
+Heat Sink
+Heat Source
+Heating Seasonal Performance Factor (HSPF)
+Heat Transfer Resistance
+Horizontal loop
+Hybrid System
+Hydronic
+Inhibitor
+Integrated Design Process (IDP)
+Internal Gains
+Joint
+Laminar Flow
+Latent Cooling Load
+Latent Heat
+Leaving Air Temperature (LAT)
+Leaving Water Temperature (LWT)
+Loop System
+Manual J
+Maximum EWT
+Minimum EWT
+Methanol
+Monitoring System
+Multi-pipe Trench
+Multi-source heat pump
+Non-Pressurized Flow Center
+Open Loop
+P/T Port
+Package System
+Passive Solar
+Percent of Load
+Performance Factor
+Pond Loop
+Positive Displacement Pump
+Power Flushing
+Pressure Drop
+Pressurized Flow Center
+Pressure Rating
+Pump Curve
+Pump and Dump
+Purge Pump
+Racetrack
+Radiant
+Refrigerant
+Return (Air)
+Reversing valve
+Reverse return
+Reynolds number
+Rule of Thumb
+Run Fraction
+Run Time
+Saturated Liquid
+Saturated Vapor
+Saturation Temperature
+Scaling
+Schedule
+Seasonal Energy Efficiency Ratio (SEER)
+Sensible Cooling Load
+Sensible Heat
+Sensible Heat Factor (SHE)
+Series System
+Short Looped
+Site derived renewable fraction (SDRF)
+Site Plan
+Slinky loop
+Solenoid
+Soil/Field Resistance
+Split System
+Stab fittings
+Standing Column Well (SCW)
+Supplemental Heating
+Temperature Lift
+Therm
+Thermal Conductivity
+Thermal Conductivity Test
+Thermal Energy Storage
+Thermally Enhanced Grout
+Throttling Valve
+Ton of Refrigeration
+Total Cooling Load
+Tremie Line
+Turbulent Flow Regime
+Ubend
+Unitary Heat Pump
+Valve, Expansion
+Valve, Reversing
+Variable refrigerant flow
+Vertical loop
+Vorizontal Loop
+Water Source Heat Pump
+Water Source Heat Pump, Closed Loop
+Water Source Heat Pump, Open Loop
+Water to Air
+Water to Water
+Zone Load
+Active Borehole Length
+Ambient Air
+Ambient Ground Temperature
+Annual Ground Load
+Antifreeze
+As-Built Drawing
+Auxiliary Heat
+Average Efficiency
+Balance Point Temperature
+Bend
+Bentonite Grout
+Best Practice
+Bin
+Bleed
+Block Load
+Blowers
+Brine
+Buffer Tank
+Building Management System
+Centralized Pumping System
+Circulating Pump(s)
+Closed-Loop System
+Coaxial Heat Exchanger
+Coefficient of Performance
+Coil
+Combination GSHP Unit
+Condenser
+Compressor
+Deep Earth Temperatures
+Degree Day
+Delta P
+Delta T
+Demand (DMD)
+Design Loop Temperatures
+Design Outdoor Temperature
+Design Loads
+Design Temperature, Summer
+Design Temperature, Winter
+Desuperheater
+Dimension Ratio (DR)
+Direct Expansion (DX) Earth-Coupled Heat Pump
+Distributed Pumping System
+Dual Circuit GSHP Unit
+Efficiency
+Energy Efficiency Ratio (EER)
+Energy Loads
+Energy Model
+Emergency Heat
+Entering Water Temperature (EWT)
+Equipment Loads
+Evaporator
+Expansion Valve
+Fan Coil
+Finish Tank
+Flow Center
+Flow Meter
+Flow Rater
+Fluid Factor
+Flush Cart
+Flow Regime
+Flushing Velocity
+Forced Air
+Fossil Fuel System
+Fusion
+Gauge Pressure
+GeoExchange System
+Geo Stab
+Ground Coupled Heat Pump
+GHX Circuit
+Geothermal Heat Pump
+Ground loop
+Ground Heat Exchanger (GHX)
+Ground Loads
+Ground Source Heat Pump (GSHP)
+Grout
+Grouting
+Header
+Heat Energy
+Heat Exchanger
+Heat of extraction (HE)
+Heat of Extraction
+Heat Fusion
+Heat Gain
+Heat Load
+Heat Loss
+Heat Pump
+Heat of rejection (HR)
+Heating, Ventilation and Air-Conditioning System
+Heat Sink
+Heat Source
+Heating Seasonal Performance Factor (HSPF)
+Heat Transfer Resistance
+Horizontal loop
+Hybrid System
+Hydronic
+Inhibitor
+Integrated Design Process (IDP)
+Internal Gains
+Joint
+Laminar Flow
+Latent Cooling Load
+Latent Heat
+Leaving Air Temperature (LAT)
+Leaving Water Temperature (LWT)
+Loop System
+Manual J
+Maximum EWT
+Minimum EWT
+Methanol
+Monitoring System
+Multi-pipe Trench
+Multi-source heat pump
+Non-Pressurized Flow Center
+Open Loop
+P/T Port
+Package System
+Passive Solar
+Percent of Load
+Performance Factor
+Pond Loop
+Positive Displacement Pump
+Power Flushing
+Pressure Drop
+Pressurized Flow Center
+Pressure Rating
+Pump Curve
+Pump and Dump
+Purge Pump
+Racetrack
+Radiant
+Refrigerant
+Return (Air)
+Reversing valve
+Reverse return
+Reynolds number
+Rule of Thumb
+Run Fraction
+Run Time
+Saturated Liquid
+Saturated Vapor
+Saturation Temperature
+Scaling
+Schedule
+Seasonal Energy Efficiency Ratio (SEER)
+Sensible Cooling Load
+Sensible Heat
+Sensible Heat Factor (SHE)
+Series System
+Short Looped
+Site derived renewable fraction (SDRF)
+Site Plan
+Slinky loop
+Solenoid
+Soil/Field Resistance
+Split System
+Stab fittings
+Standing Column Well (SCW)
+Supplemental Heating
+Temperature Lift
+Therm
+Thermal Conductivity
+Thermal Conductivity Test
+Thermal Energy Storage
+Thermally Enhanced Grout
+Throttling Valve
+Ton of Refrigeration
+Total Cooling Load
+Tremie Line
+Turbulent Flow Regime
+Ubend
+Unitary Heat Pump
+Valve, Expansion
+Valve, Reversing
+Variable refrigerant flow
+Vertical loop
+Vorizontal Loop
+Water Source Heat Pump
+Water Source Heat Pump, Closed Loop
+Water Source Heat Pump, Open Loop
+Water to Air
+Water to Water
+Zone Load

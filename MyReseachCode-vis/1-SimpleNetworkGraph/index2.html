@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<!--refer to : http://bl.ocks.org/jose187/4733747  -->
+<script src="https://d3js.org/d3.v2.min.js"></script>
+<style>
+
+.link {
+  stroke: #aaa;
+}
+
+.node text {
+stroke:#333;
+/* cursos:pointer; */
+}
+
+.node circle{
+stroke:#fff;
+stroke-width:1px;
+fill:#555;
+}
+
+</style>
+<body>
+<script>
+
+
+
+var toggle = 0;
+var width = 1500,
+    height = 800
+//var width = 960,
+//    height = 500
+
+var svg = d3.select("body").append("svg")
+    .attr("width", width)
+    .attr("height", height);
+
+var force = d3.layout.force()
+    .gravity(.05)
+    .distance(100)
+    .charge(-100)
+    .size([width, height]);
+
+
+var defs = svg.append("defs");  
+var arrowMarker = defs.append('marker')
+    .attr({'id':'arrowhead',
+            'viewBox':'0 -5 10 10',
+            'refX':25,
+            'refY':0,
+            //'markerUnits':'strokeWidth',
+            'orient':'auto',
+            'markerWidth':6,
+            'markerHeight':6,
+            'xoverflow':'visible'})
+    .append('svg:path')
+        .attr('d', 'M 0,-5 L 10 ,0 L 0,5')
+        .attr('fill', '#5b5b5b') //#ccc
+        .attr('stroke','#5b5b5b');
+
+
+d3.json("graphFile.json", function(json) {
+  force
+      .nodes(json.concept_relationship.nodes)
+      .links(json.concept_relationship.links)
+      .linkDistance( function(d) { return (1/((d.similarity+1)))*300; })
+      //.linkDistance(300) //*
+      //.linkStrength(0.1) //*
+      .start();
+
+    // for BFS
+    var childNodeDict = {};
+    json.concept_relationship.links.forEach(function (d) {
+        if(d.prerequisite!=null){
+            if(!(d.target.index in childNodeDict)){childNodeDict[d.target.index]=[d.source.index]}
+            else{childNodeDict[d.target.index].push(d.source.index)}
+        }
+        else{
+            if(!(d.target.index in childNodeDict)){childNodeDict[d.target.index]=[]}
+        }
+    });
+    console.log("childNodeDict",childNodeDict);
+
+    //circle size
+    var ScaleDotSize = d3.scale.linear()
+      .domain([0,70])//Math.max.apply(Math,recorditems.map(function(o){return o.cnt;}))
+      .range([3,4]);
+    
+    // BFS
+    function BFS(startnode) {
+        var BFSVistedRecord={};
+        for (item in childNodeDict){
+            BFSVistedRecord[item] = false;
+        }
+        output = [];
+        let queue = [];
+        queue.unshift(startnode);
+        queueLoop: while (queue.length) {
+            let node = queue.shift();
+            if (BFSVistedRecord[node]==false) {
+                BFSVistedRecord[node] = true;
+                output.push(node);
+            }
+
+            childNodeDict[node].forEach (function(n) {
+                if (BFSVistedRecord[n]== false ) {
+                    BFSVistedRecord[n] = true;
+                    output.push(n);
+                    queue.unshift(n);
+                }
+            });
+        }
+        console.log("BFSoutput",output);
+        return output;
+    }
+    // console.log("output",BFS(0));
+    // add 
+    var linkedByIndex = {};
+    for (i = 0; i < json.concept_relationship.nodes.length; i++) {
+        linkedByIndex[i + "," + i] = 1;
+    };
+    json.concept_relationship.links.forEach(function (d) {
+        if(d.prerequisite!=null){
+            linkedByIndex[d.source.index + "," + d.target.index] = 1;
+        }
+    });
+  
+    function neighboring(a, b) {
+        return linkedByIndex[a.index + "," + b.index];
+        // if (a.index in linkMatrix){
+        //     if(linkMatrix[a.index].includes(b.index)){return 1}
+        // }
+        // return 0;
+    }
+    function isConnected(o, d) {
+        console.log("check connected",o,d);
+        // if (o in BFS(d)){return 1}
+        // else {return 0 };
+    }
+    var link = svg.selectAll(".link")
+      .data(json.concept_relationship.links)
+    .enter().append("line")
+      .attr('marker-end',function(d) {
+          if(d.prerequisite!=null){return 'url(#arrowhead)' }
+      })
+    .attr('opacity',function(d) {
+          if(d.prerequisite==null){return '1' }//0.1
+          else{return '1'}
+      })
+      .style("stroke","#ccc")
+      .style("pointer-events", "none")
+      .attr("class", "link")
+      .style("stroke-width", function(d) { return (d.similarity); });
+    //.style("stroke-width", function(d) { return Math.sqrt(d.weight); });
+
+  var node = svg.selectAll(".node")
+      .data(json.concept_relationship.nodes)
+    .enter().append("g")
+      .attr("class", "node")
+      .call(force.drag)
+      .on('dblclick',connectedNodes);
+
+  node.append("circle")
+    //   .attr("r","5");
+    .attr("r",function(d){return ScaleDotSize(d.count)});
+
+  node.append("text")
+      .attr("dx", 10)
+      .attr("dy", ".35em")
+      .style("font-size",'14px')
+      .text(function(d) { return d.name });
+
+  force.on("tick", function() {
+    link.attr("x1", function(d) { return d.source.x; })
+        .attr("y1", function(d) { return d.source.y; })
+        .attr("x2", function(d) { return d.target.x; })
+        .attr("y2", function(d) { return d.target.y; });
+
+    node.attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
+  });
+  
+  function connectedNodes() {
+    if (toggle == 0) {
+        //Reduce the opacity of all but the neighbouring nodes
+        d = d3.select(this).node().__data__;
+        console.log(d.name,d.videos_id);
+        d_neighbors = BFS(d.index);
+        // console.log("d_neighbors",d_neighbors);
+        node.style("opacity", function (o) {
+            // console.log("click",d.index,d_neighbors);
+            return d_neighbors.includes(o.index)? 1:0.1;
+        });
+        link.style("opacity", function (o) {
+            return (d_neighbors.includes(o.source.index) & d_neighbors.includes(o.target.index) & o.prerequisite!=null)? 1:0.1;
+        });
+        //Reduce the op
+        toggle = 1;
+    } else {
+        //Put them back to opacity=1
+        node.style("opacity", 1);
+        // link.style("opacity", 1);
+        link.style('opacity',function(d) {
+          if(d.prerequisite==null){return '1' }//0.1
+          else{return '1'}
+      });
+        toggle = 0;
+    }
+}
+});
+
+
+</script>

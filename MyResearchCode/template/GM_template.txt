@@ -1,0 +1,101 @@
+crops
+Maize	
+MON 810
+MON 863
+Potato	
+Amflora
+Rice	
+Golden rice
+Soybean	
+Roundup ready soy
+beanVistive Gold
+Tomato	
+Flavr Savr
+Cotton	
+Bt cotton
+Apple
+Arabidopsis
+Brinjal
+Canola
+Papaya
+Rose
+SmartStax
+Sugar beet
+Tobacco
+Trees
+Wheat
+Mustard
+Animals	
+Mammals	
+Mouse 
+Knockout mouse
+Oncomouse
+Enviropig
+Herman the Bull
+Knockout rat
+InsectsFish 
+Glofish
+Salmon
+Birds
+Frogs
+Bacteria
+viruses	
+Ice-minus bacteria
+Hepatitis B vaccine
+Oncolytic virus
+Processes	
+Inserting DNA	
+Agrobacteria
+Biolistics
+Electroporation
+Genetic transduction
+Lipofection
+Microinjection
+Somatic cell nuclear transfer
+Transfection
+Types	
+Recombinant DNA
+Transgenesis
+Cisgenesis
+Uses	
+In agriculture	
+Genetically modified food
+Controversies
+Pharming
+Companies
+BASF
+Bayer
+Dow AgroSciences
+DuPont Pioneer
+Monsanto
+Syngenta
+In humans and diagnostics	
+Gene therapy
+Genetic enhancement
+Genetic testing
+In research	
+Gene knockout
+Gene knockdown
+Gene targeting
+Related articles	
+Transgene
+Detection of genetically modified organisms
+Genetic pollution
+Genetics in fiction
+Human enhancement
+Reverse transfection
+Transhumanism
+Genetic use restriction technology
+Regulation	
+Cartagena Protocol on Biosafety
+Geography	
+Europe
+Africa
+Asia
+North America (US)
+South America
+Oceania
+Similar fields	
+Synthetic biology
+Cloning
+Stem cell research

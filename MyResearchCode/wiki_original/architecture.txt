@@ -1,0 +1,165 @@
+﻿Abacus
+Accolade
+Aisle
+Apron
+Apse
+Arcade
+Arch
+Architrave
+Arris
+Arrowslit
+Articulation
+Ashlar
+Atlas
+Atrium
+Attic
+Bahut
+Balconet
+Ball flower
+Baluster
+Bar-stayed girder
+Bargeboard
+Barrel vault
+Bartizan
+Basement
+Basilica
+Batement Lights (architecture)
+Batter (walls)
+Battlement
+Bays
+Bay window
+Belfry
+Boss
+Bossage
+Bond
+Boutant
+Bracket
+Bressummer
+Brise soleil
+Bullseye window
+Bulwark
+Buttress
+Cancellus
+Cantilever
+Capital
+Caryatid
+Casement window
+Cella
+Chancel
+Chandrashala
+Chimera
+Chimney
+Cinque cento
+Circulation
+Coffer
+Column
+Compluvium
+Coping
+Corbel
+Corinthian order
+Cornice
+Cresting
+Crypto-porticus
+Cupola
+Diaulos
+Dikka
+Distyle_in_antis
+Doric order
+Dormer
+impost block
+Entablature
+Entasis
+Facade
+Fanlight
+Fascia
+Flushwork
+Flying buttress
+Gable
+Gadrooning
+Galletting
+Gambrel
+Gargoyle
+Gazebo
+Geison
+Geodesic Dome
+Hip roof
+Imperial roof decoration
+Ionic order
+Jagati
+Jettying
+Keystone
+Latticework
+Light
+Lightning Rod
+Lintel
+Loculus
+Loggia
+Lunette
+Mandapa
+Maqsurah
+Mansard roof
+Marriage stone
+Mascaron
+Meander
+Mihrab
+Minaret
+Modillion
+Molding
+Mullion
+Muqarnas
+Narthex
+Nave
+Newel
+Niche
+Oculus
+Onion dome
+Order
+Orthostates
+Parapet
+Parclose screen
+Pavilion
+Pedestal
+Pediment
+Pelmet
+Pendentive
+Peripteral
+Peristasis
+Peristyle
+Phiale
+Piano nobile
+Pier
+Pilaster
+Plate Girder
+Plinth
+Poppyheads
+Portcullis
+Porte-cochère
+Portico
+Prostyle
+Pseudodipteral
+Quoin
+Rake
+Rib vault
+Ridge board
+Roof comb
+Rotunda
+Sash
+Screens passage
+Scroll
+Spandrel
+Spire
+Springer
+Squinch
+Squint
+Sunburst
+Timber framing
+Trabeated Arch
+Tracery
+Truss
+Turret
+Tympanum
+Undercroft
+Ventilation shaft
+Vierendeel Truss
+Volute
+Voussoir
